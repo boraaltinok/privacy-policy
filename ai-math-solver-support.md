@@ -1,6 +1,6 @@
-# Math Solver Support
+# AI Math Support
 
-Welcome to Math Solver support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
+Welcome to AI Math support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
 
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)

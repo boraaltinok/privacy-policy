@@ -1,6 +1,6 @@
-# AI Math Support
+# AI Answer App Support
 
-Welcome to AI Math support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
+Welcome to AI Answer App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
 
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -55,4 +55,4 @@ For further assistance or to ask any specific questions not covered here, please
 
 We highly value your feedback and are always looking for ways to improve Math Solver. If you have any suggestions or feature requests, please email us at boraaltinok70@gmail.com. Your input helps us serve you better and create an app that meets your needs.
 
-Thank you for choosing Math Solver! We hope you enjoy making your study sessions more efficient and enjoyable.
+Thank you for choosing AI Answer App! We hope you enjoy making your study sessions more efficient and enjoyable.

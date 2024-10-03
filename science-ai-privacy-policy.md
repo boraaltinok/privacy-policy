@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the Science Helper app (hereby referred to as "Application") for mobile devices that was created by Bora Altınok (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the Photoscience  app (hereby referred to as "Application") for mobile devices that was created by Bora Altınok (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 ## Information Collection and Use
 

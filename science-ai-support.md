@@ -1,6 +1,6 @@
 # Science Helper App Support
 
-Welcome to Science Helper App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
+Welcome to Photoscience App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
 
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -10,7 +10,7 @@ Welcome to Science Helper App support! Here, you'll find helpful information to 
 
 ## Frequently Asked Questions
 
-### How do I ask a science question with Science Helper?
+### How do I ask a science question with Photoscience?
 To ask a science question and get answers, follow these steps:
 1. Open Science Helper App.
 2. Tap the first icon on the navbar.

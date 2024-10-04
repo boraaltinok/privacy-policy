@@ -24,11 +24,6 @@ To type a question directly and get answers, follow these steps:
 3. Type your question in the Messaging Screen.
 4. Our AI tutor will process and answer your question.
 
-### How can I view my previous chats?
-To view or continue your previous chats, follow these steps:
-1. Open Science Helper App.
-2. Tap the recent chats icon on the navbar.
-3. Select a previous chat to view or continue the conversation.
 
 ## Troubleshooting Guides
 

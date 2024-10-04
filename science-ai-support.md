@@ -1,4 +1,4 @@
-# Science Helper App Support
+# Photoscience App Support
 
 Welcome to Photoscience App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
 

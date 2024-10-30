@@ -10,16 +10,16 @@ Welcome to Physics Solver App support! Here, you'll find helpful information to 
 
 ## Frequently Asked Questions
 
-### How do I ask a science question with Photoscience?
+### How do I ask a science question with Physics Solver?
 To ask a science question and get answers, follow these steps:
-1. Open Science Helper App.
+1. Open the App.
 2. Tap the first icon on the navbar.
 3. Select and crop your question using the Camera Screen, or type your question directly in the Messaging Screen.
 4. Our AI tutor will process and answer your question.
 
 ### How can I type a question directly?
 To type a question directly and get answers, follow these steps:
-1. Open Science Helper App.
+1. Open Physics Solver App.
 2. Tap the chat bubble icon on the navbar.
 3. Type your question in the Messaging Screen.
 4. Our AI tutor will process and answer your question.
@@ -44,6 +44,6 @@ For further assistance or to ask any specific questions not covered here, please
 
 ## Feedback and Feature Requests
 
-We highly value your feedback and are always looking for ways to improve Science Helper. If you have any suggestions or feature requests, please email us at boraaltinok70@gmail.com. Your input helps us serve you better and create an app that meets your needs.
+We highly value your feedback and are always looking for ways to improve Physics Solver. If you have any suggestions or feature requests, please email us at boraaltinok70@gmail.com. Your input helps us serve you better and create an app that meets your needs.
 
-Thank you for choosing Science Helper! We hope you enjoy making your study sessions more efficient and enjoyable.
+Thank you for choosing Physics Solver! We hope you enjoy making your study sessions more efficient and enjoyable.

@@ -1,4 +1,4 @@
-# Photoscience App Support
+# Physics Solver App Support
 
 Welcome to Physics Solver App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
 

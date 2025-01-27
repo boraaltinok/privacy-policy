@@ -46,7 +46,7 @@ For a better experience, we may require you to provide certain personally identi
 - We **only** transmit your images to the AI Provider to provide the feature you specifically requested.
 
 ### **2.4 Retention and Deletion of Face Data**
-- **Local Deletion**: Images remain on your device unless you remove them or uninstall the Application.  
+- **Local Deletion**: Images remain on your device unless you remove them.
 - **AI Provider Deletion**: The AI Provider deletes your face images after a short retention period (up to 30 days), per its data policies. If you have specific concerns, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com), and we will assist where possible.
 
 ---

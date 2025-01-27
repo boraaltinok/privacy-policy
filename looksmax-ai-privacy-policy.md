@@ -1,76 +1,128 @@
-**Privacy Policy**
+# **Privacy Policy**
 
-This privacy policy applies to the Looksmax AI app (hereby referred to as "Application") for mobile devices that was created by Bora Altınok (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This Privacy Policy applies to the Looksmax AI mobile application (the “Application”) created by **Bora Altınok** (“Service Provider”). The Application is offered as a Commercial service and is intended for use **“AS IS.”**
 
-**Information Collection and Use**
+By using the Application, you consent to our collection, use, and disclosure of information as described in this policy. This Privacy Policy may be updated from time to time, and we encourage you to review it periodically. Your continued use of the Application constitutes acceptance of any modifications to this policy.
 
-The Application collects information when you download and use it. This information may include information such as
+---
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+## **1. Information Collection and Use**
 
-The Application does not gather precise information about the location of your mobile device.
+### **1.1 Automatically Collected Information**
+When you download and use the Application, certain data may be automatically collected, such as:
+- **IP Address** (Internet Protocol address)
+- **Device operating system**
+- **Pages/screens visited within the Application**
+- **Time spent on each page/screen and dates/times of visits**
+  
+We may use this automatically collected information for analytics, troubleshooting, and to improve the functionality of the Application.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### **1.2 Location Data**
+The Application does **not** gather **precise** information about the location of your mobile device. However, it may collect your approximate location for the following:
+- **Geolocation Services**: To provide features such as personalized content, location-based recommendations, or location-based services.  
+- **Analytics and Improvements**: Aggregated and anonymized location data helps us analyze user behavior and improve overall performance.  
+- **Third-Party Services**: We may occasionally share anonymized location data with external services for enhancing and optimizing our offerings.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+### **1.3 User-Provided Information**
+For a better experience, we may require you to provide certain personally identifiable information, including (but not limited to) userId or text inputs. This information will be retained and used as described in this policy.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+---
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to userId, text. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+## **2. Face Data and AI-Based Analysis**
 
-**Third Party Access**
+### **2.1 Collection and Local Storage of Images**
+- When you request a **face rating** or **analysis** within the Application, you may provide us with a selfie or photo containing your face.  
+- We **do not** store these images on our own servers. Instead, the images are temporarily stored on your device for you to view and manage locally.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+### **2.2 AI Processing by a Third-Party Service**
+- The Application leverages a **third-party AI service** (“AI Provider”) to generate face ratings or other visual insights.  
+- **User-Initiated**: Your face image is only sent to the AI Provider when you **actively request** a face rating or analysis.  
+- **Transmission**: The photo is transmitted **securely** (HTTPS) to the AI Provider, which uses it **solely** to fulfill your requested analysis.  
+- **Short-Term Retention**: The AI Provider may retain the image briefly (typically up to 30 days) to monitor for abuse and maintain system integrity, after which it is deleted.  
+- **No Facial Recognition**: We do **not** perform or facilitate facial recognition to identify individuals; the analysis focuses on aesthetic or visual metrics only.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+### **2.3 No Sale or Extended Use of Face Data**
+- We do **not** sell, lease, or share your face images or derived face data with any third parties for their independent use.  
+- We **only** transmit your images to the AI Provider to provide the feature you specifically requested.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+### **2.4 Retention and Deletion of Face Data**
+- **Local Deletion**: Images remain on your device unless you remove them or uninstall the Application.  
+- **AI Provider Deletion**: The AI Provider deletes your face images after a short retention period (up to 30 days), per its data policies. If you have specific concerns, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com), and we will assist where possible.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+---
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## **3. Third-Party Access**
 
-**Opt-Out Rights**
+### **3.1 Aggregated, Anonymized Data**
+We may periodically share aggregated, anonymized data with external services to improve the Application and our service. Such data does not identify you personally.
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+### **3.2 Third-Party Services**
+Please note that the Application utilizes certain third-party services that have their own Privacy Policies regarding data handling. Below are links to these third-party service providers’ Privacy Policies:
 
-**Data Retention Policy**
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [RevenueCat](https://www.revenuecat.com/privacy)
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at boraaltinok70@gmail.com and they will respond in a reasonable time.
+### **3.3 Additional Disclosure**
+We may disclose user-provided and automatically collected information:
+- As required by law, such as to comply with a subpoena or similar legal process.  
+- When we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request.  
+- To trusted service providers who work on our behalf and agree to adhere to the rules set forth in this Privacy Policy.
 
-**Children**
+---
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+## **4. Opt-Out Rights**
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (boraaltinok70@gmail.com) so that they will be able to take the necessary actions.
+You can stop all collection of information by the Application easily by uninstalling it. Use the standard uninstall processes available on your mobile device or via the mobile application marketplace.
 
-**Security**
+---
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## **5. Data Retention Policy**
 
-**Changes**
+We retain user-provided data as long as you use the Application and for a reasonable time thereafter. This includes:
+- **User-Provided Information**: If you’d like us to delete data you have provided via the Application, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com). We will respond within a reasonable timeframe.  
+- **Face Data**: Refer to [Section 2.4](#24-retention-and-deletion-of-face-data) for specific details on face data retention and deletion.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+---
 
-This privacy policy is effective as of 2024-07-03
+## **6. Children**
 
-**Your Consent**
+We do not knowingly collect personal information from children under 13 years of age. The Application does not address anyone under the age of 13. If you are a parent or guardian and become aware that your child has provided personal information, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com), and we will take necessary actions to remove that information from our servers.
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+---
 
-**Contact Us**
+## **7. Security**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at boraaltinok70@gmail.com.
+We take reasonable measures (physical, electronic, and procedural safeguards) to protect information under our control from unauthorized access or disclosure. Any transmissions to third-party AI services or analytics providers are encrypted via secure connections (HTTPS).
 
-* * *
+---
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## **8. Changes to This Privacy Policy**
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes by posting the new Privacy Policy on this page, and we will update the “Last Updated” date. Please review this Privacy Policy periodically for updates. Continued use of the Application after changes are posted constitutes your acceptance of those changes.
+
+---
+
+## **9. Transfer or Assignment**
+
+We may share or transfer your information in connection with, or during negotiations of, **any merger, sale of company assets, financing, or acquisition of all or a portion of our business** to another company. In such an event, your personal information (including face data, if any is still retained) may be among the assets transferred. The acquiring company’s use of your personal information will be governed by the terms of this Privacy Policy unless otherwise notified.
+
+---
+
+## **10. Your Consent**
+
+By using the Application, you consent to the processing of your information as described in this Privacy Policy, now and as amended by us.
+
+---
+
+## **11. Contact Us**
+
+If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us via email:
+
+- **Name**: Bora Altınok  
+- **Email**: [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com)
+
+**Last Updated**: *27/01/2025*
+
+---
+

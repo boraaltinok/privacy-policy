@@ -1,77 +1,50 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the Ghost Writer: Lyric Generator app (hereby referred to as "Application") for mobile devices that was created by NEXTLINE YAZILIM LİMİTED ŞİRKETİ (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+_Last updated: 2025-02-14_
 
-**Information Collection and Use**
+Thank you for using **Ghost Writer: Lyric Generator** (“Application”). This Privacy Policy explains how NEXTLINE YAZILIM LİMİTED ŞİRKETİ (“Service Provider”, “we”, or “us”) collects, uses, and protects your information when you use our Application.
 
-The Application collects information when you download and use it. This information may include information such as
+## 1. Information We Collect
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+### Automatically Collected Information
+When you use our Application, we automatically collect certain information about your device and usage, including:
+- **IP Address:** Your device’s Internet Protocol address.
+- **Usage Data:** Information such as the pages you visit, the time and date of your visit, the time spent on pages, and overall interaction with the Application.
+- **Device Information:** Details about your device, including the operating system and device type.
 
-The Application does not gather precise information about the location of your mobile device.
+### Location Information
+The Application may collect approximate location information (not precise GPS data) based on your device settings. This helps us provide location-based features and improve our analytics.
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+### User-Provided Information
+For functionality like saving your generated lyrics in “My Lyrics,” we use an anonymous user ID via Firebase sign-in. This ID is used solely to personalize your experience and securely store your content.
 
-*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+## 2. How We Use Your Information
+We use the collected data to:
+- Enhance and personalize your experience.
+- Provide, maintain, and improve our services.
+- Analyze usage patterns to improve functionality.
+- Communicate important updates, including changes to this Privacy Policy.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+## 3. Third-Party Services
+Our Application integrates with third-party services. We share only aggregated or anonymized data with these providers:
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+- [RevenueCat](https://www.revenuecat.com/privacy)
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to userId. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+Please review their respective privacy policies for more details on how they handle your information.
 
-**Third Party Access**
+## 4. Data Retention
+We retain your information for as long as you use the Application and for a reasonable period thereafter. If you wish to request deletion of your data, please contact us at [support@nextline.software](mailto:support@nextline.software).
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## 5. Security
+We take reasonable measures to protect your data from unauthorized access or disclosure. However, no security system is perfect, and we cannot guarantee complete security.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+## 6. Children's Privacy
+Our Application is not intended for children under 13. We do not knowingly collect data from children under 13. If you believe we have inadvertently collected such information, please contact us immediately so we can take appropriate action.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+## 7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and your continued use of the Application after any modifications will signify your acceptance of the updated terms.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
-
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-**Opt-Out Rights**
-
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-**Data Retention Policy**
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at support@nextline.software and they will respond in a reasonable time.
-
-**Children**
-
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
-
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@nextline.software) so that they will be able to take the necessary actions.
-
-**Security**
-
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
-
-**Changes**
-
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
-
-This privacy policy is effective as of 2025-02-14
-
-**Your Consent**
-
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@nextline.software.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+## 8. Contact Us
+If you have any questions about this Privacy Policy or our data practices, please contact us at [support@nextline.software](mailto:support@nextline.software).

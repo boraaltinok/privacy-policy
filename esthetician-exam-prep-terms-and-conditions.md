@@ -1,6 +1,6 @@
 **Terms & Conditions**  
 
-These terms and conditions applies to the Esthetician Exam Prep for 2024 app (hereby referred to as "Application") for mobile devices that was created by Bora Atınok (hereby referred to as "Service Provider") as a Commercial service.
+These terms and conditions applies to the Esthetician Exam Prep for 2025 app (hereby referred to as "Application") for mobile devices that was created by Bora Atınok (hereby referred to as "Service Provider") as a Commercial service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
@@ -29,11 +29,11 @@ The Service Provider may wish to update the application at some point. The appli
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2024-08-19
+These terms and conditions are effective as of 2025-08-19
 
 **Contact Us**
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at boraaltinok70@gmail.com.
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support@nextline.software.
 
 * * *
 

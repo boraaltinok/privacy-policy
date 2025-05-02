@@ -1,6 +1,8 @@
-# AI Answer App Support
+# AI Math Solver - Support
 
-Welcome to AI Answer App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
+**Publisher:** NEXTLINE YAZILIM LİMİTED ŞİRKETİ  
+**Support Email:** support@nextline.software  
+**Last updated:** May 2, 2025 
 
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)
@@ -53,6 +55,6 @@ For further assistance or to ask any specific questions not covered here, please
 
 ## Feedback and Feature Requests
 
-We highly value your feedback and are always looking for ways to improve Math Solver. If you have any suggestions or feature requests, please email us at boraaltinok70@gmail.com. Your input helps us serve you better and create an app that meets your needs.
+We highly value your feedback and are always looking for ways to improve Math Solver. If you have any suggestions or feature requests, please email us at support@nextline.software Your input helps us serve you better and create an app that meets your needs.
 
-Thank you for choosing AI Answer App! We hope you enjoy making your study sessions more efficient and enjoyable.
+Thank you for choosing us! We hope you enjoy making your study sessions more efficient and enjoyable.

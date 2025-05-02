@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-This Privacy Policy applies to the Looksmax AI mobile application (the “Application”) created by **Bora Altınok** (“Service Provider”). The Application is offered as a Commercial service and is intended for use **“AS IS.”**
+This Privacy Policy applies to the Looksmax AI mobile application (the “Application”) created by **NEXTLINE YAZILIM LİMİTED ŞİRKETİ** (“Service Provider”). The Application is offered as a Commercial service and is intended for use **“AS IS.”**
 
 By using the Application, you consent to our collection, use, and disclosure of information as described in this policy. This Privacy Policy may be updated from time to time, and we encourage you to review it periodically. Your continued use of the Application constitutes acceptance of any modifications to this policy.
 
@@ -47,7 +47,7 @@ For a better experience, we may require you to provide certain personally identi
 
 ### **2.4 Retention and Deletion of Face Data**
 - **Local Deletion**: Images remain on your device unless you remove them.
-- **AI Provider Deletion**: The AI Provider deletes your face images after a short retention period (up to 30 days), per its data policies. If you have specific concerns, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com), and we will assist where possible.
+- **AI Provider Deletion**: The AI Provider deletes your face images after a short retention period (up to 30 days), per its data policies. If you have specific concerns, please contact us at [support@nextline.software](mailto:support@nextline.software), and we will assist where possible.
 
 ---
 
@@ -80,14 +80,14 @@ You can stop all collection of information by the Application easily by uninstal
 ## **5. Data Retention Policy**
 
 We retain user-provided data as long as you use the Application and for a reasonable time thereafter. This includes:
-- **User-Provided Information**: If you’d like us to delete data you have provided via the Application, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com). We will respond within a reasonable timeframe.  
+- **User-Provided Information**: If you’d like us to delete data you have provided via the Application, please contact us at [support@nextline.software](mailto:support@nextline.software). We will respond within a reasonable timeframe.  
 - **Face Data**: Refer to [Section 2.4](#24-retention-and-deletion-of-face-data) for specific details on face data retention and deletion.
 
 ---
 
 ## **6. Children**
 
-We do not knowingly collect personal information from children under 13 years of age. The Application does not address anyone under the age of 13. If you are a parent or guardian and become aware that your child has provided personal information, please contact us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com), and we will take necessary actions to remove that information from our servers.
+We do not knowingly collect personal information from children under 13 years of age. The Application does not address anyone under the age of 13. If you are a parent or guardian and become aware that your child has provided personal information, please contact us at [support@nextline.software](mailto:support@nextline.software), and we will take necessary actions to remove that information from our servers.
 
 ---
 
@@ -120,7 +120,7 @@ By using the Application, you consent to the processing of your information as d
 If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us via email:
 
 - **Name**: Bora Altınok  
-- **Email**: [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com)
+- **Email**: [support@nextline.software](mailto:support@nextline.software)
 
 **Last Updated**: *27/01/2025*
 

@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Study Buddy AI app (hereby referred to as "Application") for mobile devices that was created by Bora Altınok (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the Study Buddy AI app (hereby referred to as "Application") for mobile devices that was created by NEXTLINE YAZILIM LİMİTED ŞİRKETİ (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -70,7 +70,7 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at Study Buddy.ai@outlook.com.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at support@nextline.software
 
 * * *
 

@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Calorify app (hereby referred to as "Application") for mobile devices that was created by NEXTLINE YAZILIM LİMİTED ŞİRKETİ (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the CalorIt app (hereby referred to as "Application") for mobile devices that was created by NEXTLINE YAZILIM LİMİTED ŞİRKETİ (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 

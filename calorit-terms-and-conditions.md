@@ -13,6 +13,8 @@ Please note that the Application utilizes third-party services that have their o
 *   [Google Play Services](https://policies.google.com/terms)
 *   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 *   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+*   [Facebook](https://www.facebook.com/legal/terms/plain_text_terms)
+*   [Amplitude](https://amplitude.com/terms)
 *   [RevenueCat](https://www.revenuecat.com/terms)
 
 Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
@@ -29,7 +31,7 @@ The Service Provider may wish to update the application at some point. The appli
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2025-05-03
+These terms and conditions are effective as of 2025-05-14
 
 **Contact Us**
 

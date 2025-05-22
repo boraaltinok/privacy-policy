@@ -40,10 +40,10 @@ If the app crashes during a question submission, please follow these steps:
 3. Contact our support if the problem continues.
 
 ## Contact Us
-For further assistance or to ask any specific questions not covered here, please contact our support team at boraaltinok70@gmail.com.
+For further assistance or to ask any specific questions not covered here, please contact our support team at support@nextline.software.
 
 ## Feedback and Feature Requests
 
-We highly value your feedback and are always looking for ways to improve Biology Solver App. If you have any suggestions or feature requests, please email us at boraaltinok70@gmail.com. Your input helps us serve you better and create an app that meets your needs.
+We highly value your feedback and are always looking for ways to improve Biology Solver App. If you have any suggestions or feature requests, please email us at support@nextline.software. Your input helps us serve you better and create an app that meets your needs.
 
 Thank you for choosing Biology Solver! We hope you enjoy making your study sessions more efficient and enjoyable.

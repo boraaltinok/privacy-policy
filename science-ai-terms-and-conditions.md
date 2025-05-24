@@ -25,11 +25,22 @@ In terms of the Service Provider's responsibility for your use of the Applicatio
 
 The Service Provider may wish to update the Application at some point. The Application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the Application to) may change, and you will need to download the updates if you want to continue using the Application. The Service Provider does not guarantee that it will always update the Application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the Application when offered to you. The Service Provider may also wish to cease providing the Application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the Application, and (if necessary) delete it from your device.
 
+### AI Tutor Personas & Content Disclaimer
+AI Tutor Personas & Content Disclaimer
+Persona Variations
+The Application offers multiple AI “Tutor” personas (e.g. “Gigachad Tutor,” “Professor Tutor,” etc.), each with its own tone and style.
+User Sensitivity
+Some personas employ edgy or humorous language that may be perceived as mocking or abrasive. If you find any persona’s tone offensive, please switch to a different Tutor via the Change Tutor feature in-app.
+No Professional Advice
+All responses are for educational or entertainment purposes only. The Service Provider is not responsible for any emotional distress or misunderstanding arising from AI-generated content.
+Opt-Out
+By using the Application, you acknowledge these style variations and agree not to hold NEXTLINE YAZILIM LTD. liable for any offense or discomfort caused by persona-specific language.
+
 ## Changes to These Terms and Conditions
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2024-09-30.
+These terms and conditions are effective as of 2025-05-24.
 
 ## Contact Us
 

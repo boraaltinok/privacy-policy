@@ -51,7 +51,7 @@ If the app crashes during a question submission, please follow these steps:
 3. Contact our support if the problem continues.
 
 ## Contact Us
-For further assistance or to ask any specific questions not covered here, please contact our support team at boraaltinok70@gmail.com.
+For further assistance or to ask any specific questions not covered here, please contact our support team at support@nextline.software.
 
 ## Feedback and Feature Requests
 

@@ -119,7 +119,6 @@ By using the Application, you consent to the processing of your information as d
 
 If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us via email:
 
-- **Name**: Bora Altınok  
 - **Email**: [support@nextline.software](mailto:support@nextline.software)
 
 **Last Updated**: *27/01/2025*

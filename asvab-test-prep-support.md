@@ -73,10 +73,10 @@ If the app crashes during a quiz, please follow these steps:
 
 ## Contact Us
 
-For further assistance or to ask any specific questions not covered here, please contact our support team at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com).
+For further assistance or to ask any specific questions not covered here, please contact our support team at [support@nextline.software](mailto:support@nextline.software).
 
 ## Feedback and Feature Requests
 
-We highly value your feedback and are always looking for ways to improve ASVAB Prep. If you have any suggestions or feature requests, please email us at [boraaltinok70@gmail.com](mailto:boraaltinok70@gmail.com). Your input helps us serve you better and create an app that meets your needs.
+We highly value your feedback and are always looking for ways to improve ASVAB Prep. If you have any suggestions or feature requests, please email us at [support@nextline.software](mailto:support@nextline.software). Your input helps us serve you better and create an app that meets your needs.
 
 Thank you for choosing ASVAB Prep! We hope you find it to be an essential tool in your exam preparation journey.

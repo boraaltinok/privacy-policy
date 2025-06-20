@@ -1,7 +1,7 @@
 # Support
 
 Thank you for using **Ghost Writer: Lyric Generator**! We’re here to help you with any questions, issues, or feedback.
-
+Publisher: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 ## Contact Information
 
 If you need assistance or have concerns, please reach out to us:

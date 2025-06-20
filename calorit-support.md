@@ -1,7 +1,7 @@
 # CalorIt App Support
 
 Welcome to CalorIt support! Here, you'll find helpful information to enhance your experience with our AI-powered nutrition tracking app and resolve any issues you may encounter.
-
+Publisher: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Subscription Information](#subscription-information)

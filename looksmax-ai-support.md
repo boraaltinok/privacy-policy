@@ -1,7 +1,7 @@
 # Looksmax AI App Support
 
 Welcome to Looksmax AI App support! Here, you'll find helpful information to enhance your experience using our app and solve any issues you may encounter.
-
+Publisher: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 ## Table of Contents
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Troubleshooting Guides](#troubleshooting-guides)

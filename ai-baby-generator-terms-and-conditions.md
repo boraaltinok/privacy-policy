@@ -26,6 +26,19 @@ In terms of the Service Provider's responsibility for your use of the applicatio
 
 The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
+
+AI Image Processing via Gemini API
+The Application uses the Gemini API, a third-party service provided by Google, to process and generate images, including the creation of AI baby photos and similarity analysis.
+When you upload images, they are securely transmitted to Gemini’s servers for processing. We do not store your uploaded images on our own servers.
+
+We use a billing-enabled (paid) Gemini API account, which means:
+
+Google does not use your inputs or outputs to train its models.
+Your data is retained only for service delivery and abuse monitoring (for up to 55 days) and is then deleted.
+We do not control this temporary retention; it is managed by Google.
+For more details, please review Gemini’s official terms: https://ai.google.dev/terms
+By using the Application, you consent to your images being processed under these conditions.
+
 **Changes to These Terms and Conditions**
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.

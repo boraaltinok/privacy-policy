@@ -23,6 +23,19 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to deviceId, userId, photos, biometricData. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+
+AI Image Processing via Gemini API
+The Application uses the Gemini API, a third-party service provided by Google, to process and generate images, including the creation of AI baby photos and similarity analysis.
+When you upload images, they are securely transmitted to Gemini’s servers for processing. We do not store your uploaded images on our own servers.
+
+We use a billing-enabled (paid) Gemini API account, which means:
+
+Google does not use your inputs or outputs to train its models.
+Your data is retained only for service delivery and abuse monitoring (for up to 55 days) and is then deleted.
+We do not control this temporary retention; it is managed by Google.
+For more details, please review Gemini’s official terms: https://ai.google.dev/terms
+By using the Application, you consent to your images being processed under these conditions.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.

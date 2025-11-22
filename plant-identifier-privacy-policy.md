@@ -10,82 +10,91 @@ By using the Application, you consent to our collection, use, and disclosure of 
 
 ### 1.1 Automatically Collected Information
 When you download and use the Application, certain data may be automatically collected, such as:
-- **IP Address** (Internet Protocol address)
+- **IP Address**
 - **Device operating system**
-- **Pages/screens visited within the Application**
-- **Time spent on each page/screen and dates/times of visits**
+- **Pages/screens visited**
+- **Time spent on each page** and timestamps of visits
 
-We may use this automatically collected information for analytics, troubleshooting, and to improve the functionality of the Application.
+We may use this data for analytics, troubleshooting, and improving the Application.
 
 ### 1.2 Location Data
-The Application does **not** gather information about the location of your mobile device.
+The Application does **not** collect GPS-based or precise location information.
 
 ### 1.3 User-Provided Information
-For a better experience, we may require you to provide certain personally identifiable information, including (but not limited to) User Id and Device Id. This information will be retained and used as described in this policy.
+To improve your experience, we may collect:
+- User ID  
+- Device ID  
 
+This information is used as described in this policy.
 
+### 1.4 Image & AI Processing Data
+The Application allows users to upload images for plant identification or AI-assisted features.
 
+When you upload an image or text:
+- The **image**, **prompt**, and related metadata (such as image size/format) may be processed by our backend.
+- This data may be transmitted securely to **OpenRouter** to generate plant identification or AI responses.
 
+We only use this data to provide the requested functionality.
 
 ---
 
 ## 6. Third-Party Access
 
 ### Third-Party Services
-Please note that the Application utilizes certain third-party services that have their own Privacy Policies regarding data handling. Below are links to these third-party service providers' Privacy Policies:
+The Application uses third-party services with their own Privacy Policies:
 
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 - [Amplitude](https://amplitude.com/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
+- **[OpenRouter](https://openrouter.ai/privacy)** — used to process images and prompts for AI functionality
 
 ### Data Disclosure
-We may disclose user-provided and automatically collected information:
-- As required by law, such as to comply with a subpoena or similar legal process
-- When we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request
-- To trusted service providers who work on our behalf and agree to adhere to the rules set forth in this Privacy Policy
+We may disclose information:
+- As required by law  
+- To protect our rights or user safety  
+- To investigate fraud  
+- To trusted service providers  
+- **To AI processors (such as OpenRouter) solely to generate plant identification or AI responses**
+
+All data transfers are encrypted (HTTPS).
 
 ---
 
 ## 7. Opt-Out Rights
-
-You can stop all collection of information by the Application easily by uninstalling it. Use the standard uninstall processes available on your mobile device or via the mobile application marketplace.
+You may stop all collection by uninstalling the Application using your device’s standard uninstall process.
 
 ---
 
 ## 8. Data Retention Policy
+We retain data as long as you use the Application and for a reasonable period afterward.
 
-We retain user-provided data as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete data you have provided via the Application, please contact us at [support@nextline.software](mailto:support@nextline.software). We will respond within a reasonable timeframe.
-
+You may request data deletion at: **support@nextline.software**
 
 ---
 
 ## 10. Security
-
-We take reasonable measures (physical, electronic, and procedural safeguards) to protect information under our control from unauthorized access or disclosure. Any transmissions to third-party services are encrypted via secure connections (HTTPS).
+We use physical, electronic, and procedural safeguards to protect your data.  
+All transmissions to third parties occur via secure encrypted connections (HTTPS).
 
 ---
 
 ## 11. Changes to This Privacy Policy
-
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes by posting the new Privacy Policy on this page, and we will update the "Last Updated" date. Please review this Privacy Policy periodically for updates. Continued use of the Application after changes are posted constitutes your acceptance of those changes.
+We may update this policy periodically. Continued use of the Application indicates acceptance of any changes.
 
 ---
 
 ## 12. Your Consent
-
-By using the Application, you consent to the processing of your information as described in this Privacy Policy, now and as amended by us.
+By using the Application, you consent to the processing of your information as described in this Privacy Policy.
 
 ---
 
 ## 13. Contact Us
 
-If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us via email:
+Email: **support@nextline.software**
 
-- **Email**: [support@nextline.software](mailto:support@nextline.software)
-
-**Last Updated**: *November 10, 2025*
+**Last Updated:** November 22, 2025
 
 ---
 
-*This privacy policy page was generated by [App Privacy MD Generator](https://github.com/nextline-yazilim/app-privacy-md-generator)*
+*This Privacy Policy was generated by the App Privacy MD Generator and adapted for NEXTLINE YAZILIM LİMİTED ŞİRKETİ.*

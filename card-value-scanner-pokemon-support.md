@@ -1,11 +1,11 @@
-# Support Guide for Card Value Scanner – Pokémon
+# Support Guide for Card Value Scanner App for Pokémon
 
 **App Version**: 1.0.0  
 **Last Updated**: February 8, 2026
 
 ## Important Disclaimer
 
-**Disclaimer:** Card Value Scanner – Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
+**Disclaimer:** Card Value Scanner App for Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
 
 Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of Nintendo, Creatures, Game Freak. All rights to their respective copyright holders. This app is not affiliated with, sponsored or endorsed by, or in any way associated with The Pokemon Company International inc. / Nintendo/Creatures Inc. / GAME FREAK inc.
 
@@ -293,4 +293,4 @@ If this support guide doesn't answer your question, please contact our support t
 
 **Remember**: We're an independent app created by trading card enthusiasts for collectors worldwide. While we strive for accuracy, always verify important card values through multiple sources before making major purchase or sale decisions.
 
-Thank you for using Card Value Scanner – Pokémon!
+Thank you for using Card Value Scanner App for Pokémon!

@@ -1,4 +1,4 @@
-# Privacy Policy for Card Value Scanner – Pokémon
+# Privacy Policy for Card Value Scanner for Pokémon
 
 **Effective Date:** February 8, 2026
 
@@ -6,7 +6,7 @@
 
 ## Important Disclaimer
 
-**Disclaimer:** Card Value Scanner – Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
+**Disclaimer:** Card Value Scanner App is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
 
 Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of Nintendo, Creatures, Game Freak. All rights to their respective copyright holders. This app is not affiliated with, sponsored or endorsed by, or in any way associated with The Pokemon Company International inc. / Nintendo/Creatures Inc. / GAME FREAK inc.
 
@@ -14,7 +14,7 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 
 ## 1. Information Collection
 
-When you use Card Value Scanner – Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ, we may collect and process the following types of information:
+When you use Card Value Scanner for Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ, we may collect and process the following types of information:
 
 ### 1.1 Image Data
 - **Card Images**: When you use our card scanning features, the app processes photos you take or select from your device. These images are compressed, converted to base64 format, and transmitted securely via HTTPS to Firebase Functions for AI-powered card identification using OpenRouter services.

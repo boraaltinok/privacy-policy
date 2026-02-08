@@ -1,4 +1,4 @@
-# Terms and Conditions for Card Value Scanner – Pokémon
+# Terms and Conditions for Card Value Scanner App for Pokémon
 
 **Effective Date:** February 8, 2026
 
@@ -6,7 +6,7 @@
 
 ## Important Disclaimer
 
-**Disclaimer:** Card Value Scanner – Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
+**Disclaimer:** Card Value Scanner App for Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
 
 Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of Nintendo, Creatures, Game Freak. All rights to their respective copyright holders. This app is not affiliated with, sponsored or endorsed by, or in any way associated with The Pokemon Company International inc. / Nintendo/Creatures Inc. / GAME FREAK inc.
 
@@ -14,7 +14,7 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Card Value Scanner – Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we," "our," or "Company"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Card Value Scanner for Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we," "our," or "Company"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. App License and Usage
 
@@ -203,6 +203,6 @@ If you have questions about these Terms and Conditions, please contact us:
 
 ---
 
-**Final Notice**: Card Value Scanner – Pokémon is an independent application created for Pokémon trading card enthusiasts. We are committed to providing accurate identification and pricing tools while respecting intellectual property rights. This app is not affiliated with The Pokémon Company International, Nintendo, Creatures, or Game Freak.
+**Final Notice**: Card Value Scanner for Pokémon is an independent application created for Pokémon trading card enthusiasts. We are committed to providing accurate identification and pricing tools while respecting intellectual property rights. This app is not affiliated with The Pokémon Company International, Nintendo, Creatures, or Game Freak.
 
 Thank you for using Card Value Scanner – Pokémon!

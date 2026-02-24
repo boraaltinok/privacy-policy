@@ -1,11 +1,11 @@
-# Support Guide for Card Value Scanner App for Pokémon
+# Support Guide for TCG Card Value Scanner App
 
 **App Version**: 1.0.0  
 **Last Updated**: February 8, 2026
 
 ## Important Disclaimer
 
-**Disclaimer:** Card Value Scanner App for Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
+**Disclaimer:** TCG Card Value Scanner App is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
 
 Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of Nintendo, Creatures, Game Freak. All rights to their respective copyright holders. This app is not affiliated with, sponsored or endorsed by, or in any way associated with The Pokemon Company International inc. / Nintendo/Creatures Inc. / GAME FREAK inc.
 
@@ -16,8 +16,7 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 ### 1.1 First Launch
 1. **Grant Permissions**: Allow camera access for card scanning functionality
 2. **Complete Onboarding**: Go through the 7-screen introduction to understand the app's capabilities
-3. **Start Free Trial**: Begin your 3-day free trial to access all premium features
-4. **Take Your First Scan**: Use the camera to scan your first Pokémon card
+3. **Take Your First Scan**: Use the camera to scan your first Pokémon card
 
 ### 1.2 Core Features Overview
 - **Card Scanning**: Use camera to identify Pokémon cards instantly
@@ -53,7 +52,6 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 - **English**: Full database coverage
 - **German**: Complete German Pokémon card identification
 - **French**: Full French card database support
-- **Japanese**: Japanese card identification with market pricing
 
 **Currency Display:**
 - Pricing automatically adjusts based on card region
@@ -92,51 +90,6 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 - All collection data stored locally on your device
 - No internet required to view collections
 - Data persists until app is deleted
-
-### 3.3 Collection Export
-**Premium Feature - Export Options:**
-- CSV format for spreadsheet analysis
-- PDF reports with card details and values
-- Share collection summaries via email or messaging
-- Backup collection data for safekeeping
-
-## 4. Premium Subscription Features
-
-### 4.1 Free Trial
-**3-Day Trial Includes:**
-- Unlimited card scanning during trial period
-- Full access to all premium features
-- International card identification
-- Complete pricing data access
-
-**Trial Management:**
-- Cancel anytime in first 3 days to avoid charges
-- Access cancellation through App Store (iOS) or Google Play (Android)
-- Trial automatically converts to weekly subscription if not cancelled
-
-### 4.2 Premium Benefits
-**Unlimited Scanning:**
-- No daily limits on card identification
-- Process multiple cards in rapid succession
-- Batch scanning for large collections
-
-**Advanced Features:**
-- Historical pricing trends and charts
-- Condition-aware pricing ranges
-- Priority customer support
-- Collection export capabilities
-- Advanced filtering and search options
-
-### 4.3 Subscription Management
-**How to Cancel:**
-- **iOS**: Settings > Apple ID > Subscriptions > Card Value Scanner
-- **Android**: Google Play Store > Account > Subscriptions
-
-**Billing Information:**
-- Weekly: $5.99 every 7 days
-- Annual: $24.99 every 12 months (65% savings)
-- Charges processed through your App Store account
-- Auto-renewal can be disabled in account settings
 
 ## 5. Privacy and Data Information
 
@@ -186,16 +139,6 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 5. Ensure card is in good condition
 
 ### 6.2 Subscription and Payment Issues
-**Subscription Not Activating:**
-1. Verify payment processed through App Store/Google Play
-2. Restart the app to refresh subscription status
-3. Check internet connection
-4. Contact support if issue persists beyond 24 hours
-
-**Can't Cancel Subscription:**
-- Cancellation must be done through App Store or Google Play
-- Deleting the app does not cancel subscriptions
-- Follow platform-specific cancellation instructions
 
 ### 6.3 Performance Issues
 **App Running Slowly:**
@@ -216,14 +159,12 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 **Full Database Coverage:**
 - **North America**: English Pokémon cards with TCGPlayer pricing
 - **Europe**: German and French cards with Cardmarket pricing  
-- **Japan**: Japanese cards with local market pricing
 - **Mixed Collections**: Automatic region detection and appropriate pricing
 
 ### 7.2 Currency and Pricing
 **Regional Pricing Sources:**
-- **USA/English**: TCGPlayer, eBay sold listings
+- **USA/English**: TCGPlayer
 - **Europe**: Cardmarket, local European marketplaces
-- **Japan**: Japanese TCG marketplaces and eBay Japan
 - **Conversion**: Real-time currency conversion available
 
 ### 7.3 Language Settings
@@ -293,4 +234,4 @@ If this support guide doesn't answer your question, please contact our support t
 
 **Remember**: We're an independent app created by trading card enthusiasts for collectors worldwide. While we strive for accuracy, always verify important card values through multiple sources before making major purchase or sale decisions.
 
-Thank you for using Card Value Scanner App for Pokémon!
+Thank you for using TCG Card Value Scanner App!

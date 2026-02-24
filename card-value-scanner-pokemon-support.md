@@ -1,7 +1,7 @@
 # Support Guide for TCG Card Value Scanner App
 
 **App Version**: 1.0.0  
-**Last Updated**: February 8, 2026
+**Last Updated**: February 24, 2026
 
 ## Important Disclaimer
 

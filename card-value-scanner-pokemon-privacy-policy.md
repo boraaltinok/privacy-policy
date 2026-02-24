@@ -1,4 +1,4 @@
-# Privacy Policy for Card Value Scanner for Pokémon
+# Privacy Policy for TCG Card Value Scanner App
 
 **Effective Date:** February 8, 2026
 
@@ -14,7 +14,7 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 
 ## 1. Information Collection
 
-When you use Card Value Scanner for Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ, we may collect and process the following types of information:
+When you use TCG Card Value Scanner App ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ, we may collect and process the following types of information:
 
 ### 1.1 Image Data
 - **Card Images**: When you use our card scanning features, the app processes photos you take or select from your device. These images are compressed, converted to base64 format, and transmitted securely via HTTPS to Firebase Functions for AI-powered card identification using OpenRouter services.
@@ -120,7 +120,7 @@ For significant changes affecting data processing, we may provide additional not
 
 ## 8. Consent
 
-By using Card Value Scanner – Pokémon, you consent to the collection and use of information as outlined in this Privacy Policy. If you do not agree with this policy, please do not use the app.
+By using TCG Card Value Scanner App, you consent to the collection and use of information as outlined in this Privacy Policy. If you do not agree with this policy, please do not use the app.
 
 You can withdraw consent by uninstalling the app, which will stop all data collection and remove locally stored data.
 
@@ -130,12 +130,12 @@ If you have any questions about this Privacy Policy or our data practices, pleas
 
 **NEXTLINE YAZILIM LİMİTED ŞİRKETİ**
 - **Email**: support@nextline.software
-- **Subject Line**: Privacy Policy - Card Value Scanner Pokémon
+- **Subject Line**: Privacy Policy - TCG Card Value Scanner App
 
 For data protection inquiries specifically related to GDPR compliance, please include "GDPR Request" in your subject line.
 
 ---
 
-**Service Notice**: Card Value Scanner – Pokémon is provided "AS IS" without warranties. We strive for accuracy in card identification and pricing, but cannot guarantee 100% accuracy for all cards or market conditions.
+**Service Notice**: TCG Card Value Scanner App is provided "AS IS" without warranties. We strive for accuracy in card identification and pricing, but cannot guarantee 100% accuracy for all cards or market conditions.
 
 **Trademark Notice**: This application is an independent tool for Pokémon card collectors and is not affiliated with The Pokémon Company International, Nintendo, Creatures, or Game Freak.

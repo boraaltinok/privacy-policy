@@ -1,4 +1,4 @@
-# Terms and Conditions for Card Value Scanner App for Pokémon
+# Terms and Conditions for TCG Card Value Scanner App
 
 **Effective Date:** February 8, 2026
 
@@ -6,7 +6,7 @@
 
 ## Important Disclaimer
 
-**Disclaimer:** Card Value Scanner App for Pokémon is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
+**Disclaimer:** TCG Card Value Scanner App is an unofficial independent reference application for trading card enthusiasts. All Pokémon imagery are copyrighted materials owned by The Pokémon Company International, Inc. This app is not produced, supported, endorsed, nor associated with The Pokémon Company International, Inc.
 
 Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of Nintendo, Creatures, Game Freak. All rights to their respective copyright holders. This app is not affiliated with, sponsored or endorsed by, or in any way associated with The Pokemon Company International inc. / Nintendo/Creatures Inc. / GAME FREAK inc.
 
@@ -14,7 +14,7 @@ Pokémon, the Poké Ball and Pokémon Trading Cards are registered trademarks of
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Card Value Scanner for Pokémon ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we," "our," or "Company"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using TCG Card Value Scanner App ("the App"), operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we," "our," or "Company"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. App License and Usage
 
@@ -32,47 +32,15 @@ You may not:
 ### 2.3 Intellectual Property
 The App, including its design, functionality, and content, is owned by NEXTLINE YAZILIM LİMİTED ŞİRKETİ and protected by intellectual property laws. Pokémon-related imagery and trademarks remain the property of their respective owners.
 
-## 3. Premium Subscription Service
 
-### 3.1 Subscription Plans
-The App operates on a premium subscription model with the following plans:
-- **Weekly Subscription**: $5.99 per week with a 3-day free trial
-- **Annual Subscription**: $24.99 per year (best value - 65% savings vs. weekly)
+## 3. User Responsibilities
 
-### 3.2 Free Trial
-New users are eligible for a 3-day free trial of the weekly subscription plan. The trial automatically converts to a paid subscription unless cancelled before the trial period ends.
-
-### 3.3 Premium Features
-Premium subscription includes:
-- Unlimited Pokémon card scanning and identification
-- International card support (German, French, Japanese)
-- Real-time pricing from multiple sources (TCGPlayer, Cardmarket, eBay)
-- Advanced collection management and organization tools
-- Condition-aware pricing ranges and market trends
-- Export capabilities for collection data
-- Priority customer support
-
-### 3.4 Payment and Billing
-- Subscriptions are processed through the App Store (iOS) or Google Play (Android)
-- Payment will be charged to your Apple ID or Google Play account
-- Subscriptions automatically renew unless cancelled at least 24 hours before the current period ends
-- Account will be charged for renewal within 24 hours prior to the end of the current period
-- Auto-renewal can be turned off in your account settings after purchase
-
-### 3.5 Cancellation and Refunds
-- You may cancel your subscription at any time through your App Store or Google Play account settings
-- Cancellation takes effect at the end of the current billing period
-- No refunds are provided for unused portions of subscription periods
-- Refund requests may be submitted to Apple or Google according to their respective policies
-
-## 4. User Responsibilities
-
-### 4.1 Accurate Information
+### 3.1 Accurate Information
 - You are responsible for ensuring camera permissions are granted for proper app functionality
 - You should only scan cards that you own or have permission to photograph
 - You acknowledge that pricing information is for reference purposes and actual market values may vary
 
-### 4.2 Prohibited Uses
+### 3.2 Prohibited Uses
 You agree not to use the App to:
 - Violate any laws or regulations
 - Infringe on intellectual property rights of others
@@ -81,8 +49,6 @@ You agree not to use the App to:
 - Use automated tools to access the service excessively
 - Reverse engineer or attempt to extract source code
 
-### 4.3 Fair Usage
-While premium subscriptions offer unlimited scanning, we reserve the right to limit usage that we determine to be abusive or that significantly impacts service performance for other users.
 
 ## 5. Card Identification and Pricing Services
 
@@ -99,7 +65,7 @@ While premium subscriptions offer unlimited scanning, we reserve the right to li
 - Users should verify pricing through multiple sources before making purchase or sale decisions
 
 ### 5.3 International Support
-- The app supports identification of German, French, and Japanese Pokémon cards
+- The app supports identification of German, French Pokémon cards
 - Pricing may vary by geographic region and local market conditions
 - Currency conversions are approximate and may not reflect current exchange rates
 
@@ -199,10 +165,10 @@ If you have questions about these Terms and Conditions, please contact us:
 
 **NEXTLINE YAZILIM LİMİTED ŞİRKETİ**
 - **Email**: support@nextline.software  
-- **Subject Line**: Terms and Conditions - Card Value Scanner Pokémon
+- **Subject Line**: Terms and Conditions - TCG Card Value Scanner App
 
 ---
 
-**Final Notice**: Card Value Scanner for Pokémon is an independent application created for Pokémon trading card enthusiasts. We are committed to providing accurate identification and pricing tools while respecting intellectual property rights. This app is not affiliated with The Pokémon Company International, Nintendo, Creatures, or Game Freak.
+**Final Notice**: TCG Card Value Scanner App is an independent application created for Pokémon trading card enthusiasts. We are committed to providing accurate identification and pricing tools while respecting intellectual property rights. This app is not affiliated with The Pokémon Company International, Nintendo, Creatures, or Game Freak.
 
-Thank you for using Card Value Scanner – Pokémon!
+Thank you for using TCG Card Value Scanner App!

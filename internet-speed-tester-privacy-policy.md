@@ -22,8 +22,8 @@ When you use Internet Speed Tester ("the App"), operated by NEXTLINE YAZILIM LiM
 - **App Usage Data**: Information about how you interact with the app, including features used, session duration, and navigation patterns.
 - **Approximate Location**: We may collect approximate location data (e.g., based on IP address) for analytics and service improvement. We do not collect precise GPS-level location data.
 
-### 1.3 Authentication
-- **Anonymous Authentication**: The app uses Firebase Anonymous Authentication to create a unique, anonymous user identifier. This identifier does not require you to provide any personal information such as name, email, or phone number. It is used to manage your purchase status and provide personalized app functionality.
+### 1.3 Anonymous Identifiers
+- **Locally-Generated Identifiers**: The app generates a local anonymous identifier (UUID) on your device for analytics and purchase management purposes. No authentication system or user accounts are used. This identifier does not require you to provide any personal information such as name, email, or phone number.
 
 ### 1.4 App Preferences
 - **Language Preference**: Your selected display language is stored locally on your device.
@@ -32,11 +32,8 @@ When you use Internet Speed Tester ("the App"), operated by NEXTLINE YAZILIM LiM
 
 ## 2. Third-Party Access
 
-### 2.1 Firebase Services (Google)
-We utilize several Firebase services provided by Google:
-- **Firebase Anonymous Authentication**: For creating anonymous user sessions without collecting personal information
-- **Firebase Analytics**: For understanding app usage patterns and improving user experience
-- **Firebase Crashlytics**: For monitoring app stability and fixing crashes
+### 2.1 Firebase Crashlytics (Google)
+We utilize Firebase Crashlytics, provided by Google, for monitoring app stability and fixing crashes.
 
 Firebase may collect additional data as described in Google's Privacy Policy: https://policies.google.com/privacy
 
@@ -104,7 +101,7 @@ The Service Provider may disclose user-provided or automatically collected infor
 - **Speed Test Results**: Stored locally on your device, capped at 50 entries with automatic pruning of oldest results
 - **Analytics Data**: Aggregated usage data may be retained by third-party analytics services for service improvement purposes
 - **Local Data**: App data remains on your device until you delete the app or manually clear the data
-- **Authentication**: Your anonymous user identifier persists until the app is uninstalled or data is cleared
+- **Anonymous Identifier**: Your locally-generated anonymous identifier persists until the app is uninstalled or data is cleared
 
 ### 4.3 Third-Party Security
 We work with reputable third-party services that maintain their own security standards:

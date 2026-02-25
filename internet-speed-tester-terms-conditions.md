@@ -104,7 +104,7 @@ We collect anonymized usage analytics to improve the app experience, as detailed
 
 ### 7.1 External Services
 The App integrates with various third-party services:
-- **Firebase** (Google) for anonymous authentication, analytics, and crash reporting
+- **Firebase** (Google) for crash reporting
 - **Google AdMob** for advertisement serving
 - **RevenueCat** for purchase management
 - **Amplitude** for advanced analytics

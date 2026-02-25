@@ -141,7 +141,7 @@ If you experience problems:
 ### 6.2 Data Security
 **Local Storage:**
 - All app data stays on your device
-- No account creation required (anonymous authentication)
+- No account creation required (no sign-in needed)
 - No personal information collected (no name, email, or phone number)
 
 **Network Security:**

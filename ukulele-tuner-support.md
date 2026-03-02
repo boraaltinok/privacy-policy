@@ -61,27 +61,6 @@ A: If you encounter stability issues:
 **Q: How do I update the app?**  
 A: App updates are typically automatic. You can also manually check for updates in the App Store by searching for "Ukulele Tuner" and tapping "Update" if available.
 
-### Premium Features
-
-**Q: What's included in the premium subscription?**  
-A: Premium includes:
-- All tuning types (Standard, Low G, Baritone)
-- Support for all ukulele sizes (Soprano, Concert, Tenor, Baritone)
-- Haptic feedback for perfect tuning
-- Advanced sensitivity controls
-- No limitations on tuning sessions
-
-**Q: How do I manage my subscription?**  
-A: Subscriptions are managed through your App Store account:
-- iOS: Settings > Apple ID > Subscriptions > Ukulele Tuner
-- You can cancel, change plans, or view billing history there
-
-**Q: I'm having trouble with my purchase. Can you help?**  
-A: For purchase issues, first try:
-1. Restart the app to refresh your subscription status
-2. Check your App Store purchase history
-3. Contact support@nextline.software with your purchase details
-
 ## Privacy & Security
 
 **Q: What data does the app collect?**  

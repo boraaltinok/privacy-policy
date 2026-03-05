@@ -11,7 +11,7 @@ Image to PDF Converter is a powerful mobile application that lets you convert ph
 ### Key Features
 - **Image to PDF Conversion**: Select multiple photos from your gallery or capture new ones with your camera, then combine them into a single PDF document.
 - **Document Scanner**: Use Apple's advanced VisionKit technology to scan documents with automatic edge detection and perspective correction.
-- **Customizable Output**: Choose page size (A4, Letter, Legal, Fit), orientation (Portrait, Landscape, Auto), and quality settings (Standard, High, Maximum).
+- **Customizable Output**: Choose page size (A4, Letter, Legal, Fit), orientation (Portrait, Landscape, Auto), and quality settings (Standard, High).
 - **PDF Preview**: Preview your PDF before exporting to ensure everything looks perfect.
 - **Easy Sharing**: Export and share your PDFs via the native share sheet, save to Files, or print directly from the app.
 - **Recent Files**: Access your recently created PDFs for quick sharing or reference.
@@ -47,14 +47,13 @@ A: Go to Settings within the app to change your default page size (A4, Letter, L
 **Q: What's the difference between quality settings?**
 A:
 - **Standard**: Smaller file size, suitable for most documents
-- **High**: Good balance between quality and file size
-- **Maximum**: Highest quality output, larger file size
+- **High**: Best quality output, good balance between quality and file size
 
 **Q: Can I rearrange pages before creating the PDF?**
 A: Yes. After selecting your images, you can drag and drop to reorder them, rotate individual pages, or remove unwanted images before generating the PDF.
 
 **Q: Why does my PDF look blurry?**
-A: This may happen if the source images are low resolution. Try using the High or Maximum quality setting in the app's settings. For document scanning, ensure good lighting and hold your device steady.
+A: This may happen if the source images are low resolution. Try using the High quality setting in the app's settings. For document scanning, ensure good lighting and hold your device steady.
 
 ---
 
@@ -160,4 +159,4 @@ For privacy-related inquiries or concerns, please reach out to us at [support@ne
 
 **App Version**: Latest
 **Last Updated**: March 5, 2026
-**Developer**: NEXTLINE YAZILIM LIMITED SIRKETI
+**Developer**: NEXTLINE YAZILIM LİMİTED ŞİRKETİ

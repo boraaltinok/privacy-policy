@@ -1,6 +1,6 @@
 # Privacy Policy
 
-NEXTLINE YAZILIM LIMITED SIRKETI built the Image to PDF Converter app as a Commercial app. This SERVICE is provided by NEXTLINE YAZILIM LIMITED SIRKETI and is intended for use as is.
+NEXTLINE YAZILIM LİMİTED ŞİRKETİ (NEXTLINE YAZILIM LIMITED SIRKETI) built the Image to PDF Converter app as a Commercial app. This SERVICE is provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -23,8 +23,7 @@ When you use the Application, we may automatically collect certain information, 
 
 When you use the Application, you may provide:
 
-- **userId**: An anonymous identifier generated automatically. No personal information (name, email, password, phone number) is collected during this process.
-- **deviceId**: A unique device identifier used for analytics and service delivery.
+- **Anonymous Identifiers**: The Application and its third-party service providers may generate anonymous identifiers to help operate the service. These identifiers may include randomly generated installation IDs, subscription identifiers, or analytics identifiers. These identifiers are not linked to personally identifiable information such as your name, email, or phone number.
 - **Photos and Images**: When you use the image-to-PDF conversion or document scanning features, you select or capture photos from your device. **All image processing and PDF generation occurs entirely on your device. Your photos and generated PDFs are never uploaded to our servers or any external cloud service.** Images and PDFs only leave your device if you explicitly choose to share or export them using the native share sheet or save functionality.
 
 ## Image and PDF Processing
@@ -33,16 +32,13 @@ Image to PDF Converter is designed with a local-first, privacy-respecting archit
 
 - **On-Device Processing**: All image compression, PDF generation, and document scanning are performed entirely on your device. No images or documents are transmitted to external servers.
 - **Document Scanning**: The document scanning feature uses Apple's native VisionKit framework, which processes scans locally on your device.
+- **No Server Upload**: The Application does not upload, transmit, or store the contents of your documents or photos on any server.
 - **Local Storage**: Your generated PDFs, recent file history, and preferences are stored locally on your device using an on-device database. This data is accessible only to the application and is deleted when you uninstall the app.
 - **Temporary Files**: During PDF generation, temporary compressed images may be created in the app's temporary directory. These are cleaned up after processing.
 
 ## Third-Party Services
 
 The app uses the following third-party services that may collect information:
-
-### Google Analytics for Firebase
-We use Firebase Analytics to understand how users interact with our app. This service collects usage data and device information to help us improve the app experience.
-- [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
 ### Firebase Crashlytics
 We use Crashlytics to collect crash reports and error logs to identify and fix bugs. This data includes device information, app state at the time of the crash, and stack traces.
@@ -60,9 +56,11 @@ We use RevenueCat to manage in-app subscriptions and purchases. RevenueCat proce
 We use Google AdMob to display rewarded advertisements. When you choose to watch an ad to earn an additional free PDF export, AdMob may collect device information, advertising identifiers, and ad interaction data.
 - [Google AdMob Privacy Policy](https://policies.google.com/privacy)
 
-### Apple App Tracking Transparency
+### Advertising and Tracking
 
-On iOS, we request your permission to track your activity across other companies' apps and websites using Apple's App Tracking Transparency framework. This tracking is used for analytics and advertising purposes. You may decline this request without affecting the core functionality of the app. You can change your tracking preference at any time in your device's Settings under Privacy & Security > Tracking.
+The Application may display advertisements provided by Google AdMob. AdMob may use device identifiers and limited usage data to deliver and measure advertisements.
+
+On iOS, Apple provides users with controls over advertising identifiers and tracking preferences. You can manage these settings on your device under Settings > Privacy & Security > Tracking.
 
 ## Data Disclosure
 
@@ -78,11 +76,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 ## Data Retention Policy
 
-We will retain User-Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate.
+We do not store your documents, images, or PDFs on our servers.
+
+Analytics and diagnostic data collected by third-party services may be retained by those providers according to their own data retention policies.
 
 All locally stored data (PDFs, preferences, usage history) is retained on your device and is permanently deleted when you uninstall the application.
 
-If you'd like us to delete User-Provided Data that you have provided via the Application, please contact us at support@nextline.software and we will respond in a reasonable time.
+If you'd like us to delete any data associated with your use of the Application, please contact us at support@nextline.software and we will respond in a reasonable time.
 
 ## Children
 
@@ -111,4 +111,4 @@ If you have any questions regarding privacy while using the Application, or have
 ---
 
 *Effective Date: March 5, 2026*
-*Developer: NEXTLINE YAZILIM LIMITED SIRKETI*
+*Developer: NEXTLINE YAZILIM LİMİTED ŞİRKETİ*

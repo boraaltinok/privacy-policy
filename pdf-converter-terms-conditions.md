@@ -4,7 +4,7 @@ By downloading or using the Image to PDF Converter application ("Application"), 
 
 ## Service Provider
 
-The Application is developed and maintained by NEXTLINE YAZILIM LIMITED SIRKETI ("we," "us," or "our"). We grant you a non-exclusive, non-transferable, revocable license to use the Application for personal, non-commercial purposes, subject to these Terms & Conditions.
+The Application is developed and maintained by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we," "us," or "our"). We grant you a non-exclusive, non-transferable, revocable license to use the Application for personal, non-commercial purposes, subject to these Terms & Conditions.
 
 ## Use of the Application
 
@@ -38,7 +38,7 @@ The Application may offer the option to watch advertisements in exchange for add
 
 The Application uses the following third-party services, each governed by their own terms:
 
-- [Google Firebase](https://firebase.google.com/terms) - Analytics and crash reporting
+- [Google Firebase](https://firebase.google.com/terms) - Crash reporting (Crashlytics)
 - [Amplitude](https://amplitude.com/terms-of-service) - Analytics
 - [RevenueCat](https://www.revenuecat.com/terms) - Subscription management
 - [Google AdMob](https://policies.google.com/terms) - Advertising
@@ -49,11 +49,11 @@ Certain features of the Application require an active internet connection (subsc
 
 ## Intellectual Property
 
-The Application, including its design, features, and content (excluding user-provided images), is the intellectual property of NEXTLINE YAZILIM LIMITED SIRKETI and is protected by applicable copyright and trademark laws.
+The Application, including its design, features, and content (excluding user-provided images), is the intellectual property of NEXTLINE YAZILIM LİMİTED ŞİRKETİ and is protected by applicable copyright and trademark laws.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by applicable law, in no event shall NEXTLINE YAZILIM LIMITED SIRKETI be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+To the maximum extent permitted by applicable law, in no event shall NEXTLINE YAZILIM LİMİTED ŞİRKETİ be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
 
 - Your use or inability to use the Application
 - Any unauthorized access to or use of your device or data
@@ -82,4 +82,4 @@ If you have any questions about these Terms & Conditions, please contact us at:
 ---
 
 *Effective Date: March 5, 2026*
-*Developer: NEXTLINE YAZILIM LIMITED SIRKETI*
+*Developer: NEXTLINE YAZILIM LİMİTED ŞİRKETİ*

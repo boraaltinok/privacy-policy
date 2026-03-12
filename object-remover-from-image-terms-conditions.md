@@ -1,8 +1,8 @@
-# Terms & Conditions - Photo Eraser
+# Terms & Conditions - Object Remover from Image
 
 _Last updated: March 12, 2026_
 
-By downloading or using **Photo Eraser** ("Application"), provided by **NEXTLINE YAZILIM LİMİTED ŞİRKETİ** ("Service Provider", "we", or "us"), you agree to these Terms & Conditions. Please read them carefully.
+By downloading or using **Object Remover from Image** ("Application"), provided by **NEXTLINE YAZILIM LİMİTED ŞİRKETİ** ("Service Provider", "we", or "us"), you agree to these Terms & Conditions. Please read them carefully.
 
 ---
 
@@ -42,13 +42,14 @@ Your use of the Application constitutes acceptance of these third-party terms.
 
 ## 5. Premium Subscription Terms
 The Application offers optional premium subscriptions:
-- **Weekly Plan:**
-- **Yearly Plan:**
+- **Weekly Plan:** $5.99 per week
+- **Yearly Plan:** $49.99 per year (with 3-day free trial)
 
-
+### Free Tier
+Free users receive 3 object removals and 3 background removals per day. Free exports include a watermark and are limited to standard resolution.
 
 ### Premium Features
-Premium features include unlimited object removals, unlimited background removals, no watermark,  and priority processing.
+Premium features include unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark, background replacement (color and image), and priority processing.
 
 Subscriptions are managed through the Apple App Store and are subject to Apple's subscription terms. You may cancel at any time through your device's subscription settings. Refund requests should be directed to Apple.
 
@@ -74,7 +75,6 @@ To the fullest extent permitted by law:
 - We are not liable for indirect, incidental, or consequential damages.
 - We do not guarantee the accuracy or quality of AI processing results, including object removal, background removal, or any other editing feature.
 - Use of the Application is at your own risk.
-- AI-generated results may vary depending on the input image and surrounding context, and the Application does not guarantee that object removal or image reconstruction will produce perfect or intended results.
 
 ---
 

@@ -1,22 +1,24 @@
-# Photo Eraser - Support
+# Object Remover from Image - Support
 
-Welcome to the Photo Eraser support page. We're here to help you make the most of your photo editing experience.
+Welcome to the Object Remover from Image support page. We're here to help you make the most of your photo editing experience.
 
 ## Getting Started
 
-Photo Eraser is an AI-powered photo cleanup tool that removes unwanted objects and backgrounds from your photos. Background removal is performed entirely on your device for maximum privacy and speed. Object removal uses cloud-based AI processing for the best results. The app offers free daily removals and premium unlimited access through an optional subscription.
+Object Remover from Image is an AI-powered photo cleanup tool that removes unwanted objects and backgrounds from your photos. Background removal is performed entirely on your device for maximum privacy and speed. Object removal uses cloud-based AI processing for the best results. The app offers free daily removals and premium unlimited access through an optional subscription.
 
 ### Key Features
 - **Object Removal**: Brush over unwanted objects and let AI erase them seamlessly using cloud-based inpainting.
 - **Background Removal**: Remove photo backgrounds instantly using on-device AI processing.
+- **Background Replacement**: Replace removed backgrounds with solid colors or custom images (Premium).
 - **HD Export** (Premium): Save your edits in full resolution without watermarks.
+- **Batch Processing** (Premium): Remove backgrounds from multiple photos at once.
 - **Recent Cleanups**: Access your recently edited photos for quick re-editing.
 
 ## Frequently Asked Questions
 
 ### General Questions
 
-**Q: How do I get started with Photo Eraser?**
+**Q: How do I get started with Object Remover from Image?**
 A: Download the app, complete the brief onboarding, and tap on the home screen to select a photo from your gallery or take a new one with your camera. Then choose between object removal or background removal.
 
 **Q: Is my data secure?**
@@ -59,13 +61,22 @@ A: Background removal works best with:
 
 ### Premium & Subscription
 
+**Q: What features are included in the free version?**
+A: The free version includes 3 object removals and 3 background removals per day, standard resolution export with watermark, and basic editing tools.
+
 **Q: What do I get with a premium subscription?**
-A: Premium unlocks unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark and priority processing.
+A: Premium unlocks unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark, background replacement (color and image), batch background removal, and priority processing.
 
+**Q: How much does the premium subscription cost?**
 A: We offer two plans:
-- **Weekly:** 
-- **Yearly:**
+- **Weekly:** $5.99/week
+- **Yearly:** $49.99/year (includes a 3-day free trial)
 
+**Q: How do I cancel my subscription?**
+A: You can manage or cancel your subscription at any time through your device's Settings > Apple ID > Subscriptions.
+
+**Q: How do I request a refund?**
+A: Refunds are handled by Apple. Visit reportaproblem.apple.com to request a refund.
 
 ## Account and Data Management
 

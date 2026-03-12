@@ -9,9 +9,7 @@ Photo Eraser is an AI-powered photo cleanup tool that removes unwanted objects a
 ### Key Features
 - **Object Removal**: Brush over unwanted objects and let AI erase them seamlessly using cloud-based inpainting.
 - **Background Removal**: Remove photo backgrounds instantly using on-device AI processing.
-- **Background Replacement**: Replace removed backgrounds with solid colors or custom images (Premium).
 - **HD Export** (Premium): Save your edits in full resolution without watermarks.
-- **Batch Processing** (Premium): Remove backgrounds from multiple photos at once.
 - **Recent Cleanups**: Access your recently edited photos for quick re-editing.
 
 ## Frequently Asked Questions
@@ -65,12 +63,12 @@ A: Background removal works best with:
 A: The free version includes 3 object removals and 3 background removals per day, standard resolution export with watermark, and basic editing tools.
 
 **Q: What do I get with a premium subscription?**
-A: Premium unlocks unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark, background replacement (color and image), batch background removal, and priority processing.
+A: Premium unlocks unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark and priority processing.
 
 **Q: How much does the premium subscription cost?**
 A: We offer two plans:
-- **Weekly:** $5.99/week
-- **Yearly:** $49.99/year (includes a 3-day free trial)
+- **Weekly:** 
+- **Yearly:**
 
 **Q: How do I cancel my subscription?**
 A: You can manage or cancel your subscription at any time through your device's Settings > Apple ID > Subscriptions.

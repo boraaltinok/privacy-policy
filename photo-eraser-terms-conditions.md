@@ -75,6 +75,7 @@ To the fullest extent permitted by law:
 - We are not liable for indirect, incidental, or consequential damages.
 - We do not guarantee the accuracy or quality of AI processing results, including object removal, background removal, or any other editing feature.
 - Use of the Application is at your own risk.
+- AI-generated results may vary depending on the input image and surrounding context, and the Application does not guarantee that object removal or image reconstruction will produce perfect or intended results.
 
 ---
 

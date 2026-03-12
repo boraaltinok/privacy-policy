@@ -42,14 +42,13 @@ Your use of the Application constitutes acceptance of these third-party terms.
 
 ## 5. Premium Subscription Terms
 The Application offers optional premium subscriptions:
-- **Weekly Plan:** $5.99 per week
-- **Yearly Plan:** $49.99 per year (with 3-day free trial)
+- **Weekly Plan:**
+- **Yearly Plan:**
 
-### Free Tier
-Free users receive 3 object removals and 3 background removals per day. Free exports include a watermark and are limited to standard resolution.
+
 
 ### Premium Features
-Premium features include unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark, background replacement (color and image), and priority processing.
+Premium features include unlimited object removals, unlimited background removals, no watermark,  and priority processing.
 
 Subscriptions are managed through the Apple App Store and are subject to Apple's subscription terms. You may cancel at any time through your device's subscription settings. Refund requests should be directed to Apple.
 

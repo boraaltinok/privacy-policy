@@ -59,22 +59,13 @@ A: Background removal works best with:
 
 ### Premium & Subscription
 
-**Q: What features are included in the free version?**
-A: The free version includes 3 object removals and 3 background removals per day, standard resolution export with watermark, and basic editing tools.
-
 **Q: What do I get with a premium subscription?**
 A: Premium unlocks unlimited object removals, unlimited background removals, HD/full-resolution export, no watermark and priority processing.
 
-**Q: How much does the premium subscription cost?**
 A: We offer two plans:
 - **Weekly:** 
 - **Yearly:**
 
-**Q: How do I cancel my subscription?**
-A: You can manage or cancel your subscription at any time through your device's Settings > Apple ID > Subscriptions.
-
-**Q: How do I request a refund?**
-A: Refunds are handled by Apple. Visit reportaproblem.apple.com to request a refund.
 
 ## Account and Data Management
 

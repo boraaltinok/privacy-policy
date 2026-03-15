@@ -10,37 +10,64 @@ By using the Application, you consent to our collection, use, and disclosure of 
 
 ### 1.1 Automatically Collected Information
 When you download and use the Application, certain data may be automatically collected, such as:
-- **IP Address** (Internet Protocol address)
-- **Device operating system**
+- **Device operating system and version**
 - **Pages/screens visited within the Application**
 - **Time spent on each page/screen and dates/times of visits**
+- **App performance and crash data**
 
 We may use this automatically collected information for analytics, troubleshooting, and to improve the functionality of the Application.
 
-### 1.2 Microphone Data
-The Application uses your device's microphone to measure environmental sound levels. **All audio processing is performed entirely on your device.** No audio recordings or raw audio data are transmitted, stored on our servers, or shared with any third party. Only computed decibel (dB) values are stored locally on your device for session history purposes.
+### 1.2 Automatically Collected Identifiers
+The Application's third-party SDKs may generate and collect pseudonymous identifiers, including:
+- **Analytics identifiers** (e.g., Amplitude device/user IDs)
+- **Subscription identifiers** (e.g., RevenueCat anonymous app user IDs)
+- **Anonymous authentication tokens** (e.g., Firebase anonymous auth IDs)
+- **Crash reporting identifiers** (e.g., Firebase Crashlytics installation IDs)
 
-### 1.3 Location Data
-The Application does **not** gather information about the location of your mobile device.
+These identifiers are SDK-generated, pseudonymous, and not provided by you. They are used to associate usage data, manage subscriptions, and diagnose issues. Amplitude and RevenueCat may sync identifiers to link analytics data with subscription status.
 
-### 1.4 User-Provided Information
-For a better experience, we may require you to provide certain personally identifiable information, including (but not limited to) Userid and Deviceid. This information will be retained and used as described in this policy.
-
+### 1.3 No User-Provided Information
+The Application does not require you to create an account or submit any personal information. Authentication is handled anonymously via Firebase Auth — no email, password, or profile information is collected. If you contact our support team, we may receive information you voluntarily provide, such as your email address and message contents.
 
 ---
 
-## 6. Third-Party Access
+## 2. Microphone Data
 
-### Third-Party Services
-Please note that the Application utilizes certain third-party services that have their own Privacy Policies regarding data handling. Below are links to these third-party service providers' Privacy Policies:
+The Application uses your device's microphone to measure environmental sound levels. **All audio processing is performed entirely on your device.** The Application does not record, store, or transmit raw audio recordings. Only derived decibel (dB) values and session metadata (such as duration, min/max/average levels) are stored locally on your device for session history purposes.
 
-- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+---
+
+## 3. Locally Stored Data
+
+The Application stores data on your device using local storage (Hive), including:
+- **Measurement history** (dB readings and session summaries)
+- **Calibration settings** (user-configured offset values)
+- **App preferences** (theme, notification settings, onboarding status)
+- **Premium status cache**
+
+This data is stored on your device only and is not transmitted to our servers. You can delete this data at any time by clearing app data in your device settings or by uninstalling the Application.
+
+---
+
+## 4. Location Data
+
+The Application does **not** gather information about the location of your mobile device.
+
+---
+
+## 5. Third-Party Services
+
+The Application utilizes certain third-party services that have their own Privacy Policies regarding data handling. Below are links to these third-party service providers' Privacy Policies:
+
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy)
 - [Amplitude](https://amplitude.com/privacy)
 - [RevenueCat](https://www.revenuecat.com/privacy)
 
-### Data Disclosure
-We may disclose user-provided and automatically collected information:
+---
+
+## 6. Data Disclosure
+
+We may disclose automatically collected information:
 - As required by law, such as to comply with a subpoena or similar legal process
 - When we believe in good faith that disclosure is necessary to protect our rights, your safety or the safety of others, investigate fraud, or respond to a government request
 - To trusted service providers who work on our behalf and agree to adhere to the rules set forth in this Privacy Policy
@@ -53,32 +80,32 @@ You can stop all collection of information by the Application easily by uninstal
 
 ---
 
-## 8. Data Retention Policy
+## 8. Data Retention
 
-We retain user-provided data as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete data you have provided via the Application, please contact us at [support@nextline.software](mailto:support@nextline.software). We will respond within a reasonable timeframe.
-
-
----
-
-## 10. Security
-
-We take reasonable measures (physical, electronic, and procedural safeguards) to protect information under our control from unauthorized access or disclosure. Any transmissions to third-party services are encrypted via secure connections (HTTPS).
+- **Locally stored data** (measurement history, preferences, calibration settings) is stored on your device and remains there until you clear the Application's data or uninstall it. We do not have access to this data.
+- **Third-party service data** (analytics events, crash reports, subscription records) is retained according to each provider's own data retention policies. Please refer to the privacy policies linked in Section 5 for details.
 
 ---
 
-## 11. Changes to This Privacy Policy
+## 9. Security
+
+We take reasonable measures (physical, electronic, and procedural safeguards) to protect information under our control from unauthorized access or disclosure. Any transmissions to third-party services are encrypted via secure connections (HTTPS). Locally stored data is protected by your device's built-in security mechanisms.
+
+---
+
+## 10. Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes by posting the new Privacy Policy on this page, and we will update the "Last Updated" date. Please review this Privacy Policy periodically for updates. Continued use of the Application after changes are posted constitutes your acceptance of those changes.
 
 ---
 
-## 12. Your Consent
+## 11. Your Consent
 
 By using the Application, you consent to the processing of your information as described in this Privacy Policy, now and as amended by us.
 
 ---
 
-## 13. Contact Us
+## 12. Contact Us
 
 If you have any questions regarding privacy while using the Application or have questions about our practices, please contact us via email:
 

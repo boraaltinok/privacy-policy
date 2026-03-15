@@ -5,8 +5,10 @@ _Last updated: March 15, 2026_
 By downloading or using **Decibel Meter** ("Application"), provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("Service Provider", "we", or "us"), you agree to be bound by these Terms & Conditions. Please read them carefully.
 
 ## 1. License and Restrictions
-- We grant you a non-exclusive, non-transferable, revocable license to use the Application for personal, non-commercial purposes subject to any applicable fees.
-- Unauthorized copying, modification, reverse engineering, or redistribution of the Application or any of its components is strictly prohibited.
+- We grant you a non-exclusive, non-transferable, revocable license to use the Application for personal use, subject to any applicable fees.
+- You may use the Application in personal, educational, and professional environments (e.g., workplace, school, construction sites).
+- You may not resell, redistribute, sublicense, or commercially exploit the Application or any of its components.
+- Unauthorized copying, modification, or reverse engineering of the Application is strictly prohibited.
 - All intellectual property rights in the Application remain the property of the Service Provider.
 
 
@@ -18,13 +20,13 @@ By downloading or using **Decibel Meter** ("Application"), provided by NEXTLINE 
 
 ## 3. Third-Party Services
 Our Application utilizes third-party services governed by their own terms:
-- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 - [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 - [Amplitude](https://amplitude.com/terms)
 - [RevenueCat](https://www.revenuecat.com/terms)
 
 ## 4. Internet Connectivity and Data Charges
-- An active internet connection is required for full functionality of the Application. You are responsible for any data charges incurred.
+- Certain features of the Application — including subscription management, crash reporting, and analytics — require an active internet connection. Core sound measurement functionality works offline.
+- You are responsible for any data charges incurred through your use of the Application.
 - We are not liable for loss or issues arising from connectivity problems or insufficient device battery.
 
 
@@ -35,7 +37,8 @@ Our Application utilizes third-party services governed by their own terms:
 
 ## 6. Measurement Accuracy Disclaimer
 - The decibel measurements provided by the Application are **approximate** and intended for informational and educational purposes only.
-- Measurement accuracy depends on your device's microphone hardware and environmental conditions. The Application is **not** a certified sound level meter and should not be used as a substitute for professional-grade measurement equipment.
+- Measurement accuracy depends on your device's microphone hardware and environmental conditions. The Application is **not** a certified sound level meter or measurement instrument and should not be used as a substitute for professional-grade measurement equipment.
+- The Application is **not** intended for legal, regulatory, occupational compliance, medical, or safety-critical use.
 - The Service Provider makes no warranties regarding the precision or reliability of any measurements displayed by the Application.
 
 ## 7. Limitation of Liability

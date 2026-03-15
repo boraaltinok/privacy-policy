@@ -20,10 +20,7 @@ Decibel Meter allows you to measure environmental noise and sound levels in deci
 A: To begin using Decibel Meter, download the app from your device's app store, complete the setup process, and you're all set.
 
 **Q: Is my data secure?**
-A: Yes, we prioritize data security. All data transmissions are encrypted, and we adhere to industry-standard data protection practices. For more information, refer to our [Privacy Policy](#).
-
-**Q: Who owns the content I create in the app?**
-A: You maintain ownership of any content you generate. We utilize your content solely to deliver the services you've requested. For additional details, consult our [Terms & Conditions](#).
+A: Yes. Decibel Meter is a local-first application — your measurement history, calibration settings, and preferences are stored on your device only and are not transmitted to our servers. Analytics and crash data sent to third-party services are transmitted over encrypted connections (HTTPS). For more information, refer to our [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/decibel-meter-privacy-policy.md).
 
 ### Microphone & Permissions
 
@@ -60,18 +57,13 @@ A: Try these troubleshooting steps:
 **Q: How do I update the app?**
 A: App updates are typically automatic. You can also manually check for updates in your device's app store.
 
-## Content Management and Export
+## Data Management
 
-**Q: Can I manage my content within the app?**
-A: The app allows you to view and manage your measurement history within the Session History feature.
+**Q: How do I delete my data?**
+A: Your measurement data is stored locally on your device. You can delete it by clearing the app's data in your device settings, or by uninstalling the Application. Data collected by third-party services (analytics, crash reports) is subject to their respective retention policies as described in our [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/decibel-meter-privacy-policy.md).
 
-**Q: How can I export my measurement data?**
-A: For data export requests, please contact our support team at [support@nextline.software](mailto:support@nextline.software).
-
-## Account and Data Management
-
-**Q: How do I delete my account and data?**
-A: To delete your account and associated data, please reach out to us at [support@nextline.software](mailto:support@nextline.software). We will handle your request in compliance with relevant privacy regulations.
+**Q: Can I share my measurement results?**
+A: Premium users can share measurement results directly from the session detail screen using the share feature.
 
 ## Contact Support
 
@@ -87,8 +79,8 @@ If you require further assistance or have inquiries not addressed here:
 
 ## Privacy and Legal
 
-- [Privacy Policy](#)
-- [Terms & Conditions](#)
+- [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/decibel-meter-privacy-policy.md)
+- [Terms & Conditions](https://github.com/boraaltinok/privacy-policy/blob/main/decibel-meter-terms-conditions.md)
 
 For privacy-related inquiries or concerns, please contact us at [support@nextline.software](mailto:support@nextline.software).
 

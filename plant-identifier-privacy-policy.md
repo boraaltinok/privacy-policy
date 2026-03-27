@@ -37,6 +37,27 @@ When you upload an image or text:
 We only use this data to provide the requested functionality.
 
 ---
+  ## Premium Features & In-App Purchases                                                                                                                          
+                                                                                                                                                                  
+  ### Subscription Plans                                                                                                                                          
+  Plant Identifier offers optional premium subscriptions that unlock additional features, including but not limited to: unlimited plant identifications, complete
+  care guides, AI plant care assistant, and seasonal tips & reminders.                                                                                            
+                                                                  
+  ### Free Trial                                                                                                                                                  
+  Certain subscription plans may include a free trial period. If you do not cancel before the free trial ends, your payment method will be charged for the
+  subscription. Trial eligibility is determined by Apple and may be limited to one trial per Apple ID.                                                            
+                                                                  
+  ### Billing & Renewal                                                                                                                                           
+  - Subscriptions are billed through your Apple ID account at confirmation of purchase.
+  - Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current billing period.                             
+  - Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan.                             
+  - You may manage or cancel your subscriptions by going to your Account Settings on the App Store after purchase.                                                
+                                                                                                                                                                  
+  ### Lifetime Purchase                                                                                                                                           
+  A one-time lifetime purchase option may be available, granting permanent access to all premium features without recurring charges.                              
+                                                                                                                                                                  
+  ### Refunds                                                     
+  Refund requests are handled by Apple in accordance with the App Store refund policy. We do not process refunds directly.   
 
 ## 6. Third-Party Access
 

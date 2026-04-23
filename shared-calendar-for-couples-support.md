@@ -139,8 +139,10 @@ A: Open the date from the Calendar or Home, find the photo in the memories secti
 
 ### Notifications
 
-**Q: How do reminders work?**
-A: The Application schedules **local notifications on your device** for upcoming events you have opted into. Notifications are not pushed from a server.
+**Q: How do reminders and notifications work?**
+A: Two kinds of notifications:
+- **Local reminders** — the Application schedules these on your device for upcoming events you have opted into. They don't need a server.
+- **Remote push notifications** — delivered via Firebase Cloud Messaging (and Apple's push service on iOS) when your partner creates or updates a shared date, so you know something changed without opening the app.
 
 **Q: I'm not getting any reminders.**
 A: Make sure notifications are enabled for the Application:

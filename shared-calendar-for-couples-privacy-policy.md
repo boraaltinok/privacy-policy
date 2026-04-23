@@ -45,10 +45,16 @@ When you start a free trial or purchase a subscription, **RevenueCat** processes
 ### 1.5 Camera and Photo Library
 The Application can access your **camera** and **photo library** so you can attach photos to the dates you create. Access is requested only when you tap the add-photo button on a date; if you decline, the rest of the Application continues to work — you just cannot attach photos. Photos you select are uploaded to our cloud storage (see §5) and are visible to your connected partner. You can delete a photo from a date at any time.
 
-### 1.6 Information We Do NOT Collect
+### 1.6 Push Notifications (Firebase Cloud Messaging)
+After you sign in and grant notification permission, the Application registers your device with **Firebase Cloud Messaging (FCM)** so we can send remote push notifications for partner-activity events (for example, when your partner creates a new date) and for event updates. To deliver those pushes we:
+- request your device's FCM registration token and store it in your user document (`users/{uid}.fcmTokens`) so our backend knows where to deliver notifications for your account;
+- add or remove tokens automatically as the device's token rotates, as you sign in on a new device, or as a token becomes invalid.
+
+Push delivery is handled by **Apple Push Notification service (APNs)** on iOS and **Google Firebase Cloud Messaging** on Android; the content of each notification (such as an event title and a short body) transits their infrastructure. You can revoke notification permission at any time in your device's Settings; if you revoke, we stop sending to that device.
+
+### 1.7 Information We Do NOT Collect
 - We do **not** access your microphone, contacts, calendars outside the Application, or other personal files on your device.
 - We do **not** collect **precise location** (GPS, Bluetooth beacons, Wi-Fi triangulation, or any `CLLocationManager` / Android `FusedLocationProvider` signal). The only location-class data we hold is the editable city-level value described in §1.3.
-- The Application does **not** send remote push notifications. Reminders are scheduled locally on your device.
 
 ---
 
@@ -97,7 +103,7 @@ We use the information described above to:
 - **Provide core functionality**: authenticate you, sync the shared calendar between connected partners, deliver and store AI-generated date suggestions, and remember your preferences.
 - **Improve the Application**: analyze aggregated usage patterns, fix bugs, and prioritize new features.
 - **Manage subscriptions**: verify and refresh your subscription entitlement through RevenueCat.
-- **Schedule local reminders**: trigger device-local notifications that you have opted into.
+- **Send notifications**: schedule device-local reminders for upcoming events you have opted into, and deliver remote push notifications through Firebase Cloud Messaging for partner activity (for example, when your partner creates or updates a shared date).
 - **Diagnose crashes**: receive crash reports through Firebase Crashlytics.
 
 ---
@@ -119,7 +125,8 @@ We take reasonable physical, electronic, and procedural safeguards to protect in
 ### 6.1 Third-Party Services
 The Application uses third-party services that have their own Privacy Policies governing how they handle data. Below are the providers we use and links to their policies:
 
-- [Firebase Authentication, Cloud Firestore, Cloud Storage, Cloud Functions, and Crashlytics (Google)](https://firebase.google.com/support/privacy)
+- [Firebase Authentication, Cloud Firestore, Cloud Storage, Cloud Functions, Cloud Messaging, and Crashlytics (Google)](https://firebase.google.com/support/privacy)
+- [Apple Push Notification service](https://www.apple.com/legal/privacy/) — delivers push notifications on iOS
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Google Sign-In](https://policies.google.com/privacy)
 - [Sign in with Apple](https://www.apple.com/legal/privacy/)
@@ -145,7 +152,7 @@ You have the right to:
 - **Delete** individual photos from a date at any time from the date's details screen.
 - **Disconnect** from your partner at any time through Settings.
 - **Revoke camera or photo-library access** at any time through your device's Privacy settings. Existing photos already uploaded remain attached to their dates until you delete them.
-- **Control** which local notifications you receive through your device's notification settings and the Application's notification preferences.
+- **Control** which notifications (both local reminders and remote push) you receive through your device's notification settings and the Application's notification preferences. Revoking notification permission stops all deliveries.
 - **Stop all collection** by uninstalling the Application from your device.
 
 If you would like assistance exercising any of these rights, contact us at the email address below.

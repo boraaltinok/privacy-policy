@@ -4,7 +4,7 @@ Welcome to the support page for **Shared Calendar for Couples** — the relation
 
 ## Getting Started
 
-Shared Calendar for Couples helps two connected partners move beyond schedule coordination to actively planning meaningful time together. After a short onboarding flow you can try Juno (the AI planning assistant) and save your first date for free, start a 7-day free trial when you are ready, sign in with Google or Apple, and connect with your partner using a 6-digit invitation code. Once connected, both partners share a calendar and can plan dates together.
+Shared Calendar for Couples helps two connected partners move beyond schedule coordination to actively planning meaningful time together. After a short onboarding flow you can try Juno (the AI planning assistant) and save a date for free, then start a free trial when you are ready, sign in with Google or Apple, and connect with your partner using a 6-digit invitation code. Once connected, both partners share a calendar and can plan dates together.
 
 ### Key Features
 - **Juno, your AI planning assistant**: chat with Juno for date ideas, planning advice, and personalized suggestions.
@@ -24,7 +24,7 @@ Shared Calendar for Couples helps two connected partners move beyond schedule co
 ### General
 
 **Q: How do I get started?**
-A: Download the Application, complete the onboarding flow, start the 7-day free trial, then sign in with Google or Apple. From the Welcome screen you can either generate a 6-digit code to invite your partner or enter the code your partner shared with you.
+A: Download the Application, complete the onboarding flow, start the free trial when prompted, then sign in with Google or Apple. From the Welcome screen you can either generate a 6-digit code to invite your partner or enter the code your partner shared with you.
 
 **Q: How do I connect with my partner?**
 A: Open the Welcome / Partner screen. Tap **Generate Invitation Code** to create a 6-digit code and share it with your partner via your favorite messaging app. Your partner enters that code in the same screen during their onboarding to link your accounts.
@@ -43,10 +43,10 @@ A: Go to **Settings** and use the partner management option to disconnect. Disco
 ### Subscriptions
 
 **Q: Is there a free tier?**
-A: Yes — a limited one. New users can chat a few times with Juno and save one date for free so you can experience the core product. After that, unlocking unlimited Juno chats, unlimited date saves, photo memories, and the rest of the app requires a subscription.
+A: Yes — a limited one. You can try Juno and save a date before subscribing so you can experience the core product. After that, unlocking the full app requires a subscription.
 
 **Q: How does the free trial work?**
-A: Subscribing starts a **7-day free trial** of the yearly plan. You can cancel anytime before the trial ends to avoid being charged.
+A: Subscribing may start an introductory free trial of the paid plan. The exact length is shown at checkout. You can cancel anytime before the trial ends to avoid being charged.
 
 **Q: Why is there a paywall?**
 A: The subscription keeps the app running — AI responses, cloud sync, and photo storage all cost real money per user. We offer a small free tier so you can try before you buy.
@@ -85,7 +85,7 @@ A: Existing events remain in the shared calendar history but are no longer updat
 A: Juno is the in-app AI planning assistant. You can chat with Juno to brainstorm date ideas, ask planning questions, or get personalized suggestions based on your preferences and recent dates.
 
 **Q: How many messages do I get on the free tier?**
-A: Free-tier users get a small number of Juno messages (currently 3) so you can try the feature. Subscribing unlocks unlimited Juno chat.
+A: Free-tier users get a limited number of Juno messages so you can try the feature. Subscribing unlocks the full chat experience.
 
 **Q: What information does Juno know about me?**
 A: Juno receives a compact context each time you send a message: your first name, your partner's name (if set), your city and country, your saved date preferences, your chosen relationship-planning challenge, how many dates you have completed, and a short reference to your most recent date. Juno does **not** receive your email, sign-in identifiers, or payment details. See our [Privacy Policy §3](shared-calendar-for-couples-privacy-policy.md) for the full disclosure.

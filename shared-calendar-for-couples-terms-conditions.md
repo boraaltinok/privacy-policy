@@ -25,8 +25,8 @@ By downloading or using **Shared Calendar for Couples** (the "Application"), pro
 
 ## 3. Subscriptions, Trial, and Payments
 
-- The Application offers a limited free tier (a small, fixed number of Juno chat messages and one saved date per account) plus an unlocked premium experience available as a paid subscription. The free tier is designed to let you try the core features before subscribing.
-- Currently the Application offers a **yearly subscription** with a **7-day free trial**. Pricing is shown at the point of purchase and may change in future versions of the Application.
+- The Application offers a limited free tier that lets you try core features before subscribing, plus a paid subscription that unlocks full access. Specific free-tier limits may change over time.
+- The Application offers a paid subscription, which may include an introductory free trial. The exact plan, pricing, and any trial length are shown at the point of purchase and may change in future versions of the Application.
 - Subscriptions are processed by **Apple App Store** or **Google Play Store** and are charged to the payment method on your store account.
 - Subscriptions **auto-renew** unless cancelled at least 24 hours before the end of the current billing period. The renewal amount is the then-current subscription price.
 - You can manage or cancel your subscription at any time through your **device's App Store / Play Store subscription settings**. Deleting the Application does not cancel your subscription.

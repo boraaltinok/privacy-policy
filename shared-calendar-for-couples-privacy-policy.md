@@ -32,7 +32,7 @@ The Application requires you to sign in after the onboarding flow using **Google
 To deliver shared planning features, the Application stores information you enter, including:
 - **Onboarding preferences** (date types you enjoy, your biggest relationship-planning challenge, your first name)
 - **Partner-related profile fields** (such as the name you call your partner, relationship start date, time zone)
-- **City and country** associated with your account. When you first sign in, the Application seeds a default city based on your device's **language and region settings** (for example, `en_US` seeds "New York"). This is **not** derived from GPS or any device-location service. You can edit or remove the city at any time in Settings.
+- **Coarse location — city and country** associated with your account. When you first sign in, the Application seeds a default city and country based on your device's **language and region settings** (for example, an `en_US` device seeds "New York, United States"). This information is city-level only; we do **not** read GPS, Bluetooth, Wi-Fi, or any iOS / Android device-location service. You can edit or remove the city at any time in Settings. Under Apple's App Privacy taxonomy this counts as **Coarse Location** because city-level data describes your approximate location, regardless of how it was derived.
 - **Notification preferences**
 - **Date and event details you create**: title, description, start time, end time, location, notes, checklist items, status, and post-date ratings or feedback
 - **Photos you add to dates.** If you allow the Application to access your camera or photo library, photos you attach to a date are uploaded to our cloud storage and become visible to your connected partner.
@@ -47,7 +47,7 @@ The Application can access your **camera** and **photo library** so you can atta
 
 ### 1.6 Information We Do NOT Collect
 - We do **not** access your microphone, contacts, calendars outside the Application, or other personal files on your device.
-- We do **not** collect precise or approximate **location data from GPS or any device-location service**. The city and country on your profile are derived from your device's language and region settings (not a location lookup) and are editable in Settings.
+- We do **not** collect **precise location** (GPS, Bluetooth beacons, Wi-Fi triangulation, or any `CLLocationManager` / Android `FusedLocationProvider` signal). The only location-class data we hold is the editable city-level value described in §1.3.
 - The Application does **not** send remote push notifications. Reminders are scheduled locally on your device.
 
 ---
@@ -84,6 +84,7 @@ When you send a message to Juno, we send:
 - Your RevenueCat or payment identifiers
 - Your partner's email or account identifiers
 - Any photos or event attachments
+- Any precise location; only the editable city / country value from your profile is sent
 
 ### 3.4 Retention of AI data
 Chat messages and suggestions are stored in our database under your account for as long as your account exists. Deleting your account also deletes your chat history.

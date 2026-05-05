@@ -1,82 +1,108 @@
-# Terms & Conditions
+# Terms and Conditions
 
-_Last updated: 2026-04-29_
+_Last updated: 2026-05-05_
 
-By downloading or using **BJJ Technique Journal** ("Application"), provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("Service Provider", "we", or "us"), you agree to these Terms & Conditions. Please read them carefully.
+These Terms and Conditions ("Terms") govern your use of **BJJ Technique Journal** ("Application") provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("Service Provider", "we", or "us"). By downloading, installing, or using the Application you agree to these Terms. If you do not agree, do not use the Application.
 
-## 1. License and Restrictions
+## 1. The Application
 
-- We grant you a non-exclusive, non-transferable, revocable license to use the Application for personal, non-commercial purposes.
-- Unauthorized copying, modification, reverse engineering, decompilation, extraction of source code, translation into other languages, creation of derivative works, or redistribution of the Application or any of its components is strictly prohibited.
-- All trademarks, copyrights, database rights, and other intellectual property rights in the Application remain the property of the Service Provider.
+The Application is a personal training journal for Brazilian Jiu-Jitsu practitioners. Notes you create are stored locally on your device. The Application does not host user accounts and does not store your notes on our servers. Voice transcription is performed by Apple's speech framework on your device.
 
-## 2. Your Notes and Content
+## 2. License
 
-- The Application is a personal note-keeping tool. Notes you create within the Application are stored locally on your device.
-- You retain all rights to the notes and content you create.
-- When you actively use an AI feature (AI note creation or Ask AI), the relevant note text or question is transmitted to our backend and to a third-party AI provider via OpenRouter, solely to generate a response to you. We do not use your notes to train our own models. See the Privacy Policy for details.
-- You are responsible for the content you enter and for ensuring you have the right to do so.
+We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the Application on a compatible device that you own or control, solely for your personal, non-commercial use, subject to these Terms and the Apple App Store Terms of Service (or, where applicable, the Google Play Terms of Service).
 
-## 3. Use of the Application
+## 3. Your Content
 
-- The Application is provided "as is" and "as available" without warranties of any kind, express or implied.
-- AI-generated output is automatically produced and may be inaccurate, incomplete, or unsuitable for any particular purpose. Always exercise your own judgment.
-- The Application is **not** medical, fitness, safety, or professional coaching advice. Brazilian Jiu-Jitsu involves physical risk; train under qualified supervision and consult medical professionals where appropriate.
-- You are responsible for maintaining the security of your device and the data on it. The Service Provider is not liable for issues arising from unauthorized modifications such as jailbreaking or rooting.
+You retain all rights to the notes, voice transcripts, links, and reflections you create in the Application. Because that content is stored on your device and is not transmitted to us, we have no rights to and no copy of your content. You are responsible for backing up your device if you wish to preserve your content (for example, via iCloud Backup, governed by Apple's settings).
 
-## 4. Third-Party Services
+## 4. Acceptable Use
 
-The Application integrates with third-party services governed by their own terms:
+You agree not to:
+
+- reverse-engineer, decompile, or disassemble the Application except where permitted by law;
+- bypass, disable, or circumvent any feature gating, license verification, or paywall mechanism;
+- use the Application to violate the rights of others or any applicable law;
+- redistribute, resell, sublicense, or commercially exploit the Application or any part of it.
+
+## 5. Internet Connectivity
+
+The core journal — saving, viewing, editing, searching, organizing, marking attempts, and capturing reflections — is available **offline**. Some optional functionality requires an active internet connection:
+
+- subscription purchases and restore;
+- crash and analytics reporting;
+- the Application's region-based paywall configuration check on launch;
+- thumbnail previews when you save a YouTube link as a note source.
+
+You are responsible for any data charges incurred from your mobile network provider, including charges that may arise when using the Application outside of your home territory.
+
+## 6. Subscriptions
+
+The Application offers optional Premium subscriptions:
+
+- Subscriptions are sold and renewed by the Apple App Store and tracked through RevenueCat. We do not receive your payment-card details.
+- Pricing, available plans, and any introductory or free-trial period are shown inside the Application before purchase and on the App Store listing.
+- Subscriptions auto-renew at the end of each billing period unless cancelled at least 24 hours before the end of the current period. Cancel through your Apple ID subscription settings; cancellation prevents future renewals but does not refund the current period.
+- A free trial, if offered, will convert to a paid subscription unless cancelled before it ends.
+- Apple's standard refund policies apply. We do not issue refunds directly. Restoring purchases is available inside the Application via the Settings screen.
+- Premium content created during a paid period remains on your device after the subscription ends. Free-tier limits then apply to **new** activity (for example, creating new notes after the limit).
+- We may change pricing or plan composition for future renewals; you will be notified in line with applicable platform rules.
+
+## 7. Free-Tier Limits
+
+The Application includes free-tier limits on certain features (for example, a cap on the number of notes you can create before encountering a paywall). The current limits are described inside the Application at the moment a limit is reached, and on the App Store listing. We may adjust limits over time to balance product value and operating costs.
+
+## 8. Service Availability
+
+We may modify, suspend, or discontinue the Application or any feature at any time, with or without notice. Specifically:
+
+- We may temporarily disable a feature by remote configuration to address availability, cost, or stability issues. The affected feature will be unavailable until re-enabled.
+- We do not guarantee that the Application will always be available, error-free, or uninterrupted.
+- We are not responsible for issues arising from unauthorized device modifications such as jailbreaking or rooting.
+
+## 9. No Medical, Fitness, or Coaching Advice
+
+Brazilian Jiu-Jitsu involves physical risk. The Application is a personal note-keeping tool and is **not** medical, fitness, safety, or professional coaching advice. You are solely responsible for your training and your safety. Train under qualified supervision, warm up appropriately, and consult medical professionals for injuries or health concerns.
+
+## 10. Third-Party Services
+
+The Application integrates with third-party services (Firebase, Amplitude, RevenueCat, and Apple's Speech Recognition framework). Each third party operates under its own terms and privacy policy, which apply alongside ours:
 
 - [Firebase Terms of Service](https://firebase.google.com/terms)
-- [Google Cloud Terms](https://cloud.google.com/terms/)
-- [OpenRouter Terms](https://openrouter.ai/terms)
-- [Apple Media Services Terms](https://www.apple.com/legal/internet-services/itunes/) (for App Store purchases and subscriptions)
+- [Apple Media Services Terms](https://www.apple.com/legal/internet-services/itunes/) (App Store purchases and subscriptions)
 - [RevenueCat Terms](https://www.revenuecat.com/terms)
 - [Amplitude Terms](https://amplitude.com/terms)
 
 By using the Application you acknowledge that you have read and accepted those third-party terms where applicable.
 
-## 5. Internet Connectivity and Data Charges
+## 11. Intellectual Property
 
-- Core journaling features (saving, viewing, editing, searching, marking outcomes) work offline.
-- AI features and remote configuration require an active internet connection.
-- You are responsible for any data charges incurred from your mobile network provider, including any charges that may arise when using the Application outside of your home territory. We are not liable for issues arising from connectivity problems, insufficient device battery, or carrier charges.
+The Application, including its code, design, branding, copy, and assets, is owned by the Service Provider and protected by intellectual-property laws. Other than the limited license in Section 2, no rights in the Application are granted to you.
 
-## 6. AI Features — Specific Disclaimers
+## 12. Disclaimer of Warranties
 
-- AI note creation and Ask AI rely on third-party AI models accessed via OpenRouter. Output is generated automatically from statistical models and may contain errors, omissions, or hallucinations.
-- We may temporarily disable the AI features by remote configuration to manage cost or availability. In that case, the affected features will be unavailable until re-enabled.
-- We may change, swap, or update the underlying AI model providers without notice.
-- Free-tier usage limits apply to AI features, as described inside the Application and in our App Store listing.
+The Application is provided **"as is"** and **"as available"** without warranty of any kind. To the fullest extent permitted by law, we disclaim all express, implied, and statutory warranties, including merchantability, fitness for a particular purpose, accuracy, and non-infringement. We do not warrant that the Application will meet your requirements or be uninterrupted, secure, or error-free.
 
-## 7. Subscriptions and Payments
+## 13. Limitation of Liability
 
-- The Application offers optional Premium subscriptions and a one-time Lifetime purchase, sold and processed by Apple via the App Store.
-- Subscriptions auto-renew at the end of each billing period unless you cancel at least 24 hours before the end of the current period. Manage or cancel subscriptions in your Apple ID settings.
-- Free trials, where offered, automatically convert to a paid subscription unless cancelled before the trial ends.
-- Subscription pricing, billing periods, and any free trial duration shown in the Application are the source of truth at the time of purchase. We may change pricing for future billing periods, with notice as required by Apple.
-- Refunds are governed by Apple's policies; we do not process refunds directly.
-- Restoring purchases is available inside the Application via the Settings screen.
+To the fullest extent permitted by law, the Service Provider shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including (without limitation) physical injury, loss of data, lost profits, lost opportunities, or loss of goodwill, arising from your use or inability to use the Application. This limitation applies whether the claim is based on warranty, contract, tort, or any other legal theory, even if we have been advised of the possibility of such damages. Where applicable law does not allow such limitations, our liability shall be limited to the maximum extent permitted by law.
 
-## 8. Updates and Termination
+## 14. Termination
 
-- We may update, modify, or discontinue the Application at any time without prior notice.
-- Updates may be required for the Application to continue functioning correctly. By using the Application you agree to install offered updates.
-- We reserve the right to suspend or terminate access to the Application or any feature, including AI features, at our discretion.
+These Terms remain in effect while you use the Application. We may suspend or terminate your access to the Application at our discretion, including for breach of these Terms. You may terminate at any time by uninstalling the Application. Sections that by their nature should survive termination (license restrictions, IP, disclaimers, limitation of liability, governing law) survive termination.
 
-## 9. Limitation of Liability
+## 15. Updates to the Application
 
-To the fullest extent permitted by law, the Service Provider shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to physical injury, loss of data, lost profits, or loss of goodwill, arising from your use or inability to use the Application or the AI features. This limitation applies whether or not we have been advised of the possibility of such damages.
+We may release updates that add, modify, or remove features. Updates may be required for the Application to continue functioning correctly. By using the Application you agree to install offered updates.
 
-## 10. Changes to These Terms & Conditions
+## 16. Changes to These Terms
 
-We may revise these Terms & Conditions from time to time. The latest version will be posted at the same URL. Your continued use of the Application after any changes constitutes acceptance of the new terms.
+We may update these Terms from time to time. The most current version will always be posted at the same URL. Material changes will be highlighted inside the Application or on the App Store listing. Continued use of the Application after the changes take effect constitutes acceptance of the updated Terms.
 
-## 11. Governing Law
+## 17. Governing Law
 
-These Terms & Conditions are governed by the laws of the Republic of Türkiye, without regard to its conflict of laws principles, except where mandatory consumer-protection laws of your country of residence apply.
+These Terms are governed by the laws of the Republic of Türkiye, without regard to its conflict-of-law principles. Mandatory consumer-protection rights of the country in which you reside are not affected.
 
-## 12. Contact Us
+## 18. Contact
 
-If you have any questions about these Terms & Conditions, please contact us at [support@nextline.software](mailto:support@nextline.software).
+For questions about these Terms, contact us at [support@nextline.software](mailto:support@nextline.software).

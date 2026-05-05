@@ -1,6 +1,6 @@
 # Support — BJJ Technique Journal
 
-Thank you for using **BJJ Technique Journal**! We're here to help.
+Thank you for using **BJJ Technique Journal**. We're here to help.
 
 **Publisher:** NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
@@ -14,23 +14,21 @@ We typically reply within a few business days.
 
 ### How do I save a note?
 
-Tap the **+** button on the **Today** or **Notes** tab and choose how to capture your note: type it, record it as a voice note, or paste a YouTube / Instagram link. The Application uses AI to organize your input into a clean technique note that you can then review and confirm.
+Tap the **Save note** button on the Notes tab. You can:
+
+- **type** the note,
+- **speak** the note (the Application transcribes your voice to text using Apple's speech framework on your device),
+- or **paste a YouTube or Instagram link** as the source. For YouTube links, the thumbnail is fetched and shown in the note card automatically.
+
+You can also pick one or more **positions** (e.g., Closed Guard, Half Guard) and group the note under one or more **topics** while you save.
 
 ### How do voice notes work?
 
-Tap the microphone icon on the Save Note screen and speak. Voice is transcribed using Apple's on-device speech recognition. The audio itself is not sent to our backend — only the resulting text. You can record up to 90 seconds per note.
+On the Save Note screen, tap **Speak your note** to start recording. Voice is transcribed using Apple's speech framework on your device — the audio itself is **not** sent to our backend. Only the resulting text appears in the note. You can record up to roughly 90 seconds at a time, and you can keep recording multiple times to extend a note.
 
 ### Why does the app ask for Microphone and Speech Recognition permissions?
 
 These two iOS permissions are required only for voice notes. If you do not want to use voice notes, you can deny these permissions or revoke them later in **iOS Settings → BJJ Technique Journal**, and the rest of the Application will continue to work.
-
-### How does Ask AI work?
-
-On the **Ask AI** tab, you can ask a question about the techniques you have saved. The Application picks at most 3 of your most relevant saved notes, sends them along with your question to our backend, and returns an answer that is grounded in those notes. If you have no notes that match, it will say so rather than making something up.
-
-### Will my notes be used to train AI models?
-
-No. We do not use your notes to train our own models. When you use an AI feature, your content is sent to OpenRouter (the AI gateway we use) with a `data_collection: deny` instruction asking the underlying provider not to retain or train on your input. See our [Privacy Policy](bjj-technique-journal-privacy-policy.md) for full details.
 
 ### Where are my notes stored?
 
@@ -40,14 +38,19 @@ All your notes are stored locally on your device, in the Application's local dat
 
 Cross-device sync is not available in the current version. Your notes follow your device, with iCloud Backup as a passive restore mechanism if you migrate to a new device.
 
+### How do topics work?
+
+Topics are buckets you create to group related notes — for example, *Closed Guard tips*, *Always Remember*, or *Pan Ams prep*. A note can belong to multiple topics. Open the **Topics** tab to browse, rename, or delete topics. Deleting a topic does not delete its notes; it only removes the grouping.
+
+### How do I track what's working?
+
+Each note has a status: **Reference**, **To Try**, **Tried**, or **Worked**. Open a note and tap the action button to log an attempt — choose an outcome (Worked / Almost / Didn't / Skipped) and optionally write a short reflection. Your attempt history is saved with the note so you can see, over time, what is becoming part of your game.
+
 ### Why am I seeing a paywall? What are the free limits?
 
-The free tier includes:
-- 10 saved notes (lifetime — manual notes and AI-organized notes both count)
-- 3 voice notes (lifetime)
-- 3 Ask AI questions (lifetime)
+The Application includes a free tier with a cap on the number of notes you can save. The exact current limit is shown on the upgrade screen at the moment you reach it, and on the App Store listing. Premium removes the cap.
 
-Reaching any of these limits triggers an upgrade screen. Premium removes all three caps.
+If a free trial is offered for the Premium plan, the trial is shown on the upgrade screen before purchase. Cancelling before the trial ends prevents any charge.
 
 ### How do I restore a previous purchase?
 
@@ -59,11 +62,7 @@ Subscriptions are managed by Apple. Open **iOS Settings → [your name] → Subs
 
 ### Will my notes disappear if my subscription expires?
 
-No. Notes you saved during a Premium subscription or trial remain on your device and remain readable. Free-tier limits then apply to **new** activity (creating new notes, voice notes, or AI questions). Existing content is not deleted.
-
-### Why is an AI feature unavailable or showing an error?
-
-AI features require an internet connection and a running backend. If the AI provider is temporarily unavailable, requests time out, or we have toggled an AI feature off for maintenance, you will see an error message inside the Application. Please try again later.
+No. Notes you saved during a Premium subscription or trial remain on your device and remain readable. Free-tier limits then apply only to **new** activity. Existing content is not deleted.
 
 ### How do I disable reminders?
 
@@ -71,7 +70,7 @@ Open **Settings → Reminders** inside the Application, or revoke notification p
 
 ### Does the app work offline?
 
-Yes for the core journal: viewing, editing, marking Worked / Almost / Didn't / Skipped, searching, and creating manual text notes (without AI organization) all work without a connection. AI features and remote configuration require internet.
+Yes. The core journal — saving, viewing, editing, voice transcription (Apple speech framework), searching, marking outcomes, and capturing reflections — works fully offline. An internet connection is only needed for subscription purchases and restore, crash and analytics reporting, fetching YouTube thumbnails when you save a YouTube link, and the launch-time region paywall configuration check.
 
 ### How do I delete my data?
 

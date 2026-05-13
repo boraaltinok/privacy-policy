@@ -17,7 +17,7 @@ The Application is for **awareness and information only**. It is **not** a medic
 
 ## Key Features
 
-- **Outbreak Map** with country-level pins, total reported cases, and last-updated timestamp from [HantaCount](https://hantacount.com) (CC-BY-4.0).
+- **Outbreak Map** with country-level pins, total reported cases, and last-updated timestamp. Data is sourced from official public-health authorities (WHO, CDC, ECDC, PAHO) and consolidated for the app through a third-party aggregator ([HantaCount](https://hantacount.com), CC-BY-4.0).
 - **Saved Locations** with five alert preference switches (risk-level changes, new reported cases, official guidance updates, daily summary, weekly digest).
 - **Exposure Self-Check** — five questions, three concern tiers (Low / Possible / Higher), framed as *"your answers suggest..."*, never *"your risk is..."*.
 - **Rodent-Sign Scanner** — capture a photo, get a text summary of visible rodent indicators. Photos are analyzed transiently and **never stored** on our servers.
@@ -38,7 +38,7 @@ A: **No.** The Application is an awareness utility, not a medical device. It doe
 A: **No.** The Scanner identifies **visible rodent signs** (droppings, nesting material, gnaw marks, entry gaps, urine or smear marks) using AI image analysis. It does not detect viruses, surface contamination, or pathogen presence. Always follow official public-health guidance before disturbing any area suspected of rodent activity.
 
 **Q: Where does the outbreak data come from?**
-A: Outbreak data is sourced from [HantaCount](https://hantacount.com) under the Creative Commons Attribution 4.0 license. We display attribution and a last-updated timestamp on every data screen. The Application also links out to official sources such as WHO, CDC, ECDC, and PAHO.
+A: Outbreak data is sourced from official public-health authorities — the **World Health Organization (WHO)**, the **United States Centers for Disease Control and Prevention (CDC)**, the **European Centre for Disease Prevention and Control (ECDC)**, and the **Pan American Health Organization (PAHO)**. For pipeline efficiency, the Application reads this consolidated data through a third-party aggregator, [HantaCount](https://hantacount.com) (Creative Commons Attribution 4.0). Each data screen shows the relevant authority's attribution and a last-updated timestamp.
 
 **Q: How often is the data updated?**
 A: We sync from HantaCount every 30–60 minutes during active outbreak periods. The map will show the last-cached update if the source is briefly unavailable.
@@ -169,7 +169,7 @@ For privacy-related concerns, contact **support@nextline.software**.
 ---
 
 **App Version:** Latest
-**Last Updated:** May 13, 2026
+**Last Updated:** May 13, 2026 (data-source positioning revised — official authorities lead; HantaCount disclosed as aggregator)
 **Developer:** NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
 ---

@@ -81,7 +81,7 @@ If you grant notification permission, the Application stores a Firebase Cloud Me
 Subscription purchases are processed by Apple and managed through **RevenueCat**. We receive subscription status (active / expired) so we can grant or revoke access to premium features. We do **not** receive your full payment information from Apple.
 
 ### 2.9 Outbreak Data
-The Application displays public-health outbreak data licensed from **HantaCount** under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. This is data we display **to you** — it is not collected **from** you.
+The Application displays public-health outbreak data sourced from official authorities, including the **World Health Organization (WHO)**, the **United States Centers for Disease Control and Prevention (CDC)**, the **European Centre for Disease Prevention and Control (ECDC)**, and the **Pan American Health Organization (PAHO)**. For pipeline efficiency, the Application reads this consolidated data through a third-party aggregator, **HantaCount** (Creative Commons Attribution 4.0 International — CC-BY-4.0). This is data we display **to you** — it is not collected **from** you.
 
 ---
 
@@ -114,7 +114,7 @@ The Application uses third-party services that have their own privacy policies. 
 - [Mapbox](https://www.mapbox.com/legal/privacy) — used for map rendering and server-side geocoding
 - [OpenRouter](https://openrouter.ai/privacy) — used to process scanner photos for visible rodent-sign analysis
 - [Apple App Store](https://www.apple.com/legal/privacy) — used for subscription billing
-- [HantaCount](https://hantacount.com) — public outbreak data source (CC-BY-4.0); data flows to your device, not from it
+- [HantaCount](https://hantacount.com) — third-party aggregator we use to consolidate the official outbreak data we display (CC-BY-4.0); data flows to your device, not from it
 
 ### Data Disclosure
 We may disclose information:
@@ -181,7 +181,7 @@ For privacy-related questions, requests, or concerns:
 
 **Email:** support@nextline.software
 
-**Last Updated:** May 13, 2026
+**Last Updated:** May 13, 2026 (data-source positioning revised — official authorities lead; HantaCount disclosed as aggregator)
 
 ---
 

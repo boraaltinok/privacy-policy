@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-_Last updated: May 13, 2026_
+_Last updated: May 13, 2026 (data-source positioning revised — official authorities lead; HantaCount disclosed as aggregator)_
 
 By downloading or using **Hantavirus Map & Alerts** (the "Application"), provided by **NEXTLINE YAZILIM LİMİTED ŞİRKETİ** ("Service Provider", "we", or "us"), you agree to these Terms & Conditions. Please read them carefully.
 
@@ -43,9 +43,11 @@ You are solely responsible for your own health decisions. You agree not to rely 
 
 ## 4. Outbreak Data Attribution
 
-The Application displays hantavirus outbreak data licensed from **HantaCount** under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. Attribution is shown within the Application on every screen that displays this data.
+The Application displays hantavirus outbreak data sourced from official public-health authorities, including the **World Health Organization (WHO)**, the **United States Centers for Disease Control and Prevention (CDC)**, the **European Centre for Disease Prevention and Control (ECDC)**, and the **Pan American Health Organization (PAHO)**. Attribution to the relevant authority is shown within the Application on every screen that displays this data, alongside a last-updated timestamp.
 
-The Application also links out to public-health resources from authorities such as the World Health Organization (WHO), United States Centers for Disease Control and Prevention (CDC), European Centre for Disease Prevention and Control (ECDC), and the Pan American Health Organization (PAHO). We are not affiliated with these authorities, and their content is governed by their own terms.
+For pipeline efficiency, the Application reads this consolidated data through a third-party aggregator, **HantaCount**, under the Creative Commons Attribution 4.0 International (CC-BY-4.0) license. HantaCount is credited as the aggregator in the Application's About & Sources screen in satisfaction of the CC-BY-4.0 attribution requirement; it is not represented as a public-health authority.
+
+We are not affiliated with WHO, CDC, ECDC, PAHO, or HantaCount, and their content is governed by their own terms.
 
 ---
 
@@ -80,7 +82,7 @@ The Application uses external services governed by their own Terms:
 - [Mapbox](https://www.mapbox.com/legal/tos) — Map rendering and geocoding
 - [OpenRouter](https://openrouter.ai/terms) — AI inference for scanner image analysis
 - [Apple App Store](https://www.apple.com/legal/internet-services/itunes/) — Subscription billing
-- [HantaCount](https://hantacount.com) — Public outbreak data (CC-BY-4.0)
+- [HantaCount](https://hantacount.com) — Third-party aggregator we use to consolidate the official outbreak data we display (CC-BY-4.0)
 
 Your use of the Application constitutes acceptance of these third-party terms.
 

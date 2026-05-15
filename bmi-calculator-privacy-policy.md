@@ -13,7 +13,7 @@ The Application collects information when you download and use it. This informat
 *   Anonymous device and user identifiers assigned by Firebase Authentication and the App Store
 *   In-app purchase status and subscription history
 
-The Application does not request or access your precise or approximate geographical location.
+The Application does not request access to the iOS or Android location APIs and does not use GPS, Wi-Fi-based, or cellular-tower-based location services. Some third-party services listed under "Third Party Access" below (notably Amplitude) may derive an approximate (city / region level) location from the IP address attached to network requests for analytics purposes; the Service Provider does not receive precise geographical coordinates from your device.
 
 The Application does not access the microphone, camera, photo library, contacts, calendar, motion sensors, or any health data store on your device (such as Apple Health or Google Fit).
 
@@ -71,7 +71,8 @@ The Application uses the following third-party services, each of which has its o
 *   [Firebase Cloud Firestore](https://firebase.google.com/support/privacy) — cloud database for premium users' plans, history, and chat
 *   [Firebase Cloud Functions](https://firebase.google.com/support/privacy) — backend processing for plan generation and AI Coach
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/) — crash diagnostic reporting
-*   [Amplitude](https://amplitude.com/privacy) — product analytics
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy) — purchase-event analytics (subscription purchased / cancelled / restored)
+*   [Amplitude](https://amplitude.com/privacy) — product analytics (events, device identifier, IP-derived coarse location)
 *   [RevenueCat](https://www.revenuecat.com/privacy) — in-app subscription management
 *   [OpenRouter](https://openrouter.ai/privacy) — AI text generation for premium Plan and Coach features
 *   [Apple App Store](https://www.apple.com/legal/privacy/) — payment processing and subscription billing
@@ -82,9 +83,9 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-**App Tracking Transparency (iOS)**
+**No Cross-App Tracking and No Advertising**
 
-On iOS, when you first open the Application, you will see Apple's standard "Allow [App] to track your activity across other companies' apps and websites?" prompt. The Application does **not** display advertisements and does **not** share data with third-party advertising networks. Your choice on this prompt does not change which data is collected by the Application as described in this policy.
+The Application does **not** display advertisements, does **not** integrate any advertising or ad-attribution SDK, and does **not** participate in cross-app tracking under Apple's App Tracking Transparency framework. No data collected by the Application is shared with third-party advertising networks for targeting, measurement, or attribution.
 
 **Opt-Out Rights**
 

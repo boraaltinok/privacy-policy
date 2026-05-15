@@ -23,7 +23,7 @@ Welcome to BMI Calculator: Weight Plan support! Here you'll find helpful informa
 The BMI calculator is free, unlimited, and works in metric (cm/kg) or imperial (ft/in, lbs) units. You can toggle units from the BMI Input screen.
 
 ### What does my BMI category mean?
-The Application shows one of the standard BMI categories (Underweight, Healthy, Above Healthy Range / Overweight, or Obese), with age-aware ranges for ages 2–19. The category is a screening indicator, not a medical diagnosis. Please see the in-app "BMI is a starting point" explanation and the Health and BMI Disclaimer in the Terms & Conditions.
+The Application shows one of the standard BMI categories (Underweight, Healthy, Above Healthy Range / Overweight, or Obese). For ages 2–19, BMI is interpreted differently than adult BMI; the Application uses child / teen-safe explanatory copy. BMI for children and teens should be interpreted with age, sex, growth, and professional guidance in mind. In all cases, BMI is a screening indicator, not a medical diagnosis — please see the in-app "BMI is a starting point" explanation and the Health and BMI Disclaimer in the Terms & Conditions.
 
 ### Can I use the Application without creating an account?
 Yes. The Application does not ask you to sign up, register, choose a username, or provide an email address. An anonymous identifier is assigned automatically so that your data persists across sessions on the same device.
@@ -76,10 +76,10 @@ Refund requests are handled directly by the Apple App Store and not by the Servi
 1. Make sure you are connected to the internet
 2. Force-quit the Application and reopen it
 3. Open the paywall and tap **Restore** to re-sync your entitlement
-4. If the Plan still doesn't appear after a minute, contact support — the Application includes an automatic fallback so you should always see a usable plan
+4. If the Plan still does not appear after a minute, contact support@nextline.software. The Application includes an automatic fallback for AI generation issues, so most plan-generation problems should resolve automatically — but subscription, entitlement, or network issues may still require support.
 
 ### My BMI category looks wrong
-Double-check your height, weight, age, sex, and unit-system inputs on the BMI Input screen. For ages 2–19, the Application uses age-appropriate BMI ranges that differ from adult ranges.
+Double-check your height, weight, age, sex, and unit-system inputs on the BMI Input screen. For ages 2–19, BMI is interpreted differently than for adults — please review the result alongside age and sex context, and where in doubt consult a parent, guardian, or healthcare professional.
 
 ### The AI Coach is not responding
 Make sure you are connected to the internet. If the issue persists, contact support@nextline.software — the AI Coach depends on third-party AI infrastructure and very occasionally has elevated latency.

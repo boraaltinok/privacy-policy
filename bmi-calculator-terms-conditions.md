@@ -18,11 +18,11 @@ The Service Provider is not a medical service and does not provide medical advic
 
 **Subscriptions and In-App Purchases**
 
-The Application offers the following paid options to unlock premium features (AI-generated Action Plan, AI Coach access, plan refresh, swap actions, BMI history and weight tracking dashboard, and the Calculate tab):
+The Application offers the following paid options to unlock premium features (AI-generated Action Plan, AI Coach access, plan refresh, swap actions, a mini progress section with BMI history and optional weight check-ins, and the Calculate tab):
 
 *   **Weekly subscription** — auto-renewing weekly subscription.
 *   **Yearly subscription** — auto-renewing yearly subscription, offered with an introductory free trial of up to 7 days.
-*   **Lifetime** — one-time, non-recurring in-app purchase that unlocks premium features for the lifetime of the Application on the purchasing Apple ID.
+*   **Lifetime** — one-time, non-recurring in-app purchase that unlocks premium features for the lifetime of the Application on the purchasing Apple ID. Lifetime access does not guarantee that the Application or third-party AI services will be available forever, and features may change over time.
 
 Prices and any introductory trial periods are displayed inside the Application before purchase. Payment is charged to your Apple ID account. Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage and cancel subscriptions at any time in your device's App Store account settings.
 
@@ -52,6 +52,8 @@ Please note that the Application utilizes third-party services that have their o
 The AI-generated Action Plan and AI Coach replies are produced by large-language-model AI systems and may contain inaccuracies, omissions, or content that is unsuitable for your specific health, fitness, or dietary situation. You should review all AI-generated suggestions critically and not act on them without the input of a qualified professional.
 
 The Service Provider does not guarantee the accuracy, completeness, currency, or suitability of any AI-generated content for any particular purpose. Where the AI service is unavailable, the Application may fall back to a curated, pre-written library of suggestions; these are also informational and subject to the same Health and BMI Disclaimer above.
+
+AI Coach access may be subject to reasonable usage limits to protect service reliability and prevent abuse. Where such limits are reached, the AI Coach may temporarily ask you to resume the conversation later.
 
 **Internet Connectivity**
 

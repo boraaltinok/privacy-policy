@@ -10,8 +10,8 @@ The Application collects information when you download and use it. This informat
 *   The operating system you use on your mobile device
 *   Crash diagnostic data when the Application encounters an error
 *   Product analytics events (such as which screens you view and which features you interact with)
-*   Anonymous device and user identifiers assigned by Firebase Authentication and the App Store
-*   In-app purchase status and subscription history
+*   An anonymous user identifier assigned by Firebase Authentication, device identifiers used by analytics and crash-reporting services, and purchase entitlement information provided by RevenueCat and the Apple App Store
+*   In-app purchase entitlement status needed to determine whether premium features are available
 
 The Application does not request access to the iOS or Android location APIs and does not use GPS, Wi-Fi-based, or cellular-tower-based location services. Some third-party services listed under "Third Party Access" below (notably Amplitude) may derive an approximate (city / region level) location from the IP address attached to network requests for analytics purposes; the Service Provider does not receive precise geographical coordinates from your device.
 
@@ -19,12 +19,12 @@ The Application does not access the microphone, camera, photo library, contacts,
 
 For a better experience, while using the Application, the Service Provider requires you to provide the following information that you enter into the Application directly:
 
-*   Age, sex assigned at birth, height, and weight — used on-device to calculate your Body Mass Index (BMI) and, for premium users, to generate a personalized Action Plan.
+*   Age, selected sex option (Female / Male / Prefer not to say), height, and weight — used on-device to calculate your Body Mass Index (BMI) and, for premium users, to generate a personalized Action Plan.
 *   Optional weight check-in entries — recorded to display your weight history inside the Application.
 *   Optional answers to a short multiple-choice interview (goal direction, daily routine, coaching style preference) — used to personalize the AI-generated Action Plan.
 *   Optional messages you send to the in-app AI Coach — transmitted to the AI processing service described below to generate a reply.
 
-This information is stored on your device and, for premium users, also synced to the Service Provider's cloud database under an anonymous identifier so that your plan and history are available across sessions.
+Some of this information is stored on your device. Some information may also be synced to the Service Provider's cloud database under an anonymous identifier — primarily to power premium features (plan setup, plan history, weight check-ins, and AI Coach). Interview answers entered before purchase may be stored temporarily under the same anonymous identifier so that your plan setup can be resumed if you leave the Application before unlocking the plan.
 
 The Service Provider does not collect your email address, phone number, real name, postal address, payment card information, or any other directly identifying personal contact information. Payments are processed entirely by the Apple App Store and the Service Provider receives no payment card or billing details.
 
@@ -46,7 +46,7 @@ For premium users, the Application offers an AI-generated Action Plan and an AI 
 *   The messages you type into the AI Coach
 *   A short rolling window of the recent AI Coach conversation, for context
 
-The third-party AI provider used to generate plan content and coach replies is **OpenRouter** (see Third Party Access below). Generated responses are returned to your device for display and stored in the Service Provider's cloud database under your anonymous UID for as long as you continue to use the Application.
+The third-party AI provider used to generate plan content and coach replies is **OpenRouter** (see Third Party Access below). The Application may also send your selected app language / locale so that AI-generated content can be returned in the correct language. Generated responses are returned to your device for display and stored in the Service Provider's cloud database under your anonymous UID for as long as you continue to use the Application.
 
 **Local Device Storage**
 
@@ -68,12 +68,11 @@ Only the data described in the sections above is transmitted to external service
 The Application uses the following third-party services, each of which has its own privacy policy regarding the handling of data:
 
 *   [Firebase Authentication](https://firebase.google.com/support/privacy) — anonymous user identification
-*   [Firebase Cloud Firestore](https://firebase.google.com/support/privacy) — cloud database for premium users' plans, history, and chat
+*   [Firebase Cloud Firestore](https://firebase.google.com/support/privacy) — cloud database for plan setup, plan history, weight check-ins, and AI Coach conversations
 *   [Firebase Cloud Functions](https://firebase.google.com/support/privacy) — backend processing for plan generation and AI Coach
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/) — crash diagnostic reporting
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy) — purchase-event analytics (subscription purchased / cancelled / restored)
-*   [Amplitude](https://amplitude.com/privacy) — product analytics (events, device identifier, IP-derived coarse location)
-*   [RevenueCat](https://www.revenuecat.com/privacy) — in-app subscription management
+*   [Amplitude](https://amplitude.com/privacy) — product analytics, such as screen views, feature interactions, subscription funnel events, and approximate location derived from IP address
+*   [RevenueCat](https://www.revenuecat.com/privacy) — in-app subscription management and entitlement state
 *   [OpenRouter](https://openrouter.ai/privacy) — AI text generation for premium Plan and Coach features
 *   [Apple App Store](https://www.apple.com/legal/privacy/) — payment processing and subscription billing
 
@@ -99,11 +98,11 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 **Children**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+The Application includes BMI calculation inputs for a wide age range, including children and teens, but it is not directed to children under 13 as a standalone child-targeted service. The Service Provider does not market the Application to children under 13. Children under 13 should use the Application only with the involvement and consent of a parent or guardian.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (support@nextline.software) so that they will be able to take the necessary actions.
+For children and teens, BMI should be interpreted with the help of a parent, guardian, or qualified healthcare professional. The age-appropriate result and content shown in the Application is informational only and is not a substitute for pediatric medical guidance.
 
-The Application's BMI calculator supports inputs across all ages, but no separate identifiable information about a child user is collected beyond the anonymized BMI inputs described in the Information Collection and Use section.
+The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age beyond the anonymous BMI inputs described in the Information Collection and Use section. If you are a parent or guardian and you are aware that your child has provided us with personal information that should be removed, please contact the Service Provider at support@nextline.software so that they can take the necessary actions.
 
 **Security**
 

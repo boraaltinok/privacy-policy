@@ -42,7 +42,7 @@ The core functionality of the Application is powered by AI translation and under
 - **Images you capture or select** (for the Scan & Ask feature) are compressed on your device, then sent to our backend and processed by OpenRouter's vision model to read and explain the Thai text they contain.
 
 ### 2.2 No Long-Term Server Storage of Your Content
-Your text, voice recordings, and images are processed **on demand** to return a result and are **not stored on our servers as a personal record or history**. The only server-side caching is a short-lived technical cache used to avoid reprocessing an identical request; it expires automatically (within approximately 24 hours). We do **not** maintain a server-side history of your translations, scans, or recordings, and we do **not** offer cross-device sync.
+Your text, voice recordings, and images are processed **on demand** to return a result and are **not stored on our servers as a personal record or history**. To avoid reprocessing an identical request, the result is held in a short-lived technical cache associated with your anonymous identifier, which expires automatically (within approximately one hour). The original image and audio files are not retained on our servers. We do **not** maintain a long-term server-side history of your translations, scans, or recordings, and we do **not** offer cross-device sync.
 
 ### 2.3 Important Notice About Content You Submit
 Images and voice recordings you submit may contain sensitive information such as personal documents, addresses, or private conversations. We recommend reviewing content before submitting it and avoiding capturing sensitive personal data that is not necessary for translation.
@@ -141,7 +141,7 @@ You can stop all collection of information by the Application by uninstalling it
 
 ## 11. Data Retention Policy
 
-Locally stored data is retained on your device until you delete it or uninstall the Application. Content submitted for AI processing is not retained as a server-side record beyond the short-lived technical cache described in Section 2.2 (approximately 24 hours). Analytics and crash data are retained by the respective providers according to their retention policies. For any data-related request, contact us at [support@nextline.software](mailto:support@nextline.software).
+Locally stored data is retained on your device until you delete it or uninstall the Application. Content submitted for AI processing is not retained as a server-side record beyond the short-lived technical cache described in Section 2.2 (approximately one hour). Analytics and crash data are retained by the respective providers according to their retention policies. For any data-related request, contact us at [support@nextline.software](mailto:support@nextline.software).
 
 ---
 

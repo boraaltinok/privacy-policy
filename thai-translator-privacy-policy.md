@@ -81,8 +81,8 @@ Analytics events are associated with your anonymous identifier and do **not** in
 ### 4.3 Crash Reporting
 The Application uses **Firebase Crashlytics** to record crashes and errors. Crash reports may include diagnostic information such as device model, operating system version, and technical stack traces. They do **not** include the content you submit for translation.
 
-### 4.4 App Tracking Transparency (iOS)
-On iOS devices, the Application may request permission to track your activity through the App Tracking Transparency framework. You may grant or deny this permission, and you can change it at any time in your device settings. Denying tracking does not affect the core functionality of the Application.
+### 4.4 No Cross-App Tracking
+The Application does **not** track you across apps or websites owned by other companies, and it does **not** use advertising identifiers (such as the iOS IDFA). No third-party advertising networks are integrated.
 
 ---
 

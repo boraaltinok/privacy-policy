@@ -95,9 +95,11 @@ With your permission, the Application may send you a push notification (for exam
 
 ---
 
-## 7. Advertising and Tracking (iOS)
+## 7. Advertising and Tracking
 
-On iOS, the Application may ask for permission (via Apple's App Tracking Transparency prompt) to use certain data to measure advertising performance and improve your experience. You can decline, and you can change this choice at any time in your device's privacy settings. We do not sell your personal data.
+The Application does **not** track you across apps or websites owned by other companies, does **not** use the device advertising identifier (IDFA), and does **not** display third-party advertising. Because we do not engage in such tracking, the Application does not present an App Tracking Transparency prompt.
+
+If you install the Application after tapping an Apple Search Ad, our subscription provider (RevenueCat) may receive Apple's privacy-preserving attribution token (via Apple's AdServices framework) solely to measure which campaign led to your install and subscription. This token does not identify you personally and is not used to track you across other companies' apps or websites. We do not sell your personal data.
 
 ---
 

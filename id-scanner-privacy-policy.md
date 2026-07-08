@@ -24,7 +24,7 @@ The Application's third-party SDKs may generate and collect pseudonymous identif
 - **Subscription identifiers** (e.g., RevenueCat anonymous app user IDs)
 - **Anonymous authentication tokens** (e.g., Firebase anonymous auth IDs)
 - **Crash reporting identifiers** (e.g., Firebase Crashlytics installation IDs)
-- **Apple advertising attribution tokens** (used only to measure the effectiveness of our own App Store ads, subject to your App Tracking Transparency choice)
+- **Apple advertising attribution tokens** (Apple's privacy-preserving AdServices token, used only to measure the effectiveness of our own App Store ads; it does not identify you or your device to third parties)
 
 These identifiers are SDK-generated, pseudonymous, and not provided by you. They are used to associate usage data, manage subscriptions, and diagnose issues. Amplitude and RevenueCat may sync identifiers to link analytics data with subscription status. **These identifiers relate to you, the app user — never to the patrons whose IDs you scan.**
 
@@ -97,9 +97,9 @@ The Application utilizes certain third-party services that have their own Privac
 
 ---
 
-## 8. Tracking Transparency (iOS)
+## 8. No Tracking
 
-On iOS, the Application asks for App Tracking Transparency permission to measure which app features and campaigns work so we can improve the product. If you decline, the Application continues to function fully. Patron ID data is never used for tracking under any circumstances.
+The Application does not track you. It does not access the Apple advertising identifier (IDFA), does not request App Tracking Transparency permission, and does not share your data with third parties for advertising or data-broker purposes. Analytics identifiers described in Section 1 are used only for our own product analytics and subscription management. Patron ID data is never used for tracking under any circumstances.
 
 ---
 

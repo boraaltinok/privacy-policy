@@ -35,15 +35,15 @@ To deliver shared planning features, the Application stores information you ente
 - **Coarse location — city and country** associated with your account. When you first sign in, the Application seeds a default city and country based on your device's **language and region settings** (for example, an `en_US` device seeds "New York, United States"). This information is city-level only; we do **not** read GPS, Bluetooth, Wi-Fi, or any iOS / Android device-location service. You can edit or remove the city at any time in Settings. Under Apple's App Privacy taxonomy this counts as **Coarse Location** because city-level data describes your approximate location, regardless of how it was derived.
 - **Notification preferences**
 - **Date and event details you create**: title, description, start time, end time, location, notes, checklist items, status, and post-date ratings or feedback
-- **Photos you add to dates.** If you allow the Application to access your camera or photo library, photos you attach to a date are uploaded to our cloud storage and become visible to your connected partner.
+- **Photos you add to dates.** If you allow the Application to access your photo library, photos you attach to a date are uploaded to our cloud storage and become visible to your connected partner.
 - **Chat messages you send to Juno**, the Application's AI planning assistant. Your messages and Juno's responses are stored in our database under your account so your chat history persists across devices.
 - **Partner invitation codes** that you generate or enter to connect with your partner
 
 ### 1.4 Subscription Information
 When you start a free trial or purchase a subscription, **RevenueCat** processes your purchase and shares with us your subscription status, entitlement, and a RevenueCat user identifier. We do **not** receive your payment card or App Store / Play Store account credentials — these are handled exclusively by Apple or Google.
 
-### 1.5 Camera and Photo Library
-The Application can access your **camera** and **photo library** so you can attach photos to the dates you create. Access is requested only when you tap the add-photo button on a date; if you decline, the rest of the Application continues to work — you just cannot attach photos. Photos you select are uploaded to our cloud storage (see §5) and are visible to your connected partner. You can delete a photo from a date at any time.
+### 1.5 Photo Library
+The Application can access your **photo library** so you can attach photos to the dates you create. Access is requested only when you tap the add-photo button on a date; if you decline, the rest of the Application continues to work — you just cannot attach photos. Photos you select are uploaded to our cloud storage (see §5) and are visible to your connected partner. You can delete a photo from a date at any time.
 
 ### 1.6 Push Notifications (Firebase Cloud Messaging)
 After you sign in and grant notification permission, the Application registers your device with **Firebase Cloud Messaging (FCM)** so we can send remote push notifications for partner-activity events (for example, when your partner creates a new date) and for event updates. To deliver those pushes we:
@@ -151,7 +151,7 @@ You have the right to:
 - **Delete** your account and associated personal data (including chat history and uploaded photos) using the **"Delete Account"** option in Settings. This action is permanent and cannot be undone.
 - **Delete** individual photos from a date at any time from the date's details screen.
 - **Disconnect** from your partner at any time through Settings.
-- **Revoke camera or photo-library access** at any time through your device's Privacy settings. Existing photos already uploaded remain attached to their dates until you delete them.
+- **Revoke photo-library access** at any time through your device's Privacy settings. Existing photos already uploaded remain attached to their dates until you delete them.
 - **Control** which notifications (both local reminders and remote push) you receive through your device's notification settings and the Application's notification preferences. Revoking notification permission stops all deliveries.
 - **Stop all collection** by uninstalling the Application from your device.
 
@@ -191,7 +191,7 @@ If you have any questions about this Privacy Policy or our privacy practices, pl
 
 - **Email**: [support@nextline.software](mailto:support@nextline.software)
 
-**Last Updated**: *April 23, 2026*
+**Last Updated**: *July 16, 2026*
 
 ---
 

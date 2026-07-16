@@ -11,7 +11,7 @@ Shared Calendar for Couples helps two connected partners move beyond schedule co
 - **Shared Calendar**: a month view with all events created by either partner.
 - **AI-Powered Date Ideas**: tap to receive personalized date suggestions based on your saved preferences.
 - **Add and Edit Dates**: capture title, time, location, notes, an optional checklist, and photos.
-- **Date Memories**: attach photos from your camera or photo library to any date.
+- **Date Memories**: attach photos from your photo library to any date.
 - **Date Completion and Ratings**: mark dates complete and add a star rating with optional feedback.
 - **Real-Time Partner Sync**: changes appear on your partner's device in seconds.
 - **Local Reminders**: schedule device-local notifications for upcoming events.
@@ -114,10 +114,10 @@ A: No. AI suggestions are creative ideas only. Always verify that any specific v
 
 ---
 
-### Photos and Camera
+### Photos
 
 **Q: How do I add photos to a date?**
-A: Open a date from the calendar or details screen and tap the add-photo option. The Application will ask for your permission to access your camera and/or photo library the first time.
+A: Open a date from the calendar or details screen and tap the add-photo option. The Application will ask for your permission to access your photo library the first time.
 
 **Q: Where are my photos stored?**
 A: Photos are uploaded to our secure cloud storage (Google Firebase) and stored in an isolated path accessible only to you and your connected partner. They are encrypted at rest and in transit.
@@ -125,9 +125,9 @@ A: Photos are uploaded to our secure cloud storage (Google Firebase) and stored 
 **Q: Can my partner see the photos I add?**
 A: Yes. Photos attached to shared dates are visible to both partners on the same couple account, just like event notes and checklist items.
 
-**Q: I denied camera or photo library permission. How do I enable it later?**
+**Q: I denied photo library permission. How do I enable it later?**
 A: Open your device settings:
-- **iOS**: Settings → Privacy & Security → Camera / Photos → Shared Calendar for Couples
+- **iOS**: Settings → Privacy & Security → Photos → Shared Calendar for Couples
 - **Android**: Settings → Apps → Shared Calendar for Couples → Permissions
 
 You can always use the rest of the Application without granting photo access — you just won't be able to attach photos.
@@ -206,7 +206,7 @@ For privacy-related questions, please reach out to us at [support@nextline.softw
 ---
 
 **App**: Shared Calendar for Couples
-**Last Updated**: April 23, 2026
+**Last Updated**: July 16, 2026
 **Developer**: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
 ---

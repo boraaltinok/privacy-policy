@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-_Last updated: April 23, 2026_
+_Last updated: July 16, 2026_
 
 By downloading or using **Shared Calendar for Couples** (the "Application"), provided by **NEXTLINE YAZILIM LİMİTED ŞİRKETİ** ("Service Provider", "we", or "us"), you agree to be bound by these Terms & Conditions. Please read them carefully. If you do not agree, do not download or use the Application.
 

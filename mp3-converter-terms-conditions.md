@@ -23,16 +23,12 @@ You agree to use the Application only for lawful purposes. You are solely respon
 
 The Application offers premium features through auto-renewable subscriptions managed via Apple's App Store.
 
-- **Free Tier**: Includes core conversion. Some formats, bitrates, and features are limited, and free exports may require watching an optional rewarded advertisement.
-- **Premium Subscription**: Provides access to all formats and bitrates, an ad-free experience, and other premium features.
+- **Free Tier**: Includes core MP3 conversion. The number of free exports is limited, and some formats, bitrates, and features are reserved for Premium. The Application does not show advertisements.
+- **Premium Subscription**: Provides unlimited conversions, access to all formats and bitrates, batch conversion, tag editing, and other premium features.
 - Payment is charged to your Apple ID account at confirmation of purchase.
 - Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
 - You can manage or cancel your subscription at any time through your iPhone Settings > Apple ID > Subscriptions.
 - Refunds are handled by Apple according to their refund policies. To request a refund, visit [reportaproblem.apple.com](https://reportaproblem.apple.com/).
-
-## Advertisements
-
-The Application may display advertisements, including optional rewarded advertisements that you may choose to watch to unlock a free export. These advertisements are served by Google AdMob. By choosing to watch an ad, you consent to AdMob's data collection practices as described in their privacy policy. Premium subscribers do not see advertisements.
 
 ## Third-Party Services
 
@@ -41,11 +37,10 @@ The Application uses the following third-party services, each governed by their 
 - [Google Firebase](https://firebase.google.com/terms) - Anonymous authentication, crash reporting, remote configuration, and analytics
 - [Amplitude](https://amplitude.com/terms-of-service) - Analytics
 - [RevenueCat](https://www.revenuecat.com/terms) - Subscription management
-- [Google AdMob](https://policies.google.com/terms) - Advertising
 
 ## Internet Connection
 
-Certain features of the Application require an active internet connection (importing from a media link, subscription validation, analytics, remote configuration, and advertisements). You are responsible for any data charges incurred. Core functionality (audio extraction and format conversion of files already on your device) works offline.
+Certain features of the Application require an active internet connection (importing from a media link, subscription validation, analytics, and remote configuration). You are responsible for any data charges incurred. Core functionality (audio extraction and format conversion of files already on your device) works offline.
 
 ## Intellectual Property
 

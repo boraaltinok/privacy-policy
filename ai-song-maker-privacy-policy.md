@@ -77,10 +77,6 @@ The Application relies on the following third-party services, each governed by i
 - [ElevenLabs](https://elevenlabs.io/privacy)
 - [Mureka](https://www.mureka.ai/)
 
-## App Tracking Transparency (iOS)
-
-On iOS, the Application asks for your permission through Apple's App Tracking Transparency framework before using your device's advertising identifier for attribution (measuring which campaigns introduce new users to AI Song Maker). If you decline, we do not use tracking for that purpose. **We never sell your personal data.**
-
 ## Notifications
 
 The Application may send you local notifications from your device (for example, reminders or updates about your song). These are scheduled on your device and do not require us to collect additional personal information.
@@ -91,9 +87,8 @@ We use the information described above to:
 
 - Generate your lyrics and sung audio and display them in your Library
 - Operate, maintain, and secure the Application, including enforcing fair-use limits
-- Process subscriptions and purchases
+- Process subscriptions and purchases, including matching a purchase to your anonymous account (subscription attribution via RevenueCat)
 - Measure performance, diagnose crashes, and improve the Application
-- Measure marketing attribution (subject to your tracking choice on iOS)
 
 ## Data Sharing
 
@@ -111,7 +106,6 @@ The Application is not intended for children under the age of 13, and we do not 
 
 - You can stop all further data collection by uninstalling the Application.
 - You can request deletion of your stored songs and associated data by emailing [support@nextline.software](mailto:support@nextline.software).
-- On iOS, you can change tracking permission at any time in your device settings.
 
 ## Changes to This Privacy Policy
 

@@ -18,7 +18,6 @@ When you use the Application, we may automatically collect certain information, 
 - **Usage Data**: Screens visited within the Application, features used, time and date of visits, and other diagnostic data
 - **IP Address**: Your Internet Protocol address (which may indicate your general geographic area)
 - **App Performance Data**: Crash reports, error logs, and performance metrics
-- **Advertising Data**: When ads are shown, the advertising SDK may collect device identifiers, advertising identifiers, and ad interaction data
 
 ### User-Provided Information
 
@@ -36,7 +35,9 @@ MP3 Converter is designed with a local-first, offline, privacy-respecting archit
 - **No Server Upload**: The Application does not upload, transmit, or store the contents of your videos, audio, or converted files on any server.
 - **Local Storage**: Your converted audio files, library history, and preferences are stored locally on your device using an on-device database and the app's document storage. This data is accessible only to the Application and is deleted when you uninstall the app.
 - **Temporary Files**: During conversion, temporary files may be created in the app's temporary directory. These are cleaned up after processing.
-- **Offline Capable**: Core conversion works without an internet connection. An internet connection is only used for optional features such as importing from a media link, subscription validation, analytics, crash reporting, remote configuration, and advertising.
+- **Offline Capable**: Core conversion works without an internet connection. An internet connection is only used for optional features such as importing from a media link, subscription validation, analytics, crash reporting, and remote configuration.
+
+**No Advertising, No Tracking**: The Application does **not** display third-party advertisements, does **not** use advertising SDKs, and does **not** track you across other companies' apps or websites. It does not collect the iOS advertising identifier (IDFA), so no App Tracking Transparency prompt is shown.
 
 ## Permissions
 
@@ -57,16 +58,6 @@ We use Amplitude for analytics to understand user behavior and improve our app. 
 ### RevenueCat
 We use RevenueCat to manage in-app subscriptions and purchases. RevenueCat processes subscription-related data including purchase history, subscription status, and anonymous user identifiers.
 - [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
-
-### Google AdMob
-We use Google AdMob to display advertisements, including optional rewarded ads you may choose to watch to unlock a free export. AdMob may collect device information, advertising identifiers, and ad interaction data.
-- [Google AdMob Privacy Policy](https://policies.google.com/privacy)
-
-### Advertising and Tracking
-
-The Application may display advertisements provided by Google AdMob. AdMob may use device identifiers and limited usage data to deliver and measure advertisements.
-
-On iOS, the Application presents Apple's App Tracking Transparency prompt before any tracking that requires it. You can allow or deny tracking, and you can change this choice at any time under Settings > Privacy & Security > Tracking. Premium subscribers do not see ads.
 
 ## Data Disclosure
 

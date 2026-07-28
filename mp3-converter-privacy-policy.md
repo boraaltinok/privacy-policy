@@ -39,6 +39,8 @@ MP3 Converter is designed with a local-first, offline, privacy-respecting archit
 
 **No Advertising, No Tracking**: The Application does **not** display third-party advertisements, does **not** use advertising SDKs, and does **not** track you across other companies' apps or websites. It does not collect the iOS advertising identifier (IDFA), so no App Tracking Transparency prompt is shown.
 
+**Apple Search Ads Attribution**: To measure the effectiveness of our own Apple Search Ads campaigns, the Application uses Apple's privacy-preserving AdServices framework to receive an attribution token from Apple. This token is processed by RevenueCat on our behalf to tell us which of our advertising campaigns (if any) led to an app install — for example, a campaign or keyword identifier provided by Apple. This does not use the IDFA, does not identify you personally, and does not track you across other companies' apps or websites.
+
 ## Permissions
 
 - **Photo Library**: Requested only so you can pick a video from your photo library to extract its audio. The Application does not scan, index, or upload your photo library. The Application does not request microphone, camera, or location access.
@@ -56,7 +58,7 @@ We use Amplitude for analytics to understand user behavior and improve our app. 
 - [Amplitude Privacy Policy](https://amplitude.com/privacy)
 
 ### RevenueCat
-We use RevenueCat to manage in-app subscriptions and purchases. RevenueCat processes subscription-related data including purchase history, subscription status, and anonymous user identifiers.
+We use RevenueCat to manage in-app subscriptions and purchases. RevenueCat processes subscription-related data including purchase history, subscription status, and anonymous user identifiers. RevenueCat also processes the Apple Search Ads attribution token described above so we can measure our own advertising campaigns.
 - [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 
 ## Data Disclosure
@@ -107,5 +109,5 @@ If you have any questions regarding privacy while using the Application, or have
 
 ---
 
-*Effective Date: July 16, 2026*
+*Effective Date: July 28, 2026*
 *Developer: NEXTLINE YAZILIM LİMİTED ŞİRKETİ*

@@ -29,7 +29,7 @@ The Application does **not** provide account registration or login, and does **n
 
 To operate, improve, and support the Application, certain information is collected automatically through the third-party services listed in Section 3:
 
-- **Pseudonymous identifier.** The Application generates a persistent, pseudonymous user identifier so that analytics, diagnostics, and purchases can be associated with an anonymous device/session. This identifier is created via **Firebase Anonymous Authentication** (an anonymous account with no name, email, or password), and where that is unavailable, falls back to an anonymous RevenueCat identifier or a locally generated random UUID. It is not tied to your real-world identity.
+- **Pseudonymous identifier.** The Application generates a persistent, pseudonymous user identifier so that analytics, diagnostics, and purchases can be associated with an anonymous device/session. This identifier is an anonymous RevenueCat identifier, or where that is unavailable, a locally generated random UUID stored on your device. There is no login or account, and the identifier is not tied to your real-world identity.
 - **Usage and product-analytics events.** Anonymous events describing how the Application is used (for example: onboarding steps completed, lessons finished, accuracy and star outcomes, paywall shown, trial started, purchase made). These events are associated with the pseudonymous identifier above.
 - **Diagnostic and crash data.** If the Application crashes or encounters an error, diagnostic information (device model, operating-system version, and a crash stack trace) is collected to help us fix problems.
 - **Purchase and subscription data.** Subscription status, transaction/purchase history, and trial eligibility, processed by our purchases provider to unlock premium features and restore purchases.
@@ -51,8 +51,6 @@ The Application uses the following third-party services, each with its own priva
 - **Google Analytics for Firebase** (Google) — product/usage analytics.
   https://firebase.google.com/policies/analytics
 - **Firebase Crashlytics** (Google) — crash and diagnostic reporting.
-  https://firebase.google.com/support/privacy
-- **Firebase Authentication** (Google) — anonymous, pseudonymous user identifier only (no login credentials).
   https://firebase.google.com/support/privacy
 - **Amplitude** — product/usage analytics.
   https://amplitude.com/privacy

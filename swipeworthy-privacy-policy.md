@@ -88,7 +88,15 @@ OpenRouter and the underlying model providers may briefly retain submitted input
 ### **2.3 No Facial Recognition**
 The Application does **not** perform facial recognition, identity matching, or biometric extraction. The AI model is asked to critique the presentation quality of a dating profile (photo variety, lighting, prompts, bio fields) — not to identify any individual.
 
-### **2.4 Be Careful What You Upload**
+### **2.4 Sensitive Information Within Screenshots**
+Dating-profile screenshots can incidentally contain sensitive information — for example, text on the profile that reveals sexual orientation, religious views, or health details. Where such information appears in the screenshots you submit, it is processed **only on the basis of the explicit consent** you give on the in-app consent screen, solely to generate your requested audit, and is subject to the same no-storage rule as the rest of your screenshots (Sections 1.3 and 2.1). We do **not** extract, infer, categorize, profile, or retain any such characteristics.
+
+### **2.5 AI Transparency — No Automated Decisions, No Training**
+- All roasts, scores, and fix plans are **AI-generated content** produced for entertainment; they may be inaccurate and are not a factual assessment of any person.
+- The Application makes **no automated decisions producing legal or similarly significant effects** about you (GDPR Art. 22). The output is entertainment feedback you can ignore or delete.
+- We do **not** use your screenshots or results to train AI models. Submissions are forwarded solely to generate your requested audit; the AI routing provider and model providers process them under the retention terms in Section 2.2.
+
+### **2.6 Be Careful What You Upload**
 Because your screenshots are sent to a third-party AI service, you should **only upload screenshots of your own dating profile**. Avoid uploading content that contains personal information you do not want processed by an AI model — for example, other people's profiles, private chat messages, or images of other people without their consent. Crop or redact anything sensitive before uploading. You are responsible for the content you submit.
 
 ---
@@ -183,31 +191,61 @@ No method of transmission or storage is 100% secure, and we cannot guarantee abs
 
 The third-party services listed in Section 3 operate globally. Your information may be processed in the United States or in other countries where these providers maintain infrastructure, including the country where the underlying AI model selected for your request is hosted.
 
+Where personal data of users in the European Economic Area, the United Kingdom, or Switzerland is transferred to these providers, the transfer relies on recognized safeguards: an adequacy decision (including the **EU–U.S. Data Privacy Framework**, under which Google, Amplitude, and RevenueCat are certified) and/or **Standard Contractual Clauses** incorporated into the providers' data-processing terms.
+
 ---
 
-## **12. Changes to This Privacy Policy**
+## **12. Legal Bases for Processing (EEA / UK / Türkiye)**
+
+Where the GDPR, UK GDPR, or Türkiye's KVKK applies, we process personal data on the following legal bases:
+
+| Processing | Legal basis |
+|---|---|
+| AI analysis of the screenshots you submit (incl. any sensitive information they may incidentally contain) | **Explicit consent**, given on the in-app consent screen before your first roast (withdrawable at any time) |
+| Anonymous account, usage counters, fair-use enforcement, 24-hour result cache | **Performance of a contract** (delivering the service you request) and **legitimate interests** (abuse prevention, service integrity) |
+| Subscription entitlement processing | **Performance of a contract** |
+| Crash diagnostics and product analytics | **Legitimate interests** (stability, security, and product improvement, using anonymous identifiers with no content) |
+| Legal compliance disclosures | **Legal obligation** |
+
+You may withdraw your AI-processing consent at any time by simply not starting further roasts, or entirely by uninstalling the Application; withdrawal does not affect the lawfulness of processing before withdrawal.
+
+---
+
+## **13. Your Privacy Rights**
+
+**EEA / UK (GDPR):** You have the right to request access to, rectification of, or erasure of your personal data; restriction of or objection to processing; data portability; and the right to withdraw consent at any time. You also have the right to lodge a complaint with your local data-protection supervisory authority.
+
+**Türkiye (KVKK Art. 11):** You have the corresponding rights to learn whether your data is processed, request information, correction, or deletion, and object to results produced exclusively by automated analysis.
+
+**California (CCPA/CPRA):** We do not sell or share personal information as defined by the CCPA, and we collect no personal identifiers beyond the anonymous categories described above. You have the right to know, delete, and non-discrimination.
+
+To exercise any of these rights, contact **support@nextline.software**. Because accounts are anonymous, we may need additional details (device model, approximate first-launch date) to locate your usage record; most of your content (roast history, photos) exists only on your device, where you can delete it directly (Settings → Delete my data, or uninstalling the Application).
+
+---
+
+## **14. Changes to This Privacy Policy**
 
 This Privacy Policy may be updated from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. Continued use of the Application after changes are posted constitutes your acceptance of those changes.
 
 ---
 
-## **13. Transfer or Assignment**
+## **15. Transfer or Assignment**
 
 We may share or transfer information in connection with any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. In such an event, the acquiring company's use of information will be governed by the terms of this Privacy Policy unless otherwise notified.
 
 ---
 
-## **14. Your Consent**
+## **16. Your Consent**
 
-By using the Application, you consent to the processing of information as described in this Privacy Policy, now and as amended by us.
+Consent for AI processing of your screenshots is collected **explicitly, in the Application, on a dedicated consent screen** before your first roast — not merely by your use of the Application. For the other processing described in this policy, the applicable legal bases are set out in Section 12.
 
 ---
 
-## **15. Contact Us**
+## **17. Contact Us**
 
 If you have any questions about this Privacy Policy or about our practices, please contact us:
 
 - **Email**: [support@nextline.software](mailto:support@nextline.software)
 - **Developer**: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
-**Last Updated**: 07/29/2026
+**Last Updated**: 08/16/2026

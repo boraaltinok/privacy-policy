@@ -53,6 +53,7 @@ You retain ownership of the content you submit. By submitting content, you grant
 
 The Application uses **OpenRouter** (https://openrouter.ai), a third-party AI routing service, to analyze your screenshots with vision-capable large language models.
 
+- All roasts, scores, and fix plans are **AI-generated content** and are labeled as such throughout the Application.
 - AI-generated text is produced statistically and may be inaccurate, blunt, offensive, repetitive, or unexpected. The roast is intentionally harsh humor — if you would prefer not to receive pointed criticism of your profile, do not use the Application.
 - The Service Provider does not guarantee that any roast, score, or fix-plan item will be accurate, funny, effective, or of any particular quality, or that following the fix plan will improve your results on any dating platform.
 - You are solely responsible for how you choose to use, share, or republish AI-generated output, including share cards you export. The Service Provider is not responsible for consequences arising from your use of generated output.
@@ -156,4 +157,4 @@ If you have any questions or suggestions about these Terms and Conditions, pleas
 - **Email**: [support@nextline.software](mailto:support@nextline.software)
 - **Developer**: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
-**Effective Date**: 07/29/2026
+**Effective Date**: 08/16/2026

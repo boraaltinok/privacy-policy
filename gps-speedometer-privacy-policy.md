@@ -45,6 +45,7 @@ The Application and its SDKs generate pseudonymous identifiers. These are not pr
 - **RevenueCat anonymous app user ID.** A random ID created by the RevenueCat SDK on first launch. It is used to keep track of your premium entitlement.
 - **App Store transaction identifiers** for purchases and subscriptions.
 - **Apple Search Ads attribution token.** The RevenueCat SDK may collect an anonymized AdServices token to measure whether the install came from an Apple Search Ads campaign. It does not identify you and does not involve cross-app tracking.
+- **Vendor identifier (IDFV).** The RevenueCat SDK also sends Apple's per-developer device identifier (identifierForVendor) so purchases can be matched to the device. It is not the advertising identifier and is not used for tracking.
 - **A random installation ID** may be generated and stored on the device for internal use. It stays on the device.
 
 The Application does **not** ask for permission to track you across other apps and websites. It does not show the App Tracking Transparency prompt, it does not use the advertising identifier (IDFA), and it shows no ads.

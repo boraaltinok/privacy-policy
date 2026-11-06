@@ -26,7 +26,7 @@ A: Yes. You can select a logo or images from your photo library. A logo or image
 ### Scanning & AI Import
 
 **Q: How does AI Import work?**
-A: With your permission, the app uses your camera to scan a paper menu (or you can pick a photo from your library). The photo is securely uploaded to our backend, where an AI service extracts the text into a structured menu you can edit. The free tier includes 1 AI import; Premium unlocks unlimited imports.
+A: With your permission, the app uses your camera to scan a paper menu (or you can pick a photo from your library). The photo is securely uploaded to our backend, where an AI service extracts the text into a structured menu you can edit. The free tier includes 1 AI import; Premium includes up to 60 imports per 30 days.
 
 **Q: Are the AI results always accurate?**
 A: Not always. AI extraction and translation are automated and may contain errors or omissions. Always review and correct the imported dishes, descriptions, and prices before publishing or printing your menu.
@@ -58,7 +58,7 @@ A: Premium users can translate menu text into other languages. Translation is pe
 ### Subscription & Premium
 
 **Q: What do I get with Premium?**
-A: Premium unlocks exporting (PDF/image), publishing your QR web menu, menu translation, and unlimited AI imports. The free tier lets you build and preview a menu and includes 1 AI import.
+A: Premium unlocks exporting (PDF/image), publishing your QR web menu, menu translation, up to 10 menus and up to 60 AI imports per 30 days. The free tier lets you build and preview a menu and includes 1 AI import.
 
 **Q: How do I restore my purchase on a new device?**
 A: Go to Settings and choose Restore Purchases. Your subscription is linked to your App Store account and will be restored automatically.
@@ -72,10 +72,13 @@ A: Subscriptions are auto-renewable and managed through your App Store account. 
 A: Yes — you can build, edit, and preview menus offline. Features such as AI Import, translation, and publishing require an internet connection.
 
 **Q: Where is my menu data stored?**
-A: The menus you build are stored locally on your device. Data leaves your device only when you use AI Import or translation, or when you choose to publish a menu. See our [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/menu-maker-privacy-policy.md) for details.
+A: Your menus are stored on your device and synced to our secure cloud database so they are backed up. Only you can access your private menus. If you sign in with Apple or Google, your item photos and logo are backed up too, so you can restore everything on a new phone. Menu photos you scan for AI Import are processed by an AI service and deleted within 24 hours. See our [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/menu-maker-privacy-policy.md) for details.
 
-**Q: How do I delete my data?**
-A: Your menus are stored locally on your device. You can delete them by clearing the app's data in your device settings or by uninstalling the app. If you have published a menu and want it removed from its public web address, unpublish it in the app or contact support.
+**Q: How do I move my menus to a new phone?**
+A: Sign in with Apple or Google in Settings on your current phone, then sign in with the same account on the new phone. Your menus, photos and QR menu will be restored.
+
+**Q: How do I delete my account and data?**
+A: If you are signed in, go to Settings › Delete account. This permanently deletes your account, synced menus, published QR menus, and uploaded photos from our servers. If you have not signed in, email us at support@nextline.software and we will delete the data associated with your app. Deleting your account does not cancel a subscription — cancel it in your App Store subscription settings.
 
 ### Technical Support
 
@@ -112,7 +115,7 @@ For privacy-related inquiries or concerns, please contact us at [support@nextlin
 ---
 
 **App Version**: Latest
-**Last Updated**: July 13, 2026
+**Last Updated**: November 6, 2026
 **Developer**: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
 
 ---

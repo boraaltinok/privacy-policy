@@ -1,12 +1,12 @@
 # Terms and Conditions
 
-_Last updated: 2026-11-07_
+_Last updated: November 21, 2026_
 
-These Terms and Conditions ("Terms") govern your use of **Reps** (App Store name: "Kegel Exercises for Men: Reps", the "Application") provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("Service Provider", "we", or "us"). By downloading, installing, or using the Application you agree to these Terms. If you do not agree, do not use the Application.
+These Terms and Conditions ("Terms") govern your use of **Reps** (store name on the App Store: "Kegel Exercises for Men: Reps"; on Google Play: "Kegel Workout for Men: Reps"; the "Application"), on iPhone and on Android, provided by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("Service Provider", "we", or "us"). By downloading, installing, or using the Application you agree to these Terms. If you do not agree, do not use the Application.
 
 ## 1. The Application
 
-The Application is a guided pelvic-floor (kegel) exercise program for men. It offers an 8-week training plan of short daily sessions with vibration, tone, or voice cues, step-by-step guides, a weekly self-timed hold test, streaks and reminders, and general educational content linked to published sources. The Application has no user accounts, and your training information is stored only on your device.
+The Application is a guided pelvic-floor (kegel) exercise program for men. It offers a 12-week training plan of short daily sessions with vibration, tone, or voice cues, step-by-step guides, a weekly self-timed hold test, streaks and reminders, and general educational content linked to published sources. The Application has no user accounts, and your training information is stored only on your device.
 
 The Application is intended for adults aged 18 and over.
 
@@ -26,11 +26,11 @@ You use the Application and perform the exercises at your own risk and are respo
 
 ## 3. License
 
-We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the Application on an Apple device that you own or control, solely for your personal, non-commercial use, subject to these Terms and the Apple Media Services Terms and Conditions. Where these Terms and Apple's Licensed Application End User License Agreement conflict, the Apple terms apply to the extent required.
+We grant you a limited, non-exclusive, non-transferable, revocable license to install and use the Application on a device that you own or control, solely for your personal, non-commercial use, subject to these Terms and the terms of the store you got it from: on an Apple device, the Apple Media Services Terms and Conditions (where these Terms and Apple's Licensed Application End User License Agreement conflict, the Apple terms apply to the extent required); on an Android device, the Google Play Terms of Service.
 
 ## 4. Your Data
 
-Your training log, hold tests, answers, and settings are stored on your device and are not transmitted to us; we have no copy of them. If you delete the Application, this data is deleted. If you want to keep it when changing devices, use an iCloud or computer backup of your device (managed by Apple). Restoring a purchase restores your Reps Plus access, not your training log. How we handle information is described in our Privacy Policy.
+Your training log, hold tests, answers, and settings are stored on your device and are not transmitted to us; we have no copy of them. If you delete the Application, this data is deleted. If you want to keep it when changing devices, use your device's backup (iCloud or a computer backup on iPhone, Google backup on Android; managed by Apple or Google). Restoring a purchase restores your Reps Plus access, not your training log. How we handle information is described in our Privacy Policy.
 
 ## 5. Acceptable Use
 
@@ -45,35 +45,36 @@ You agree not to:
 
 The Application is free to download. The free version includes onboarding, your first guided session, your day-1 hold test, the full plan to read, all Learn, how-to, and safety content, reminders, and all privacy features. **Reps Plus** unlocks every session of the plan, weekly hold tests, and the maintenance and repeat programs. Reps Plus is offered as:
 
-- **Yearly**: an auto-renewing yearly subscription. Eligible new subscribers get a **7-day free trial**. Whether you are eligible is determined by Apple, and the trial is shown in the Application only when your Apple ID is eligible.
-- **Lifetime**: a one-time, non-renewing purchase that unlocks Reps Plus permanently on your Apple ID.
+- **Yearly**: an auto-renewing yearly subscription. Eligible new subscribers get a **7-day free trial**. Whether you are eligible is determined by the store (Apple or Google Play), and the trial is shown in the Application only when your store account is eligible.
+- **Lifetime**: a one-time, non-renewing purchase that unlocks Reps Plus permanently on your store account (Apple ID or Google account).
 
 The following terms apply:
 
-- **Price.** The current price in your local currency is shown on the plan cards and under the purchase button before you buy, and on the App Store listing. Prices may vary by country and may include taxes.
-- **Payment.** Payment is charged to your Apple ID when you confirm the purchase, or, with a free trial, when the trial ends. Apple processes all payments; we never receive your payment-card details.
+- **Price.** The current price in your local currency is shown on the plan cards and under the purchase button before you buy, and on the store listing. Prices may vary by country and may include taxes.
+- **Payment.** Payment is charged to your store account (Apple ID or Google account) when you confirm the purchase, or, with a free trial, when the trial ends. Apple or Google processes all payments; we never receive your payment-card details.
 - **Free trial.** A free trial converts automatically into a paid yearly subscription at the end of the trial unless you cancel at least 24 hours before it ends. If you allow notifications, the Application tries to remind you two days before the trial ends (and shows a banner in the Application otherwise); this reminder is a courtesy and does not change your responsibility to cancel in time.
-- **Auto-renewal.** The yearly subscription renews automatically for another year at the then-current price unless auto-renew is turned off at least 24 hours before the end of the current period. Your Apple ID is charged for renewal within 24 hours before the end of the current period.
-- **Cancellation.** You can cancel at any time, including during the free trial, in **iOS Settings › [your name] › Subscriptions** or from **Reps › Settings › Plan & subscription › Manage subscription**. Cancelling stops future renewals; you keep Reps Plus until the end of the period you already paid for (or the end of the trial).
+- **Auto-renewal.** The yearly subscription renews automatically for another year at the then-current price unless auto-renew is turned off at least 24 hours before the end of the current period. On iPhone, your Apple ID is charged for renewal within 24 hours before the end of the current period; on Android, Google Play charges on the renewal date.
+- **Cancellation.** You can cancel at any time, including during the free trial, on iPhone in **iOS Settings › [your name] › Subscriptions**, on Android in **Google Play › Profile › Payments & subscriptions › Subscriptions**, or from **Reps › Settings › Plan & subscription › Manage subscription**. Cancelling stops future renewals; you keep Reps Plus until the end of the period you already paid for (or the end of the trial).
 - **Switching to Lifetime.** Buying Lifetime does **not** cancel an active yearly subscription automatically. If you switch, cancel the yearly subscription yourself so you are not charged again; the Application reminds you to do this.
-- **Refunds.** Purchases are handled by Apple, and refund requests are governed by Apple's policies. You can request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds directly.
-- **Restore.** You can restore previous purchases on the same Apple ID from **Settings › Restore purchases**.
+- **Refunds.** Purchases are handled by Apple or Google, and refund requests are governed by their policies. On iPhone you can request a refund at [reportaproblem.apple.com](https://reportaproblem.apple.com); on Android, see [Google Play's refund page](https://support.google.com/googleplay/answer/2479637). We cannot issue refunds directly.
+- **Restore.** You can restore previous purchases on the same store account (Apple ID or Google account) from **Settings › Restore purchases**.
 - **After Reps Plus ends.** Nothing is deleted. Your plan, chart, streak history, and settings remain readable; starting new sessions and tests requires Reps Plus again.
-- **Changes.** We may change prices or plans for future purchases and renewals. Any price change for an existing subscription follows Apple's rules, including any notice or consent Apple requires.
+- **Changes.** We may change prices or plans for future purchases and renewals. Any price change for an existing subscription follows the store's rules (Apple or Google Play), including any notice or consent the store requires.
 
 ## 7. Internet Connectivity
 
-Training sessions, cues, hold tests, the plan, Learn content, and reminders work **offline**. An internet connection is needed for purchases and restores, for loading current prices, for opening external source links, and for sending crash reports and (if you allowed it) anonymous usage analytics. You are responsible for any data charges from your mobile network provider.
+Training sessions, cues, hold tests, the plan, Learn content, and reminders work **offline**. An internet connection is needed for purchases and restores, for loading current prices, for opening external source links, and for sending crash reports and (while it is on) anonymous usage analytics. You are responsible for any data charges from your mobile network provider.
 
 ## 8. Service Availability
 
-We may modify, suspend, or discontinue the Application or any feature at any time. We do not guarantee that the Application will always be available, error-free, or uninterrupted, or that cues will play correctly on every device, audio route, or iOS setting (for example, with silent mode, Focus modes, Bluetooth devices, or incoming calls). We are not responsible for problems caused by unauthorized device modifications such as jailbreaking.
+We may modify, suspend, or discontinue the Application or any feature at any time. We do not guarantee that the Application will always be available, error-free, or uninterrupted, or that cues will play correctly on every device, audio route, or operating-system setting (for example, with silent mode, Focus modes, Bluetooth devices, or incoming calls). We are not responsible for problems caused by unauthorized device modifications such as jailbreaking or rooting.
 
 ## 9. Third-Party Services and Links
 
-The Application uses third-party services (Apple's App Store, RevenueCat, and Google Firebase), each operating under its own terms:
+The Application uses third-party services (Apple's App Store, Google Play, RevenueCat, and Google Firebase), each operating under its own terms:
 
 - [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/)
+- [Google Play Terms of Service](https://play.google.com/about/play-terms/)
 - [RevenueCat Terms of Service](https://www.revenuecat.com/terms)
 - [Firebase Terms of Service](https://firebase.google.com/terms)
 
@@ -93,7 +94,7 @@ To the fullest extent permitted by law, the Service Provider shall not be liable
 
 ## 13. Termination
 
-These Terms apply while you use the Application. We may suspend or terminate your license if you breach these Terms. You may stop using the Application at any time by deleting it (remember to cancel any active subscription through Apple). Sections that by their nature should survive termination (license restrictions, intellectual property, health disclaimer, disclaimers, limitation of liability, governing law) survive.
+These Terms apply while you use the Application. We may suspend or terminate your license if you breach these Terms. You may stop using the Application at any time by deleting it (remember to cancel any active subscription through Apple or Google Play). Sections that by their nature should survive termination (license restrictions, intellectual property, health disclaimer, disclaimers, limitation of liability, governing law) survive.
 
 ## 14. Updates
 

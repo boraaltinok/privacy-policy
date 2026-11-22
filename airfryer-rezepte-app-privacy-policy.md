@@ -1,175 +1,144 @@
-# Privacy Policy for Airfryer Rezepte App
+# Privacy Policy
 
-**Effective date: January 10, 2025**
+_Last updated: 22 November 2026_
 
-NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("us", "we", or "our") operates the Airfryer Rezepte App mobile application (the "Service").
+This Privacy Policy covers the air fryer recipe app of NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we", "us") on iPhone (App Store) and on Android (Google Play) (the "App"). On Google Play it is called "Fryly" (in English "Go-To Air Fryer Recipes: Fryly"). On the App Store its name differs by country and language, for example "Airfryer Rezepte App". It is the same app.
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+The App has **no account, no login and no password**. We never ask for your name or email address. The App shows no ads.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+## 1. What stays on your phone
 
-## Information Collection and Use
+These are saved only in the App's own storage on your phone. We do not receive them as a list or a profile:
 
-We collect several different types of information for various purposes to provide and improve our Service to you.
+- your favourite recipes;
+- your language choice and the "Simple Recipes" switch;
+- a copy of your answers to the first questions (cooking goals, dietary preferences);
+- copies of recipes and pictures the App has already loaded.
 
-### Types of Data Collected
+Deleting the App deletes them. Your phone's own backup (iCloud or a computer backup on iPhone, Google backup on Android) may include them; that backup is run by Apple or Google, not by us.
 
-#### Personal Data
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). This may include, but is not limited to:
-- Anonymous user identifier for favorites and preferences
-- Recipe usage patterns and cooking history
-- App usage analytics and crash reports
+## 2. What leaves your phone
 
-#### Usage Data
-We may also collect information that your device sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
+### An anonymous sign-in (always)
 
-This Usage Data may include information such as:
-- Your device's Internet Protocol address (IP address)
-- Device operating system and version
-- The pages/screens of our Service that you visit
-- The time and date of your visit
-- The time spent on those pages/screens
-- Unique device identifiers and other diagnostic data
-- Recipe viewing and cooking activity patterns
-- Filter preferences and search queries
+When the App first opens, Google's Firebase Authentication gives it a random **user ID**. There is no name, email or password behind it. The App needs it to load recipes and to find your purchase again. Google also processes your IP address for this sign-in, for security.
 
-#### Recipe and Content Data
-When you use our airfryer recipe features, we may collect:
-- Recipes you view, favorite, or interact with
-- Cooking mode completion and timing data
-- Recipe search terms and filter preferences
-- User-generated cooking notes and preferences
-- App language and measurement unit preferences
+### Recipes and pictures (always)
 
-#### Location Data
-We may use and store information about your location if you give us permission to do so ("Location Data"). We use this data to provide features of our Service, to improve and customize our Service.
+Recipes are loaded from Google's Cloud Firestore, pictures from Google Cloud Storage, and the App's font from Google Fonts. As with any download, these requests carry your IP address, and recipe requests carry the user ID above. We do not write your favourites or answers to this database.
 
-You can enable or disable location services when you use our Service at any time by way of your device settings.
+### Purchases (always)
 
-## Use of Data
+Purchases are paid through Apple (App Store) on iPhone and through Google Play on Android. We never see your card details. RevenueCat, our purchase service, keeps your **purchase and subscription history** under the same user ID, with technical details such as the App version, your phone's system and its version, and the country you last connected from. On iPhone only, RevenueCat may also collect Apple's Search Ads token, which tells us whether one of our App Store ads led to the install (see section 4).
 
-Airfryer Rezepte App uses the collected data for various purposes:
-- To provide and maintain our Service
-- To provide customer support
-- To gather analysis or valuable information so that we can improve our Service
-- To monitor the usage of our Service
-- To detect, prevent and address technical issues
-- To provide you with personalized recipe recommendations based on your cooking preferences
-- To improve our recipe content and user experience
-- To send you app updates and important service announcements
-- To comply with legal obligations
+### Usage statistics
 
-## Third Party Access
+We use **Google Analytics for Firebase** on both phones, and **Amplitude** on iPhone only, to see how the App is used.
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+- **On iPhone:** usage statistics are **on** for everyone. The App has no switch for them.
+- **On Android:** usage statistics are **off** if the country in your phone's language setting is in the European Union (including EU areas with their own country codes, such as Réunion or the Canary Islands), Iceland, Liechtenstein, Norway, the United Kingdom or Switzerland, or if that country is unknown. Otherwise they are on, and only Google Analytics receives them. The Android app sends nothing to Amplitude. The App has no switch for them. It reads this setting at every start; it does not look at where you are.
 
-We may share your information with the following third-party services:
+On iPhone, **Amplitude** receives events tied to the user ID above and to a device ID (the ID Apple gives our apps on that phone), such as:
 
-**Google Analytics for Firebase**
-- Purpose: Analytics and performance monitoring
-- Data shared: Anonymized usage patterns, app performance metrics
-- Privacy Policy: https://policies.google.com/privacy
+- which screens and buttons you used, and when the App was opened or closed;
+- the **cooking goals and dietary preferences you pick in the first questions** (for example "eat healthier", "vegan", "gluten free", "nut free");
+- which recipes you opened, saved as a favourite or cooked in cooking mode (recipe ID and title), and which category or diet filter you tapped;
+- the length of a search (not the words you typed);
+- your language, the country in your phone's language setting, phone model, system version and App version;
+- that a paywall was shown, which plan was bought, its price and currency;
+- error messages and loading times.
 
-**Firebase Crashlytics**
-- Purpose: Crash reporting and stability improvement
-- Data shared: Technical crash data and diagnostic information
-- Privacy Policy: https://policies.google.com/privacy
+**Google Analytics** receives only its own automatic events (for example first open, sessions, screen views and purchases). It stores them under its own random ID, not under your user ID.
 
-**Firebase Cloud Firestore**
-- Purpose: Recipe data storage and real-time synchronization
-- Data shared: Recipe favorites, user preferences, cooking history
-- Privacy Policy: https://policies.google.com/privacy
+Amplitude (on iPhone) and Google work out an **approximate location** (city, region or country) from your IP address. The App never asks for your location.
 
-**Firebase Authentication**
-- Purpose: Anonymous user account management
-- Data shared: Anonymous user identifiers for data persistence
-- Privacy Policy: https://policies.google.com/privacy
+These records are tied to random IDs, not to your name. They are not anonymous in the legal sense: with the ID they belong to one install.
 
-**RevenueCat**
-- Purpose: In-app purchase and subscription management
-- Data shared: Purchase information, subscription status
-- Privacy Policy: https://www.revenuecat.com/privacy
+### Crash reports (always)
 
-**Amplitude Analytics**
-- Purpose: User behavior analytics and app improvement
-- Data shared: App usage patterns, feature engagement metrics
-- Privacy Policy: https://amplitude.com/privacy
+If the App crashes or hits an error, Firebase Crashlytics receives the error details, phone model, system version, App version and its own random installation ID (not your user ID).
 
-## Opt-Out Rights
+### Apple's tracking question (iPhone only)
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+On iPhone the App shows Apple's tracking question at first launch (the choices are "Allow" and "Ask App Not to Track"). If you allow it, Google Analytics may read your iPhone's advertising identifier (IDFA). If you choose "Ask App Not to Track", it is not read. We do not use it to show ads. We have not linked Google Analytics to any advertising account.
 
-### Data Deletion
-You can request deletion of your personal data by contacting us at support@nextline.software. We will process your request within 30 days.
+### Emails you send us
 
+If you write to us, we receive your email address and your message. **Settings › Contact Us** opens an email whose subject line carries your user ID, so that we can find or delete your records. You may remove it before sending. Settings opens only with Premium, or while the App is open without payment (see section 8).
 
-## Data Retention Policy
+## 3. What we do not collect
 
-We will retain user data for as long as you use the Application and for a reasonable time thereafter. If you'd like us to delete User Provided Data that you have provided via the Application, please contact us at support@nextline.software and we will respond in a reasonable time.
+- Your name, email address (unless you write to us), phone number or address.
+- Your precise location, contacts, photos, camera, microphone or calendar.
+- Health records or your weight. The App does not track your meals. On iPhone, the dietary preferences you pick in the first questions are sent to Amplitude as described in section 2; on Android they stay on your phone. Some of them (for example "gluten free" or "nut free") can say something about your health.
+- **On Android: no advertising ID.**
+- The App contains no ad network and no Facebook or Meta software.
 
-### Specific Retention Periods
-- **Recipe favorites and preferences**: Retained while your account is active
-- **Usage analytics**: Anonymized and aggregated data retained for up to 2 years
-- **Crash reports**: Technical data retained for up to 1 year for debugging purposes
-- **Purchase history**: Retained as required by legal and tax obligations
+## 4. Why we use this information
 
-## Children's Privacy
+- to show recipes and keep the App working (anonymous sign-in, recipe downloads);
+- to process and restore purchases (Apple, Google Play, RevenueCat);
+- to find and fix crashes (Firebase Crashlytics);
+- to understand how the App is used so we can improve it (Google Analytics; Amplitude on iPhone);
+- on iPhone, to see which of our App Store ads bring buyers, so that we can decide what we bid and spend on them (Apple's Search Ads token together with the purchase record, at RevenueCat);
+- to answer your emails.
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions.
+We do not sell your information, and the App shows no ads. We do advertise the App on the App Store (see the list above).
 
-## Security
+## 5. Legal bases (European Union, UK and similar laws)
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Where laws such as the GDPR apply, we rely on:
 
-### Security Measures
-- Data encryption in transit using HTTPS/TLS
-- Encrypted data storage in Firebase Cloud Firestore
-- Regular security updates and patches
-- Access controls and authentication for administrative functions
+- **performance of a contract** for the anonymous sign-in, recipe downloads and purchases;
+- our **legitimate interest** in a stable App, for crash reports;
+- **on iPhone**, our **legitimate interest** in improving the App and in knowing which of our App Store ads bring buyers, for the usage statistics (including the cooking goals and dietary preferences you pick) and for measuring our App Store ads.
 
-## Changes to This Privacy Policy
+**On Android**, usage statistics are off in the European Union (including EU areas with their own country codes), Iceland, Liechtenstein, Norway, the United Kingdom and Switzerland, and when the country is unknown (section 2).
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "effective date" at the top of this Privacy Policy.
+You may object at any time. Write to us and we delete what is stored under your user ID (section 8). To stop further collection, delete the App.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+## 6. Who receives information
 
-## International Data Transfers
+These companies process information for us, each under its own privacy policy:
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+- [Google Firebase and Google Cloud](https://firebase.google.com/support/privacy) (sign-in, recipes, pictures, crash reports, Google Analytics, fonts)
+- [Amplitude](https://amplitude.com/privacy) (usage statistics; iPhone only)
+- [RevenueCat](https://www.revenuecat.com/privacy) (purchases)
+- [Apple](https://www.apple.com/legal/privacy/) (App Store purchases, Search Ads token; iPhone only)
+- [Google Play](https://policies.google.com/privacy) (purchases on Android)
 
-By using our Service, you consent to the transfer of your information to facilities in the United States and other countries where our service providers operate.
+Their servers may be in the United States and other countries outside your own.
 
-## Legal Basis for Processing (EU Users)
+## 7. How long we keep it
 
-If you are located in the European Union, our legal basis for processing your personal data includes:
-- Performance of a contract with you
-- Compliance with legal obligations
-- Legitimate interests in providing and improving our services
-- Your consent where required by law
+- Information on your phone stays until you delete the App.
+- **Stored under your user ID:** the anonymous sign-in record (Firebase), the purchase record (RevenueCat) and, on iPhone, the usage records at Amplitude. They are kept until you ask us to delete them (section 8), or as long as each provider keeps them under its own rules.
+- **Stored under other random IDs:** Google Analytics records and crash reports. We cannot pick out one person's. Google Analytics records are kept for at most 14 months. Crash reports are deleted after Google's own keep-time.
+- Apple, Google and RevenueCat may keep purchase records longer where accounting or tax law requires it.
 
-## Your Rights (EU Users)
+## 8. Your choices and how to delete your data
 
-Under the General Data Protection Regulation (GDPR), you have the right to:
-- Access your personal data
-- Correct inaccurate personal data
-- Delete your personal data
-- Restrict processing of your personal data
-- Data portability
-- Object to processing
-- Withdraw consent
+- **Delete the App** to remove everything stored on your phone and to stop any further collection.
+- **Ask us to delete the records stored under your user ID:** email [support@nextline.software](mailto:support@nextline.software) from **Settings › Contact Us** (the subject line carries your user ID) and write "delete my data". Within 30 days we delete the sign-in record at Firebase, the customer record at RevenueCat and, on iPhone, the usage records at Amplitude that belong to that ID.
+- **If you cannot open Settings.** Settings opens only with Premium, or while the App is open without payment. If you never bought Premium, you may not be able to open it, and then the App cannot show you your user ID. Without it we cannot find your records, because the App has no account. You may still write to [support@nextline.software](mailto:support@nextline.software), and we will help as far as we can.
+- **What we cannot delete on request:** Google Analytics records and crash reports are not stored under your user ID, so we cannot pick yours out. They are deleted after the keep-times in section 7.
+- On iPhone you can change the tracking permission in **iOS Settings › Privacy & Security › Tracking**.
 
-To exercise these rights, please contact us at support@nextline.software.
+Depending on where you live, you may also have the right to access or correct your data, to object to or restrict its use, to data portability, and to complain to your data-protection authority.
 
-## Consent
+## 9. Children
 
-By using our app, you are giving us consent to collect and use information in accordance with this privacy policy. If you do not agree to this privacy policy, please do not use our Service.
+The App is for a general audience and is not directed to children under 13 (or the higher age your country sets). We do not knowingly collect information from them. If you believe a child has used the App, write to [support@nextline.software](mailto:support@nextline.software) and send the user ID from **Settings › Contact Us** on that phone. We then delete the records stored under it. Without the ID we cannot find them.
 
-## Contact Us
+## 10. Nutrition information is not medical advice
 
-If you have any questions about this Privacy Policy, please contact us:
-- By email: support@nextline.software
-- Company: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
+Nutrition numbers in the App are estimates. See our [Disclaimer](https://github.com/boraaltinok/privacy-policy/blob/main/air-fryer-recipes-disclaimer.md).
 
----
+## 11. Changes
 
-*This privacy policy is effective as of January 10, 2025 and was last updated on January 10, 2025.*
+We may update this Privacy Policy. The latest version is posted at the same address with a new "Last updated" date.
+
+## 12. Contact
+
+NEXTLINE YAZILIM LİMİTED ŞİRKETİ
+Email: [support@nextline.software](mailto:support@nextline.software)

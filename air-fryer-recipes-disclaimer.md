@@ -1,69 +1,62 @@
+# Disclaimer
 
- # Disclaimer
+_Last updated: 22 November 2026_
 
-  ## Overview
-  This application, referred to as "Airfryer Rezepte App", is designed to provide nutritional estimates and cooking guidance for air fryer recipes. While we
-  strive to provide accurate information, please understand the limitations outlined below.
+This Disclaimer covers the air fryer recipe app of NEXTLINE YAZILIM LİMİTED ŞİRKETİ on iPhone (App Store) and on Android (Google Play) (the "App"). On Google Play it is called "Fryly" (in English "Go-To Air Fryer Recipes: Fryly"). On the App Store its name differs by country and language, for example "Airfryer Rezepte App". It is the same app.
 
-  ## 1. Accuracy and Reliability
-  All nutritional calculations and cooking information are estimates based on standard ingredient databases and cooking methods. We do not guarantee the
-  accuracy or reliability of these estimates, as actual nutritional content may vary significantly based on:
-  - Specific brands and varieties of ingredients used
-  - Preparation methods and cooking techniques
-  - Portion sizes and serving measurements
-  - Individual air fryer models and cooking conditions
+## 1. Nutrition numbers are estimates
 
-  Users should regard such information as general guidance, not precise nutritional data.
+Nutrition numbers and cooking information in the App are estimates. The real values change with:
 
-  ## 2. Medical Disclaimer
-  The content provided by Airfryer Rezepte App, including nutritional information and dietary recommendations, is for educational and informational purposes
-  only and should not be construed as, or substitute for, professional medical advice, diagnosis, or treatment. We strongly recommend that users consult with
-   a healthcare professional before making any dietary changes or following specific nutritional guidelines provided by this application.
+- the brands and kinds of ingredients you use;
+- how you prepare and cook them;
+- portion sizes;
+- your air fryer model.
 
-  We bear no responsibility for any health or dietary outcomes derived from the use of this application. Please do not use our Services if you suffer from,
-  or might suffer from, any medical condition that may be impaired by diet or specific foods.
+Treat them as a general guide, not as exact data.
 
-  ## 3. Food Allergies and Intolerances
-  Airfryer Rezepte App may provide information about food ingredients and recipe components. However, this information may be incomplete or inaccurate and
-  might not include all potential allergens or ingredients unsuitable for certain individuals. We bear no responsibility for food allergies, intolerances, or
-   adverse reactions. It is the user's responsibility to:
-  - Carefully review all recipe ingredients
-  - Identify and avoid consuming foods harmful to them
-  - Check for cross-contamination risks in preparation and cooking
-  - Consult healthcare providers regarding dietary restrictions
+## 2. Not medical advice
 
-  ## 4. Cooking Safety
-  Air fryer cooking involves high temperatures and electrical equipment. Users are responsible for:
-  - Following manufacturer's safety guidelines for their specific air fryer model
-  - Ensuring proper food safety and temperature guidelines
-  - Understanding that cooking times and temperatures may vary between different air fryer models
-  - Practicing safe cooking techniques and kitchen safety
+The App's content, including nutrition numbers and diet labels, is for general information only. It is not medical or dietary advice, a diagnosis or a treatment. Talk to a doctor or dietitian before you change your diet, and do not rely on the App if you have a condition that food can affect.
 
-  We are not responsible for any injuries, damages, or foodborne illness that may result from following recipes or cooking instructions provided in this
-  application.
+## 3. Allergies and intolerances
 
-  ## 5. User Responsibility
-  By using Airfryer Rezepte App, you acknowledge and agree that you are solely responsible for all decisions made regarding your health, diet, nutrition, and
-   cooking practices. The information provided through our application should be used as a supplementary tool only and not as the sole basis for making
-  health-related or dietary decisions.
+Ingredient lists and diet labels (for example "vegan", "gluten free", "dairy free") may be incomplete or wrong, and they do not cover traces or cross-contamination. It is your responsibility to:
 
-  ## 6. Recipe Content
-  While we strive to provide tested and reliable recipes, individual results may vary. Factors affecting cooking outcomes include:
-  - Air fryer model variations
-  - Ingredient freshness and quality
-  - Environmental conditions
-  - User technique and experience level
+- read every ingredient of a recipe;
+- avoid foods that are harmful to you;
+- check for cross-contamination when you prepare and cook;
+- ask a doctor about your own dietary limits.
 
-  ## 7. Limitation of Liability
-  To the maximum extent permitted by applicable law, Airfryer Rezepte App and its developers, affiliates, partners, and licensors shall not be liable for any
-   direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use,
-  data, or other intangible losses resulting from the use of or inability to use the service.
+We are not responsible for allergic reactions, intolerances or other reactions to food.
 
-  ## 8. Changes to This Disclaimer
-  We reserve the right to modify this disclaimer at any time. Changes will be effective immediately upon posting. Your continued use of Airfryer Rezepte App
-  after any modification indicates your acceptance of these changes.
+## 4. Cooking safety
 
-  ## 9. Contact Us
-  If you have any questions about this Disclaimer, please contact us at support@nextline.software
+Air fryers get very hot and are electrical appliances. You are responsible for:
 
-  **Last Updated: January 28, 2026**
+- following the safety instructions of your air fryer's maker;
+- safe food handling and safe cooking temperatures;
+- checking that food is cooked through: times and temperatures differ between air fryer models.
+
+We are not responsible for injuries, damage or food-borne illness that come from following recipes or instructions in the App.
+
+## 5. Your responsibility
+
+You alone decide about your health, diet and cooking. Use the App as a help, not as the only basis for such decisions.
+
+## 6. Recipes
+
+We try to give reliable recipes, but results differ with the air fryer model, the ingredients, the conditions in your kitchen and your experience.
+
+## 7. Limitation of liability
+
+As far as the law allows, we are not liable for damages that come from using the App or from not being able to use it. Details are in Sections 11 and 12 of our [Terms & Conditions](https://github.com/boraaltinok/privacy-policy/blob/main/airfryer-rezepte-app-terms-conditions.md).
+
+## 8. Changes
+
+We may update this Disclaimer. The latest version is posted at the same address with a new "Last updated" date.
+
+## 9. Contact
+
+NEXTLINE YAZILIM LİMİTED ŞİRKETİ
+Email: [support@nextline.software](mailto:support@nextline.software)

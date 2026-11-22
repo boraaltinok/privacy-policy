@@ -1,187 +1,102 @@
-# Terms and Conditions for Airfryer Rezepte App
+# Terms and Conditions
 
-**Effective date: January 10, 2025**
+_Last updated: 22 November 2026_
 
-## 1. Acceptance of Terms
+These Terms and Conditions ("Terms") cover your use of the air fryer recipe app of NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("we", "us") on iPhone (App Store) and on Android (Google Play) (the "App"). On Google Play it is called "Fryly" (in English "Go-To Air Fryer Recipes: Fryly"). On the App Store its name differs by country and language, for example "Airfryer Rezepte App". It is the same app. By downloading or using the App you agree to these Terms. If you do not agree, do not use the App.
 
-These Terms and Conditions ("Terms", "Terms and Conditions") govern your relationship with Airfryer Rezepte App mobile application (the "Service") operated by NEXTLINE YAZILIM LİMİTED ŞİRKETİ ("us", "we", or "our").
+## 1. The App
 
-Please read these Terms and Conditions carefully before using our Airfryer Rezepte App mobile application (the "Service").
+The App is a collection of air fryer recipes with temperatures, times, ingredients, step-by-step instructions, estimated nutrition numbers, filters by category and diet, favourites, a cooking mode and a cooking-times cheat sheet. The App has no user account and no login.
 
-By accessing or using our Service, you agree to be bound by these Terms. If you disagree with any part of these terms, then you may not access the Service.
+## 2. Recipes, Nutrition and Safety
 
-## 2. Description of Service
+- **Estimates only.** Nutrition numbers are estimates. They change with brands, amounts and how you cook. They are not medical or dietary advice. Ask a doctor or dietitian about your own needs.
+- **Allergies.** Diet labels and filters (for example "vegan" or "gluten free") are a help, not a guarantee. Always read the full ingredient list yourself. We are not responsible for allergic reactions or intolerances.
+- **Cooking.** Air fryers differ. Times and temperatures are a starting point; check that food is cooked through. Follow your air fryer's manual and normal kitchen and food safety. You cook at your own risk.
 
-Airfryer Rezepte App is a mobile application that provides:
-- A comprehensive collection of airfryer recipes with detailed cooking instructions
-- Real-time recipe filtering by category, dietary preferences, and cooking specifications
-- Nutrition information and cooking guidance for healthy airfryer cooking
-- Step-by-step cooking mode with temperatures and timing
-- Recipe favorites and cooking history tracking
-- Multi-language support with German and English content
+More detail is in our [Disclaimer](https://github.com/boraaltinok/privacy-policy/blob/main/air-fryer-recipes-disclaimer.md).
 
-## 3. User Accounts and Authentication
+## 3. Licence
 
-### 3.1 Account Creation
-- Our Service uses anonymous authentication to provide personalized features
-- No personal registration information is required
-- User data is associated with anonymous device identifiers
+We give you a limited, personal, non-transferable licence to install and use the App on a device you own or control, for your own non-commercial use. The terms of the store you got it from also apply: on an Apple device the Apple Media Services Terms and Conditions (where these Terms and Apple's Licensed Application End User License Agreement conflict, Apple's terms apply as far as required); on an Android device the Google Play Terms of Service.
 
-### 3.2 Account Security
-- You are responsible for maintaining the security of your device
-- Any activity that occurs through your account is your responsibility
-- We recommend keeping your device secure and logging out of shared devices
+## 4. Your Data
 
-## 4. Subscription and Premium Features
-
-### 4.1 Subscription Plans
-Our Service offers the following subscription options:
-- **Weekly Plan**: €4.99 per week
-- **6-Month Plan**: €29.99 every 6 months
-- **Lifetime Plan**: €39.99 one-time payment
-
-### 4.2 Free Trial
-- New users receive a 7-day free trial of premium features
-- Trial period begins upon app installation and onboarding completion
-- Premium features include unlimited recipe access, offline storage, and advanced filtering
-
-### 4.3 Auto-Renewal
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period
-- Your account will be charged for renewal within 24 hours prior to the end of the current period
-- You can manage and cancel subscriptions in your device's App Store settings
-
-### 4.4 Refunds
-- Refund requests are handled according to App Store policies
-- Contact us at support@nextline.software for refund assistance
-- Refunds are generally not provided for partial subscription periods
+Your favourites and settings are stored on your phone and are deleted when you delete the App (your phone's own backup may keep a copy). Restoring a purchase brings back Premium, not your favourites. How we handle information is described in our [Privacy Policy](https://github.com/boraaltinok/privacy-policy/blob/main/airfryer-rezepte-app-privacy-policy.md).
 
 ## 5. Acceptable Use
 
-### 5.1 Permitted Use
-You may use our Service for:
-- Personal, non-commercial cooking and recipe guidance
-- Discovering and preparing airfryer recipes for personal consumption
-- Learning airfryer cooking techniques and nutrition information
+You agree not to:
 
-### 5.2 Prohibited Activities
-You may not:
-- Use the Service for any illegal or unauthorized purpose
-- Attempt to reverse engineer or extract recipe content for commercial use
-- Share premium content with non-subscribers
-- Use automated tools to access or download recipe content
-- Submit false or misleading information
-- Interfere with or disrupt the Service or servers
+- copy, resell or publish the recipes, pictures or other content of the App for commercial use;
+- use automated tools to download content from the App;
+- reverse-engineer the App or get around its purchase check, except where the law allows it;
+- use the App against any law.
 
-## 6. Intellectual Property Rights
+## 6. Premium: Purchases and Subscriptions
 
-### 6.1 Our Content
-- All recipe content, images, and instructional materials are owned by NEXTLINE YAZILIM LİMİTED ŞİRKETİ or licensed from third parties
-- You may use recipe content for personal cooking purposes only
-- Commercial use of our content is strictly prohibited without written permission
+The App is free to download. The recipes are part of **Premium**. In some countries or periods we may open the App without payment.
 
-### 6.2 User Content
-- You retain ownership of any personal notes or modifications you make to recipes
-- By using our Service, you grant us the right to store and process your usage data for service improvement
-- You may export your personal recipe favorites and notes at any time
+Premium is offered today as:
 
-### 6.3 Trademarks
-- "Airfryer Rezepte App" and related marks are trademarks of NEXTLINE YAZILIM LİMİTED ŞİRKETİ
-- You may not use our trademarks without prior written consent
+- **Monthly**: a subscription that renews every month.
+- **6 Months**: a subscription that renews every 6 months. New subscribers who are eligible get a **1-week free trial**. The store (Apple or Google Play) decides who is eligible.
+- **Lifetime**: one payment, no renewal.
 
-## 7. Privacy and Data Protection
+If you bought a plan that is no longer offered (for example a weekly or yearly plan), it keeps renewing at its own period until you cancel.
 
-Your privacy is important to us. Please review our Privacy Policy, which also governs your use of the Service, to understand our practices regarding:
-- Recipe usage tracking and personalization
-- Anonymous user data collection
-- Third-party service integration
-- Data retention and deletion rights
+- **Price.** The price in your currency is shown in the App before you buy; that price is the one that counts. Prices differ by country, may include taxes, and can differ between customers while we test a price.
+- **Payment.** Apple or Google charges your store account (Apple Account or Google account) when you confirm, or, with a free trial, when the trial ends. We never receive your card details.
+- **Free trial.** A free trial turns into a paid 6-month subscription when it ends, unless you cancel before it ends (on iPhone at least 24 hours before).
+- **Renewal.** A subscription renews for the same period at the price valid at that time, unless you cancel before the renewal date (on iPhone at least 24 hours before the period ends).
+- **How to cancel.** On iPhone: **Settings › [your name] › Subscriptions**. On Android: **Google Play › profile picture › Payments & subscriptions › Subscriptions**. Deleting the App does not cancel a subscription. After you cancel, Premium stays until the end of the period you paid for.
+- **Refunds.** For help with a refund, write to us at [support@nextline.software](mailto:support@nextline.software). On iPhone, Apple handles refunds: ask at [reportaproblem.apple.com](https://reportaproblem.apple.com). On Android you can ask Google Play (see [Google Play's refund page](https://support.google.com/googleplay/answer/2479637)) or write to us.
+- **Restore.** If you bought Premium before, tap **Restore Purchases** on the plan screen while signed in to the same store account.
+- **Changes.** We may change plans or prices for new purchases. A price change for a running subscription follows the store's rules, including any notice or consent the store requires.
 
-## 8. Service Availability and Modifications
+## 7. Internet Connection
 
-### 8.1 Service Availability
-- We strive to maintain Service availability but cannot guarantee uninterrupted access
-- Service may be temporarily unavailable due to maintenance, updates, or technical issues
-- Some features require internet connectivity and may not be available offline
+The App needs an internet connection to load recipes and pictures, to buy or restore Premium and to check your Premium status. We do not promise that it works without a connection. Your mobile provider may charge for data.
 
-### 8.2 Service Modifications
-- We reserve the right to modify or discontinue the Service at any time
-- We may update recipe content, add new features, or change pricing
-- Significant changes will be communicated through the app or our website
+## 8. Availability
 
-## 9. Disclaimers and Limitation of Liability
+We may change, pause or end the App or any part of it at any time, and we may add, change or remove recipes. We do not promise that the App is always available or free of errors.
 
-### 9.1 Recipe and Nutrition Disclaimers
-- Recipe instructions and nutrition information are provided for informational purposes only
-- Cooking results may vary based on equipment, ingredients, and technique
-- Always follow food safety guidelines and use your judgment when cooking
-- Nutrition information is estimated and may not be completely accurate
-- Consult healthcare professionals for specific dietary needs or restrictions
+## 9. Third-Party Services
 
-### 9.2 Limitation of Liability
-- THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE"
-- WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED
-- WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES
-- OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE SERVICE
+The App uses services of Apple, Google (Google Play, Firebase, Google Cloud), RevenueCat and, on iPhone only, Amplitude. Each works under its own terms:
 
-### 9.3 Cooking Safety
-- You assume all responsibility for cooking activities and food safety
-- Follow proper food handling and cooking temperature guidelines
-- Be aware of food allergies and dietary restrictions when preparing recipes
+- [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/)
+- [Google Play Terms of Service](https://play.google.com/about/play-terms/)
+- [Firebase Terms of Service](https://firebase.google.com/terms)
+- [RevenueCat Terms of Service](https://www.revenuecat.com/terms)
+- [Amplitude Terms of Service](https://amplitude.com/terms)
 
-## 10. Indemnification
+## 10. Intellectual Property
 
-You agree to defend, indemnify, and hold harmless NEXTLINE YAZILIM LİMİTED ŞİRKETİ and its officers, directors, employees, and agents from and against any claims, damages, obligations, losses, liabilities, costs, or debt arising from:
-- Your use of the Service
-- Your violation of these Terms
-- Your cooking activities based on our recipe content
-- Any third-party claims related to your use of the Service
+The App, with its code, design, texts, recipes and pictures, belongs to us or to those who licensed it to us. Apart from the licence in Section 3, you get no rights in it.
 
-## 11. Termination
+## 11. Disclaimer of Warranties
 
-### 11.1 Termination by You
-- You may stop using the Service at any time by uninstalling the app
-- Subscription cancellation must be done through your device's App Store settings
-- Your data will be retained according to our Privacy Policy
+The App is provided **"as is"** and **"as available"**, without any warranty, as far as the law allows. We do not promise that recipes, times, temperatures or nutrition numbers are correct, complete or right for you, or that a recipe will turn out as shown.
 
-### 11.2 Termination by Us
-We may terminate or suspend your access immediately, without prior notice, for:
-- Violation of these Terms
-- Fraudulent or illegal activity
-- Technical or security reasons
+## 12. Limitation of Liability
 
-## 12. Governing Law and Dispute Resolution
+As far as the law allows, we are not liable for indirect or consequential damages, or for injury, illness, allergic reactions, damage to equipment or lost data that come from using the App or cooking from it. Where liability cannot be excluded, it is limited to the amount you paid for the App in the twelve months before the claim. Nothing in these Terms limits liability that the law does not allow us to limit.
 
-### 12.1 Governing Law
-These Terms shall be interpreted and governed by the laws of Turkey, without regard to conflict of law provisions.
+## 13. Ending
 
-### 12.2 Dispute Resolution
-- Any disputes shall be resolved through binding arbitration in Turkey
-- You agree to resolve disputes individually, not as part of a class action
-- For EU users, this does not affect your rights under local consumer protection laws
+These Terms apply while you use the App. You can stop at any time by deleting the App (cancel a running subscription first, through Apple or Google Play). We may end your licence if you break these Terms.
 
-## 13. Contact Information and Support
+## 14. Changes to These Terms
 
-For questions about these Terms or technical support:
-- Email: support@nextline.software
-- Company: NEXTLINE YAZILIM LİMİTED ŞİRKETİ
-- Response time: We aim to respond within 48 hours
+We may update these Terms. The latest version is posted at the same address with a new "Last updated" date. If you keep using the App after a change, you accept the new Terms.
 
-## 14. Severability
+## 15. Governing Law
 
-If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+These Terms are governed by the laws of the Republic of Türkiye. Consumer-protection rights that the law of your own country gives you and that cannot be set aside are not affected.
 
-## 15. Changes to Terms
+## 16. Contact
 
-We reserve the right to update or change our Terms of Service at any time. We will notify you of any changes by:
-- Posting the new Terms of Service on this page
-- Updating the "effective date" at the top of these Terms
-- Providing in-app notification for material changes
-
-Your continued use of the Service after we post any modifications to the Terms constitutes acceptance of those changes.
-
----
-
-*These Terms and Conditions are effective as of January 10, 2025 and were last updated on January 10, 2025.*
-
-**Contact Us:**
-If you have any questions about these Terms and Conditions, please contact us at support@nextline.software.
+NEXTLINE YAZILIM LİMİTED ŞİRKETİ
+Email: [support@nextline.software](mailto:support@nextline.software)
